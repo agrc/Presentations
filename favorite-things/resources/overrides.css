@@ -1,0 +1,31 @@
+em {
+    color:#FF851B;
+}
+a {
+    background: none;
+    color: #7FDBFF;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+body {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-color: #111111;
+    color: #ddd;
+    text-align: center;
+}
+code {
+    color: #F012BE;
+}
+.no-pad {
+    padding: 0;
+}
+.left {
+    text-align: left;
+}
+.white-background {
+    background-color: #fff;
+}
