@@ -9,29 +9,32 @@ Come and see how AGRC wires these technologies together to enable rapid developm
 
 ### Outline
 
-bower
-- Do we even need this one? It's been around a while
-- Maybe just a quick mention as a set up for grunt-esri-slurp
-    - Wouldn't it be nice if we could bower install esri
+intro (Scott) | 1 min
+- Names and AGRC
+- outline of presentation?
 
-grunt-esri-slurp
+bower (Scott) | 2 min
+- We use bower to manage all of our front end dependencies
+- show deps for deq-enviro
+- Wouldn't it be nice if we could bower install esri?
+
+grunt-esri-slurp (Steve) | 5 min
+- As close as you can get to bower install esri
 - http://gis.utah.gov/grunt-esri-slurp/
 
-AMD Butler
+AMD Butler (Scott) | 5 min
 - show adding modules by hand
-- show sorting
-- show adding
-- show removing
+- sorting
+- adding
+- removing
 - highlight esri modules and how grunt-esri-slurp made this possible
 
-saucelabs
-- maybe we don't need this one?
-- could just mention it
-
-travis-ci
+travis-ci (Steve) | 4 min
 - show .travis.yml
 - performance tip: container based architecture
 - show how grunt-esri-slurp makes it possible to run tests and do a build
+- build status on PR pages to prevent the merging of bad PR's
+- mention saucelabs
 
-grunt-arcgis-press
-- will it be to a point that we can show it off?
+grunt-arcgis-press (Steve or Scott) | 3 min
+- preview
