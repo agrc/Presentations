@@ -1,0 +1,19 @@
+a {
+    background: none;
+    color: #34d0e7;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+body {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+code {
+    color: #ec5e34;
+}
+.no-pad {
+    padding: 0;
+}
