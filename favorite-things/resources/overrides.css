@@ -23,3 +23,6 @@ body {
 .left {
     text-align: left;
 }
+.white-background {
+    background-color: #fff;
+}
