@@ -16,6 +16,11 @@ The next best thing to being able to `bower install esri`.
 [Project page](https://github.com/steveoh/grunt-esri-slurp)  
 [Introductory blog post](http://gis.utah.gov/grunt-esri-slurp/)
 
+## Dojo Build System
+
+[Dojo Docs](http://dojotoolkit.org/reference-guide/build/)    
+Scott gave a [user presentation](http://geospatialscott.blogspot.com/2014/03/demystifying-dojo-build-system-2014-dev.html) on this during the 2014 Dev Summit.
+
 ## AMD Butler
 A [Sublime Text]() plugin that simplifies AMD module imports management.
 
