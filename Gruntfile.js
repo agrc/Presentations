@@ -15,10 +15,7 @@ module.exports = function(grunt) {
             uses_defaults: {}
         },
         'gh-pages': {
-            options: {
-                base: 'favorite-things'
-            },
-            src: ['**']
+            src: 'favorite-things/**'
         }
     });
 
