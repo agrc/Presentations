@@ -22,7 +22,7 @@ The next best thing to being able to `bower install esri`.
 Scott gave a [user presentation](http://geospatialscott.blogspot.com/2014/03/demystifying-dojo-build-system-2014-dev.html) on this during the 2014 Dev Summit.
 
 ## AMD Butler
-A [Sublime Text]() plugin that simplifies AMD module imports management.
+A [Sublime Text](http://www.sublimetext.com/3) plugin that simplifies AMD module imports management.
 
 [Project page](https://packagecontrol.io/packages/AMD%20Butler)
 
