@@ -41,6 +41,9 @@ A continuous integration service that tests and builds our projects automaticall
 
 [Sample `.travis.yml` file](https://github.com/agrc/AGRCJavaScriptProjectBoilerPlate/blob/master/.travis.yml) from an AGRC project.
 
+## Starter Project
+Want to see all of these tools in action? Check out our boilerplate project that we use to start all of our JS projects: [AGRCJavaScriptProjectBoilerPlate](https://github.com/agrc/AGRCJavaScriptProjectBoilerPlate).
+
 ## Other links
 [bower](http://bower.io/) - front end package manager  
 [npm](https://www.npmjs.com/) - node package manager  
