@@ -1,6 +1,7 @@
 /* global module:false */
 module.exports = function(grunt) {
 	var port = grunt.option('port') || 8000;
+	var host = grunt.option('host') || 'localhost';
 	// Project configuration
 	grunt.initConfig({
 		pkg: grunt.file.readJSON('package.json'),
@@ -97,7 +98,8 @@ module.exports = function(grunt) {
 					port: port,
 					base: '.',
                     livereload: true,
-                    open: true
+                    open: true,
+                    hostname: host
 				}
 			}
 		},
