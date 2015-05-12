@@ -15,7 +15,7 @@ module.exports = function(grunt) {
             uses_defaults: {}
         },
         'gh-pages': {
-            src: ['index.md',
+            src: ['index.html',
                   'favorite-things/**',
                   'web-application-options/**',
                   '!*/node_modules/**']
