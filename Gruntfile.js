@@ -18,7 +18,8 @@ module.exports = function(grunt) {
             src: ['index.html',
                   'favorite-things/**',
                   'web-application-options/**',
-                  '!*/node_modules/**']
+                  '!*/node_modules/**',
+                  '!/node_modules/**']
         }
     });
 
@@ -29,5 +30,5 @@ module.exports = function(grunt) {
 
     // Default task.
     grunt.registerTask('default', ['connect', 'watch']);
-    grunt.registerTask('publish', ['gh-pages'])
+    grunt.registerTask('publish', ['gh-pages-clean', 'gh-pages'])
 };
