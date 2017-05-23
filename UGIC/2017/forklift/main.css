@@ -1,0 +1,36 @@
+body {
+  background: #ddd;
+  color: #001f3f;
+}
+
+em {
+  font-style: normal;
+  color: #ff851b;
+}
+
+a {
+  background: #001f3f;
+  color: #ffdc00;
+}
+
+.center-bg .slide-container {
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.center .slide-container {
+  text-align: center;
+}
+
+.dotless {
+  list-style: none;
+}
+
+blockquote {
+  padding-left: 15px;
+  border-left: 15px solid #f012be;
+}
+
+.nobreak {
+  white-space:pre;
+}

@@ -1,0 +1,239 @@
+<!DOCTYPE html><html><head><title></title><meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /><style type='text/css'>
+body {
+  font-family: 'Helvetica';
+  letter-spacing:-3px;
+  background:#fff;
+  background-size:100%;
+  color:#000;
+  margin:0;
+  padding:0;
+  font-weight:bold;
+  text-align:center;
+}
+
+h1, h2, h3, p {
+  margin:0;
+}
+
+em, a {
+  font-style:normal;
+  color:#f012be;
+}
+
+a {
+  background: #34d0e7;
+  color:#000;
+  text-decoration:none;
+}
+
+img {
+  width:100%;
+}
+
+div {
+  cursor:pointer;
+  cursor:hand;
+  position:absolute;
+  top:0px;
+  left:0px;
+  padding:75px;
+  line-height:105%;
+}
+
+div.left {
+  text-align:left;
+}
+
+div.imageText {
+  text-shadow:0px 0px 10px rgba(0,0,0,.6);
+}
+
+div.imageText-invert {
+  text-shadow:0px 0px 30px rgba(255,255,255,1);
+}
+
+.fit-image {
+  width:30%;
+  height: 30%;
+}
+</style><script type='text/javascript'>
+window.onload = function() {
+    var s = document.getElementsByTagName('div'), cur = 0, ti;
+    if (!s) return;
+    function go(n) {
+        cur = n;
+        var i = 1e3, e = s[n], t;
+        for (var k = 0; k < s.length; k++) s[k].style.display = 'none';
+        e.style.display = 'inline';
+        e.style.fontSize = i + 'px';
+        if (e.firstChild.nodeName === 'IMG') {
+            document.body.style.backgroundImage = 'url(' + e.firstChild.src + ')';
+            e.firstChild.style.display = 'none';
+            if ('classList' in e) e.classList.add('imageText');
+        } else {
+            document.body.style.backgroundImage = '';
+            document.body.style.backgroundColor = e.style.backgroundColor;
+        }
+        if (ti !== undefined) window.clearInterval(ti);
+        t = parseInt(e.getAttribute('time-to-next') || 0, 10);
+        if (t > 0) ti = window.setTimeout(fwd, (t * 1000));
+        while (
+            e.offsetWidth > window.innerWidth ||
+            e.offsetHeight > window.innerHeight) {
+            e.style.fontSize = (i -= 2) + 'px';
+            if (i < 0) break;
+        }
+        e.style.marginTop = ((window.innerHeight - e.offsetHeight) / 2) + 'px';
+        if (window.location.hash !== n) window.location.hash = n;
+        document.title = e.textContent || e.innerText;
+    }
+    document.onclick = function() { go(++cur % (s.length)); };
+    function fwd() { go(Math.min(s.length - 1, ++cur)); }
+    function rev() { go(Math.max(0, --cur)); }
+    document.onkeydown = function(e) {
+        if (e.which === 39) fwd();
+        if (e.which === 37) rev();
+    };
+    document.ontouchstart = function(e) {
+        var x0 = e.changedTouches[0].pageX;
+        document.ontouchend = function(e) {
+            var x1 = e.changedTouches[0].pageX;
+            if (x1 - x0 < 0) fwd();
+            if (x1 - x0 > 0) rev();
+        };
+    };
+    function parse_hash() {
+        return Math.max(Math.min(
+            s.length - 1,
+            parseInt(window.location.hash.substring(1), 10)), 0);
+    }
+    if (window.location.hash) cur = parse_hash() || cur;
+    window.onhashchange = function() {
+        var c = parse_hash();
+        if (c !== cur) go(c);
+    };
+
+    go(cur);
+};
+</script>
+</head>
+<body>
+<div><em>Unlock your API key</em> Making AGRC data available through http</div>
+<div>Steve Gourley<img src='_agrc.jpg' /><em>@</em>steveAGRC</div>
+<div><p>Web Api's</p><img src="_api.png" class='fit-image'/><p><em>api</em>.mapserv.utah.gov</p></div>
+<div class="imageText"><img src="_explorer.png"/>api.mapserv.utah.gov</div>
+<div>Why?</div>
+<div>Because programmers are <em>lazy</em></div>
+<div>That's a <em>good</em> thing</div>
+<div><h2>Geocoding</h2><em>Is awesome</em>.</div>
+<div>Why?</div>
+<div>The <em>price</em> is right</div>
+<div><em>free</em><img src="_money.png" class="fit-image"/></div>
+<div><em>discrete</em> > searchy</div>
+<div>Address Grids!</div>
+<div><em>Someone</em> thinks <p>11398 South South River Heights Drive</p> is in <em>Sandy</em>?</div>
+<div>It is <em>not</em>.</div>
+<div>It's in South Jordan.</div>
+<div>It <em>doesn't matter</em>.</div>
+<div class="image-text"><img src="_place-grid.png"/><em>Sandy</em> and <em>South Jordan</em> are both in the <em>Salt Lake City address grid</em>.</div>
+<div class="imageText"><img src="_zip-grid.png"/>It works the <em>same</em> way with <em>zip codes</em></div>
+<div>and <em>place names</em></div>
+<div class="imageText"><img src="_placeNames.png"/>and <em>delivery points</em></div>
+<div>It's <em>kind of</em> like a composite locator</div>
+<div>We lean on <em>5</em> locators</div>
+<div><img src="_streets.png"/><em>4</em> locators use the <em>streets</em> data</div>
+<div>Why do we need <em>4</em> locators?</div>
+<div><p><em>Street Name</em></p>50 N Mario Capecchi Dr</div>
+<div><p><em>Alias</em></p>50 N Medical Dr​</div>
+<div><p><em>Alternate Alias</em></p>50 N Highway 282​​</div>
+<div><p><em>Address Coordinate System</em></p>50 N 1830 E​</div>
+<div class="imageText"><img src="_addresspoints.png"/>Address Points</div>
+<div>We have over a <em>million</em> of these.</div>
+<div>All of our data is <em>locally</em> sourced</div>
+<div><em>Strong</em> in <em>rural</em> areas</div>
+<div>You can <em>pick</em> which ones to use</div>
+<div>800+ test addresses</div>
+<div>Address Reversals</div>
+<div>700 South 231 East</div>
+<div>Address Truncations</div>
+<div><em>300s 200e</em> and <em>300 s 200 e</em> are not equal</div>
+<div>Spatial Reference</div>
+<div>Do you want <a href="http://resources.arcgis.com/en/help/main/10.1/018z/pdf/geographic_coordinate_systems.pdf">WGS 84</a> or <a href="http://resources.arcgis.com/en/help/main/10.1/018z/pdf/projected_coordinate_systems.pdf">Winkel Tripel NGS</a>?</div>
+<div>Formats</div>
+<div>esri js developer?</div>
+<div>We return the json to make an <em>esri/graphic</em></div>
+<div>We can give you <em>geoJson</em> also</div>
+<div>Suggestions</div>
+<div>Score</div>
+<div><em>Reverse</em> Geocoding</div>
+<div>Route and Milepost</div>
+<div><em>Reverse</em> Route and Milepost</div>
+<div>Any <em>quick</em> questions so far?</div>
+<div>I have <em>stickers</em> if you ask a question!</div>
+<div>The <em>SGID</em> has over <em>500</em> datasets</div>
+<div><em>Search</em> any feature class</div>
+<div>Get back <em>geometries</em> and <em>attributes</em></div>
+<div>Search with a <em>predicate</em></div>
+<div>or with a <em>geometry</em></div>
+<div>What feature class do I want</div>
+<div>ArcCatalog and the <a href="http://gis.utah.gov">gis portal</a> list the <em>SGID</em> features</div>
+<div><em>coders</em> use the api<p>/info/FeatureClassNames
+</p></div>
+<div>What <em>attributes</em> are important?</div>
+<div><em>coders</em> use the api<p>/info/FieldNames/:featureClass</p></div>
+<div><em>shape</em>@ and shape@<em>envelope</em></div>
+<div>geocoding an address is <em>cool</em>...</div>
+<div>then use the <em>search</em> api to figure out ...</div>
+<div>if you're in <em>black bear</em><img src="_bear.png" class='fit-image'/> habitat</div>
+<div>or <em>wildfire</em><img src="_fire.png" class='fit-image'/> perimiters</div>
+<div>You get the point.</div>
+<div>Chain requests to gather <em>useful</em> information</div>
+<div><em>Questions</em> about searching?</div>
+<div><p>Let's talk syntax</p><img src="_syntax.png"/></div>
+<div>http <em>verb</em><img src="_get.png"/> get and post</div>
+<div>URI format <img src="_url.png"/> <em>:required</em><img src='_required.png'/></div>
+<div><em>optional</em> params are appended to the <em>query string</em>. <img src='_optional.png'/></div>
+<div>blah/blah<em>? </em>optional=syntax<em> &</em>more=thanone</div>
+<div>This means you <em>can't</em> send certain URI <em>reserved</em> characters without encoding</div>
+<div>How can I get <em>started</em>?</div>
+<div><a href="http://developer.mapserv.utah.gov/StartupGuide">Getting Started Guide</a></div>
+<div><a href="http://developer.mapserv.utah.gov">developer.mapserv.utah.gov</a></div>
+<div><em>Register</em>. It's free</div>
+<div>Decide what <em>kind</em> of application</div>
+<div><em>Generate</em> an api key</div>
+<div>For server/desktop use</div>
+<div>Things that run on <em>your</em> computer or server</div>
+<div>python, c#, php, ruby, ...</div>
+<div>Use the <em>ip</em> address</div>
+<div>Do <em>not</em> use internal ip's or things that start with <em>192.</em></div>
+<div>If you <em>screw</em> this up, we will <em>help</em> you</div>
+<div>Browser Applications</div>
+<div>Are a little more <em>tricky</em></div>
+<div>They use regular expressions</div>
+<div class='imageText-invert'>We do this because your api key is <em>out</em> in the <em>open</em> on the internet<img src='_theif.png' class="fit-image"/></div>
+<div>http://mapserv.utah.gov/plss
+<p><em>mapserv.utah.gov/plss</em></p>
+<p><em>mapserv.utah.gov/plss/</em></p>
+<p><em>mapserv.utah.gov/plss/*</em></p></div>
+<div>http://atlas.utah.gov can have www.
+<p><em>*.atlas.utah.gov</em></p>
+<p><em>*.atlas.utah.gov/</em></p>
+<p><em>*.atlas.utah.gov/*</em></p></div>
+<div>Samples</div>
+<div class='imageText-invert'><img src="_samples.png"/><a href="https://github.com/agrc/GeocodingSample">Geocoding Samples</a></div>
+<div>C#</div>
+<div>JavaScript</div>
+<div>Python</div>
+<div>Ruby</div>
+<div>PHP</div>
+<div>Please send a pull request with <em>your</em> favorite language</div>
+<div>General Stuff</div>
+<div>No <em>limits</em> or throttling</div>
+<div><em>Yet</em></div>
+<div>Be <em>nice</em> and we won't have to</div>
+<div>Do <em>large</em> jobs during <em>off</em> hours</div>
+<div><p>Thanks</p><img src='_unlock.png' class='fit-image'/><p><em>Questions</em>, Comments, Discussions?</p></div>
+<div><p><em>steve gourley</em></p><img src='_unlock.png' class='fit-image'/><p>@steveAGRC</p> <p><em>gis</em>.utah.gov</p> <p><em>api</em>.mapserv.utah.gov</p> <p><em>developer</em>.mapserv.utah.gov</p><p>github.com/<em>steveoh</em></p><p>github.com/<em>agrc</em></p>
+</div>
+</body>
+</html>

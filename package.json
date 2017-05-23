@@ -1,18 +1,20 @@
 {
-  "name": "DevSummit",
+  "name": "agrc-presentations",
   "version": "1.0.0",
-  "description": "",
+  "description": "presentations that agrc employees have given",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/agrc/Presentations"
   },
   "keywords": [
-    "presentations"
+    "presentations",
+    "agrc",
+    "spatial",
+    "gis"
   ],
   "devDependencies": {
-    "grunt": "~0.4",
-    "grunt-contrib-connect": "^0.9",
-    "grunt-contrib-watch": "^0.6",
-    "grunt-gh-pages": "^0.10.0"
+    "grunt": "^1.0.1",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-watch": "^1.0.2"
   }
 }

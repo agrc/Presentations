@@ -1,0 +1,32 @@
+body {
+  background: #ddd;
+  color: #111;
+}
+
+em {
+  font-style: normal;
+  color: #85144b;
+}
+
+a {
+  background: #001f3f;
+  color: #ffdc00;
+}
+
+.center-bg .slide-container {
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.dotless {
+  list-style: none;
+}
+
+blockquote {
+  padding-left: 15px;
+  border-left: 15px solid #f012be;
+}
+
+.nobreak {
+  white-space:pre;
+}

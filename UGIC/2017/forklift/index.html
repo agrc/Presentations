@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset='utf-8'>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' />
+  <title>UGIC 201 - forklift</title>
+  <link href='big.css' rel='stylesheet' type='text/css' />
+  <link href='main.css' rel='stylesheet' type='text/css' />
+  <script src='big.js'></script>
+</head>
+<body>
+  <div data-bodyclass="center">🚜📦✨ forklift</div>
+  <div data-bodyclass="center">tl<em>;</em>dr</div>
+  <div>🐍 command line tool for keeping fgdb's in <em>sync</em> with their various <em>sources</em></div>
+  <div>arcgis server has <em>services</em></div>
+  <div>services point at <em>file</em> geodatabases</div>
+  <div>the problem: <em>synchronize</em> updates from the source</div>
+  <div>windows task <em>scheduler</em> and <em>arcpy</em></div>
+  <div><em>start</em> out with one <em>task</em></div>
+  <div>truncate <em>and</em> append new data</div>
+  <div>it's <em>slow</em></div>
+  <div>but everything is <em>good</em></div>
+  <div>start developing <em>more</em> apps</div>
+  <div>add <em>more</em> tasks</div>
+  <div>start <em>guessing</em> when to run each task based on how long the other one <em>usually</em> takes</div>
+  <div>start running into <em>problems</em>.<br>
+    tasks overlap or fail <em>silently</em>
+  </div>
+  <div>now what?</div>
+  <div>replication</div>
+  <div>kinda <em>complicated</em> and <em>requires</em> versioning and global ids</div>
+  <div>we are <em>not</em> setup for that</div>
+  <div>let's make yet <em>another</em> task scheduler</div>
+  <div>to <em>organize</em> and <em>orchestrate</em> all of our tasks into one process</div>
+  <div>we create <em>pallets</em></div>
+  <div>🚜 lifts, processes, and ships <em>pallets</em></div>
+  <div>pallets are a <em>unit of work</em> usually for a project</div>
+  <div>pallets consist of <em>crates</em></div>
+  <div>crates are individual <em>datasets</em></div>
+  <div>
+    <pre>class <em>Pallet</em>(object):</pre>
+    <pre>  def <em>build</em>(self, configuration='Production'):</pre>
+    <pre>      '''Invoked before process and ship.'''</pre>
+    <pre>  def <em>process</em>(self):</pre>
+    <pre>      '''Invoked if any crates have data updates.'''</pre>
+    <pre>  def <em>ship</em>(self):</pre>
+    <pre>      '''Invoked whether the crates have updates or not.'''</pre>
+    <pre>  def <em>post_copy_process</em>(self):</pre>
+    <pre>      '''Invoked after data has been copied only</pre>
+    <pre>         if any crates have data updates.'''</pre>
+  </div>
+  <div>
+    <pre>class <em>Crate</em>(object):</pre>
+    <pre>  #: the name of the source data table</pre>
+    <pre>  <em>self.source_name</em></pre>
+    <pre>  #: the name of the source database</pre>
+    <pre>  <em>self.source_workspace</em></pre>
+    <pre>  #: the name of the destination database</pre>
+    <pre>  <em>self.destination_workspace</em></pre>
+    <pre>  #: the name of the output data table</pre>
+    <pre>  <em>self.destination_name</em></pre>
+  </div>
+  <div>
+    <pre>{</pre>
+    <pre>  <em>'configuration'</em>: 'Production',</pre>
+    <pre>  <em>'warehouse'</em>: 'file system location',</pre>
+    <pre>  <em>'repositories'</em>: ['github repositories containing pallets'],</pre>
+    <pre>  <em>'copyDestinations'</em>: ['the place map services point for data'],</pre>
+    <pre>  <em>'stagingDestination'</em>: 'temp file system location',</pre>
+    <pre>  <em>'sendEmails'</em>: True,</pre>
+    <pre>  <em>'notify'</em>: ['sgourley@utah.gov']</pre>
+    <pre>}</pre>
+  </div>
+  <div>the 🚜 <em>lifecycle</em></div>
+  <div>windows task scheduler <em>starts</em> it all</div>
+  <div><blockquote>The first rule of 🚜 is it does not work on any sabbath.</blockquote></div>
+  <div>checkout/update all of the <em>repositories</em> from the config</div>
+  <div>find all of the <em>pallets</em> in the repositories</div>
+  <div>find all of the <em>crates</em> in the pallets</div>
+  <div>remove all of the <em>duplicate</em> crates</div>
+  <div>check the source data for <em>changes</em> for every crate</div>
+  <div>update/create data in <em>staging</em> location for every crate</div>
+  <div><em>stop</em> all arcgis services <em>dependent</em> on updated crates</div>
+  <div>make a copy of <em>production</em> data</div>
+  <div>copy updated <em>staging</em> data</div>
+  <div><em>remove</em> copy of production data</div>
+  <div><em>start</em> arcgis services</div>
+  <div>execute <em>post copy process</em> method on all <em>updated</em> pallets</div>
+  <div>execute <em>ship</em> method on all pallets</div>
+  <div>send an <em>email</em> with the results</div>
+  <div data-background-image="/images/report.png"></div>
+  <div data-bodyclass="center"><span class="nobreak">🎆 done 🎆</span></div>
+  <div data-bodyclass="center">
+    <p>🚜</p>
+    <p><a href="http://github.com/agrc/forklift">github.com/agrc/forklift</a></p>
+  </div>
+  <div data-time-to-next="5">Ask<span class="nobreak">🖐 Questions 🙋</span></div>
+  <div data-bodyclass="center-bg" data-time-to-next="3" data-background-image="/images/agrc.jpg"></div>
+  <div data-bodyclass="center-bg" data-time-to-next="3" data-background-image="/images/website.png"></div>
+  <div data-bodyclass="center"><small class="nobreak">Steve Gourley / <em>@steveAGRC</em> / <em>#steveoh</em> / AGRC</small>
+    <p>🚜</p>
+    <p><a href="http://github.com/agrc/forklift">github.com/agrc/forklift</a></p>
+    <small class="nobreak">https://github.com/steveoh/Presentations</small>
+  </div>
+</body>
+</html>
