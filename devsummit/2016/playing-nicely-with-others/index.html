@@ -1,0 +1,348 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+
+    <title>Playing Nicely with Others</title>
+
+    <meta name="description" content="Building Geospatial Components">
+    <meta name="author" content="Scott Davis">
+
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+
+    <link rel="stylesheet" href="css/reveal.css">
+    <link rel="stylesheet" href="css/theme/sky.css" id="theme">
+
+    <!-- Code syntax highlighting -->
+    <link rel="stylesheet" href="lib/css/zenburn.css">
+
+    <!-- my custom styling -->
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- Printing and PDF exports -->
+    <script>
+        var link = document.createElement( 'link' );
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+        document.getElementsByTagName( 'head' )[0].appendChild( link );
+    </script>
+
+    <!--[if lt IE 9]>
+    <script src="lib/js/html5shiv.js"></script>
+    <![endif]-->
+</head>
+<body>
+<a class="flickr-cite flickr-fence" href='https://flic.kr/p/bEHXkf' target='_blank'>Kate Bunker via flickr</a>
+<div class="reveal">
+
+
+<div class="slides">
+
+
+<section data-markdown>
+    <script type='text/template'>
+        ## How to Play Nicely with Others
+        #### Building Geospatial Components
+        Scott Davis, [Utah AGRC](https://gis.utah.gov) | [@SThomasDavis](https://twitter.com/sthomasdavis)
+
+        Slides: [stdavis.github.io/playing-nicely-with-others](http://stdavis.github.io/playing-nicely-with-others)
+    </script>
+</section>
+
+<section data-background='images/kids.jpg'>
+
+    <aside class="notes">
+        Story about learning to play nicely.
+        Geospatial dev's tend to have a nitch that's applicable in a wide variety of areas.
+    </aside>
+</section>
+
+<section data-markdown>
+    <script type='text/template'>
+        ## Principles
+        - consistency
+        - respect
+        - introspection
+
+        Note:
+        - components should work the same way every time and all should work
+        in a similar manner
+        - respect other's time and energy by **reducing friction** for using
+        your components
+        - take a look at your component from the point of view of your client
+        is it easy to use? Intuitive?
+    </script>
+</section>
+
+<section data-markdown>
+    <script type='text/template'>
+        ## Tradition Project
+        - soup to nuts
+        - complete control
+
+        Note:
+        Ground up. JS, map services and custom services. Build -> test -> ship.
+        Release cycle and server maintenance.
+    </script>
+</section>
+
+<section data-markdown class='large-strong'>
+    <script type='text/template'>
+        > Does what I am working on right now have **anything** to do with GIS?
+
+        Note:
+        - WRI refresh. v1 we did everything. v2 only map pages and geographic database work
+    </script>
+</section>
+
+<section data-markdown class='large-strong'>
+    <script type='text/template'>
+        >Leave the non-geospatial stuff to traditional programmers. They are likely
+        **better at it** than you are.
+        >
+        >-- <cite>Scott Davis (super-smart person)</cite>
+    </script>
+</section>
+
+<section data-background='images/fence.jpg' data-state='show-flickr-cite'>
+    <aside class="notes">
+        Lest any of you acuse me of "geo-fencing" myself into a GIS programming bubble.
+        Story about Steve opening my mind to non-geospatial programming.
+    </aside>
+</section>
+
+<section data-markdown class='large-strong'>
+    <script type='text/template'>
+        > Does what I am working on right now have **anything** to do with GIS?
+
+        Note:
+        Remember this. More than 50% of the time then you may want to take a look at building components instead of full apps.
+    </script>
+</section>
+
+<section data-markdown>
+    <script type='text/template'>
+        # Examples
+    </script>
+</section>
+
+<section data-markdown>
+    <script type='text/template'>
+        ## ArcGIS Server Web Services
+        - Map Services
+        - Query
+        - GP Tasks
+        - SOE's/SOI's
+        - Beware of keeping your services directory public!
+        [ArcGIS Rest API Docs](http://mapserv.utah.gov/arcgis/sdk/rest/index.html#/Query_Map_Service_Layer/02ss0000000r000000/)
+
+        Note:
+        - only make public services public
+        - AGS services are pretty easy to interact with outside of an ESRI api.
+    </script>
+</section>
+
+<section data-markdown>
+    <script type='text/template'>
+        ## Custom WebApi
+        [api.mapserv.utah.gov](https://api.mapserv.utah.gov)
+        - Custom Geocoding
+        - Easy access to the State Geographic Information Database (SGID)
+
+        Note:
+        - when gp or SOE's get out of hand or heavy
+        - impetus was a push within the state for services and making SGID data accessible
+        demo
+        - api.mapserv.utah.gov search example with data already filled in
+            - SGID10.Boundaries.Counties
+            - NAME,shape@
+            - NAME LIKE 'SAN%'
+            - 3857
+    </script>
+</section>
+
+<section data-markdown>
+    <script type='text/template'>
+        ## Embedded Map View
+        - web app embedded within .NET desktop application
+            - developers access hidden for elements
+        - hard to debug
+        ![vista](images/vista.jpg)
+
+        Note:
+        - try not to be distracted by the 1980's look of the app
+        - principle of embedded web view within .NET app
+        - .NET app can read contents of some hidden form elements within the web app
+    </script>
+</section>
+
+<section data-markdown>
+    <script type='text/template'>
+        ## Widgets
+        - Dojo-specific
+        - huge internal benefit
+
+        [demo](https://mapserv.utah.gov/surfacewaterquality)
+
+        Note:
+        if you are already loading the esri js api, then Dojo is a no-brainer
+
+        demo
+        surfacewaterquality
+
+        layer-selector
+        sherlock
+    </script>
+</section>
+
+<section data-markdown>
+    <script type='text/template'>
+        ## layer-selector
+        [agrc-widgets/layer-selector](https://github.com/agrc-widgets/layer-selector)
+        ```javascript
+        var layerSelector = new LayerSelector({
+            map: map,
+            quadWord: '<your google imagery quad word>',
+            baseLayers: ['Hybrid', {token: 'Lite', selected: true}, 'Terrain'],
+            overlays: ['Overlay']
+        });
+        layerSelector.startup();
+        ```
+    </script>
+</section>
+
+<section data-markdown>
+    <script type='text/template'>
+        ## sherlock
+        [agrc-widgets/sherlock](https://github.com/agrc-widgets/sherlock)
+        ```javascript
+        var countiesProvider = new WebAPI(
+            '<your api key>',
+            'SGID10.Boundaries.Counties',
+            'NAME'
+        );
+        var sherlock = new Sherlock({
+            provider: countiesProvider,
+            map: map
+        }, 'search-div');
+        sherlock.startup();
+        ```
+        <!-- jsbin? -->
+    </script>
+</section>
+
+<section data-markdown>
+    <script type='text/template'>
+        ##[agrc/agrc.widgets](https://github.com/agrc/agrc.widgets)
+    </script>
+</section>
+
+<section data-markdown>
+    <script type='text/template'>
+        ## URL-configurable Apps
+
+        pass configuration options via URL
+
+        [mapserv.utah.gov/parcels](http://mapserv.utah.gov/parcels)
+
+        [mapserv.utah.gov/parcels/#/Beaver](http://mapserv.utah.gov/parcels/#/Beaver)
+    </script>
+</section>
+
+<section data-markdown>
+    <script type='text/template'>
+        ## Apps as widgets
+        [AGRC JS Boilerplate](https://github.com/agrc/AGRCJavaScriptProjectBoilerPlate/blob/master/src/index.html)
+    </script>
+</section>
+
+<section>
+    <!-- this slide doesn't like markdown -->
+    <a href='http://elections.utah.gov/map/district-maps'>elections map</a>
+    <pre><code data-trim>
+<div id="agrc-map">
+    <div style="left: 21%; position: relative;"></div>
+</div>
+<script type="text/javascript" src="http://mapserv.utah.gov/voter/js/agrc_map.js"></script>
+    </code></pre>
+
+        <aside class="notes">
+            all code is on our servers for easy maintenance
+            easy for their developers to implement
+        </aside>
+</section>
+
+<section data-markdown data-background='images/wri.png'>
+    <script type='text/template'>
+        Note:
+        One of the first large projects that we did. Big rush.
+        V2 - We just don't need all of that stress.
+        Were does AGRC development fit? Management chunks of work rather than sucking all of our resources for a year.
+        Smaller projects allow for more diversity.
+    </script>
+</section>
+
+<section data-markdown>
+    <script type='text/template'>
+        ## Considerations
+        - version control integration
+        - build schedule
+    </script>
+</section>
+
+<section data-markdown class='large-strong'>
+    <script type='text/template'>
+        > Does what I am working on right now have **anything** to do with GIS?
+
+        > Am I **excited** about what I'm working on right now?
+    </script>
+</section>
+
+<section data-markdown class='no-bullets'>
+    <script type='text/template'>
+        ## Thanks!
+        Scott Davis, Utah AGRC
+
+        - [@SThomasDavis](https://twitter.com/SThomasDavis)
+        - <mailto:stdavis@utah.gov>
+        - Slides: [stdavis.github.io/playing-nicely-with-others](http://stdavis.github.io/playing-nicely-with-others)
+    </script>
+</section>
+
+<!-- END SLIDE SHOW -->
+
+</div>
+</div>
+
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.js"></script>
+<script>
+    Reveal.initialize({
+        controls: false,
+        history: true,
+        transition: 'fade',
+
+        dependencies: [
+            { src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+            { src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+            { src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+            { src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+            { src: 'plugin/zoom-js/zoom.js', async: true },
+            { src: 'plugin/notes/notes.js', async: true }
+        ]
+    });
+    // make sure that all links open a new tab
+    Reveal.addEventListener('ready', function () {
+        var anchors = document.getElementsByTagName('a');
+        console.log(anchors);
+        for (var i = 0; i < anchors.length; i++) {
+            anchors[i].target = '_blank';
+        }
+    });
+</script>
+</body>
+</html>

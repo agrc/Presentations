@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=1024" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <title>Utah Wildlife-Vehicle Collision Reporting System</title>
+
+    <link rel='stylesheet' href='css/highlight.css'/>
+    <link rel='stylesheet' href='css/impress.css'/>
+    <link rel='stylesheet' href='css/core.css'/>
+</head>
+<body>
+<div id='impress' class='impress-not-supported'>
+    <div class="fallback-message">
+        <p>Your browser <b>doesn't support the features required</b> by impress.js, so you are presented with a simplified version of this presentation.</p>
+        <p>For the best experience please use the latest <b>Chrome</b>, <b>Safari</b> or <b>Firefox</b> browser. Upcoming version 10 of Internet Explorer <i>should</i> also handle it.</p>
+    </div>
+    <div id='title' class='step slide' data-x='-11000' data-y='0' data-scale='4'>
+        <h1>Utah's Wildlife-Vehicle Collision Reporting System</h1>
+        <div class='footer'>Scott Davis, Utah AGRC</div>
+    </div>
+    <div class='step slide' data-x='-7000' data-y='0' data-scale='4'>
+        <h1>Bio</h1>
+        <ul>
+            <li><a href='http://gis.utah.gov'>Utah AGRC</a></li>
+            <li>JavaScript 3-4 years</li>
+            <li>Self-taught</li>
+        </ul>
+        <br><br>
+        <h2>Other Projects</h2>
+        <ul>
+            <li><a href='http://www.utah.gov/broadband/map.html'>Utah Broadband Map</a></li>
+            <li><a href='http://elections.utah.gov/map/district-maps'>Voting Districts</a></li>
+            <li><a href='http://mapserv.utah.gov/ntsip/'>Utah National Toxic Substance Incidents Program (NTSIP)</a></li>
+        </ul>
+    </div>
+    <div id='overview' class="step" data-x="4000" data-y="0" data-scale="16">
+        <span id='objectives'>Objectives</span><br>
+        <span id='project-intro'>Project Intro</span><br>
+        <span id='mobile'>Mobile</span><br>
+        <span id='desktop'>Desktop</span><br>
+    </div>
+    
+    <!-- OBJECTIVES -->
+    <div id='overview-ob' class="step" data-x="4000" data-y="0" data-scale="16"></div>
+    <div class='step' data-x='7500' data-y='-5000' data-rotate='-90' data-scale='4'>
+        <ul>
+            <li><img src='images/light_bulb.png'> Lessons Learned</li>
+        </ul>
+    </div>
+    <div class='step' data-x='7740' data-y='-5000' data-rotate='-90' data-scale='4'>
+        <ul>
+            <li><img src='images/tools.png'> Techolongy Stack</li>
+        </ul>
+    </div>
+    <div class='step' data-x='9190' data-y='-5000' data-rotate='-90' data-scale='4'>
+        <ul>
+            <li>Inspire (David & Goliath)</li>
+        </ul>
+        <blockquote style='margin-left: 200px;'>"I can do anything."</blockquote>
+        <img src='images/davidgoliath.jpg' style='margin-left: 216px;'>
+    </div>
+
+    <!-- PROJECT INTRO -->
+    <div id='overview-pi' class="step" data-x="4000" data-y="0" data-scale="16"></div>
+    <div id='why' class='step' data-x='9400' data-y='-1600' data-rotate='-90' data-scale='3'>
+        <h1>Why All This Fuss About Roadkill?</h1>
+    </div>
+    <div class='step' data-x='9800' data-y='-540' data-rotate='-90' data-scale='1'>
+        <h1>Citizen and Wildlife Projection</h1>
+    </div>
+    <div id='mitigation' class='step' data-x='9800' data-y='-1600' data-rotate='-90' data-scale='1'>
+        <h1>Mitigation Planning</h1>
+        <img src="images/Buck.jpg" style='float: left;'>
+        <img src="images/Cougar2.jpg" style='margin-left: 20px;'>
+        <img src='images/Moose.jpg' style='margin-left: 20px;'>
+        <p>Photos &copy P.Cramer USU, UDWR, UDOT</p>
+    </div>
+    <div id='health' class='step' data-x='9800' data-y='-2625' data-rotate='-90' data-scale='1'>
+        <h1>Herd Health Tracking</h1>
+        <p>(Xyphoid Fat Measurement)</p>
+    </div>
+    <div class='step slide' data-x='12000' data-y='-1600' data-rotate='-90' data-scale='3'>
+        <img class='centered-img' src="images/paperreport.png">
+    </div>
+    <div class='step' data-x='14500' data-y='-1600' data-rotate='-90' data-scale='3'>
+        <img class='slide-image' src='images/danslide1.png'>
+    </div>
+    <div class='step' data-x='17000' data-y='-1600' data-rotate='-90' data-scale='3'>
+        <img class='slide-image' src='images/danslide2.png'>
+    </div>
+    <div class='step' data-x='19500' data-y='-1600' data-rotate='-90' data-scale='3'>
+        <img class='slide-image' src='images/danslide3.png'>
+    </div>
+    <div id='projectname' class='step' data-x='22500' data-y='-1600' data-scale='3'>
+        <h1>Roadkill Reporter</h1>
+        <h1>vs.</h1>
+        <h1>Wildlife-Vehicle Collision Reporter</h1>
+        <p class='centered-txt'>
+            <img src='images/light_bulb.png'>Nail down a project name before you begin!
+        </p>
+    </div>
+
+    <!-- MOBILE -->
+    <div id='overview-m' class='step' data-x='4000' data-y='0' data-scale='16'></div>
+    <div id='app-type' class='step pro-con-overview' data-x='5500' data-y='1450' data-scale='4'>
+        <div class='header'>
+           <span>Application Type?</span> <span class='pro'>Pro's</span> <span>vs.</span> <span class='con'>Con's</span>
+        </div>
+        <span id='native'>Native</span><br>
+        <br>
+        <span id='web'>Web</span><br>
+        <br>
+        <span id='hybrid'>Hybrid</span>
+        <div class='footnote'>
+            <a href='http://buildmobile.com/native-hybrid-or-web-apps/' target="_blank">*BuildMobile Article</a>
+        </div>
+    </div>
+
+    <!-- NATIVE -->
+    <div id='app-type-overview-native' class='step' data-x='5500' data-y='1450' data-scale='4'></div>
+    <div class='step' data-x='4900' data-y='1000' data-rotate='-90' data-scale='1'>
+        <div class='pro-con pro'>Performance & Stability</div>
+    </div>
+    <div class='step' data-x='5100' data-y='1000' data-rotate='-90' data-scale='1'>
+        <div class='pro-con pro'>Easy Access to Device Hardware</div>
+    </div>
+    <div class='step' data-x='5337' data-y='1000' data-rotate='-90' data-scale='1'>
+        <div class='pro-con con'>
+            <img src='images/light_bulb.png'>Enterprise Distribution is a Pain
+        </div>
+    </div>
+    <div class='step' data-x='5610' data-y='1000' data-rotate='-90' data-scale='1'>
+        <div class='pro-con con'>Platform-specific Development Environment</div>
+    </div>
+    <div class='step' data-x='5810' data-y='1000' data-rotate='-90' data-scale='1'>
+        <div class='pro-con con'>Slow Updates</div>
+    </div>
+    <div class='step' data-x='6010' data-y='1000' data-rotate='-90' data-scale='1'>
+        <div class='pro-con'>
+            Examples:<br>
+            <a href='http://wunderlist.com'>wunderlist.com</a><br>
+            <a href='http://www.rovio.com/en/our-work/games/view/1/angry-birds'>Angry Birds</a>
+        </div>
+    </div>
+
+    <!-- WEB -->
+    <div id='app-type-overview-web' class='step' data-x='5500' data-y='1450' data-scale='4'></div>
+    <div class='step web-step' data-x='4900' data-y='1709' data-rotate='-90' data-scale='1'>
+        <div class='pro-con pro'>Single Codebase on All Devices</div>
+    </div>
+    <div class='step web-step' data-x='5100' data-y='1709' data-rotate='-90' data-scale='1'>
+        <div class='pro-con pro'>Re-use Existing Web Skills</div>
+    </div>
+    <div class='step web-step' data-x='5300' data-y='1709' data-rotate='-90' data-scale='1'>
+        <div class='pro-con pro'>Instant Install & Updates</div>
+    </div>
+    <div class='step web-step' data-x='5464' data-y='1709' data-rotate='-90' data-scale='1'>
+        <div class='pro-con con'>Limited OS Access</div>
+    </div>
+    <div class='step web-step' data-x='5664' data-y='1709' data-rotate='-90' data-scale='1'>
+        <div class='pro-con'>
+            Examples:<br>
+            <a href='http://mail.google.com'>mail.google.com</a><br>
+            <a href='http://twitter.com'>twitter.com</a>
+        </div>
+    </div>
+
+    <!-- HYBRID -->
+    <div id='app-type-overview-hybrid' class='step' data-x='5500' data-y='1450' data-scale='4'></div>
+    <div class='step' data-x='4900' data-y='2418' data-rotate='-90' data-scale='1'>
+        <div class='pro-con pro'>Single Codebase & App Store</div>
+    </div>
+    <div class='step' data-x='5064' data-y='2418' data-rotate='-90' data-scale='1'>
+        <div class='pro-con pro'>Better OS Access</div>
+    </div>
+    <div class='step' data-x='5228' data-y='2418' data-rotate='-90' data-scale='1'>
+        <div class='pro-con con'>Distribution & Updates</div>
+    </div>
+    <div class='step' data-x='5458' data-y='2418' data-rotate='-90' data-scale='1'>
+        <div class='pro-con'>
+            Examples:<br>
+            <img src='images/tools.png'> <a href='http://phonegap.com/apps'>Phonegap</a>
+            <a href='http://www.readwriteweb.com/mobile/2011/09/how-facebook-mobile-was-design.php'>Facebook</a>
+        </div>
+    </div>
+
+    <div id='app-type-overview-web-highlight' class='step' data-x='5500' data-y='1450' data-scale='4'>
+        <div id='web-highlight'></div>
+    </div>
+
+    <!-- UI FRAMEWORK -->
+    <div id='framework' class='step pro-con-overview' data-x='9500' data-y='1450' data-scale='4'>
+        <div class='header'>
+           <span>UI Framework?</span> <span class='pro'>Pro's</span> <span>vs.</span> <span class='con'>Con's</span>
+        </div>
+        <span id='dojo'><img src='images/tools.png'> 
+            <a href='http://dojotoolkit.org/features/mobile'>Dojo Mobile</a>
+        </span><br>
+        <br>
+        <span id='jquery'><img src='images/tools.png'> 
+            <a href='http://jquerymobile.com/'>jQuery Mobile</a>
+        </span><br>
+    </div>
+
+    <!-- DOJO MOBILE -->
+    <div id='framework-overview-dojo' class='step' data-x='9500' data-y='1450' data-scale='4'></div>
+    <div class='step' data-x='9600' data-y='995' data-rotate='-90' data-scale='1'>
+        <div class='pro-con pro'>It's Dojo!</div>
+    </div>
+    <div class='step' data-x='9728' data-y='995' data-rotate='-90' data-scale='1'>
+        <div class='pro-con pro'>Native Look & Feel</div>
+    </div>
+    <div class='step' data-x='9856' data-y='995' data-rotate='-90' data-scale='1'>
+        <div class='pro-con pro'>Phonegap Ready</div>
+    </div>
+    <div class='step' data-x='10020' data-y='995' data-rotate='-90' data-scale='1'>
+        <div class='pro-con con'>Wasn't Mature in 2011 (dojo 1.6)</div>
+    </div>
+
+    <!-- JQUERY MOBILE -->
+    <div id='framework-overview-jquery' class='step' data-x='9500' data-y='1450' data-scale='4'></div>
+    <div class='step jquery-step' data-x='9600' data-y='1710' data-rotate='-90' data-scale='1'>
+        <div class='pro-con pro'>Momentum & Maturity</div>
+    </div>
+    <div class='step jquery-step' data-x='9764' data-y='1710' data-rotate='-90' data-scale='1'>
+        <div class='pro-con pro'>Simple</div>
+    </div>
+    <div class='step jquery-step' data-x='9892' data-y='1710' data-rotate='-90' data-scale='1'>
+        <div class='pro-con con'>jQuery</div>
+    </div>
+
+    <div id='framework-overview-jquery-highlight' class='step' data-x='9500' data-y='1450' data-scale='4'>
+        <div id='jquery-highlight'></div>
+    </div>
+
+    <div id='jquery-sample' class='step' data-x='13500' data-y='1450' data-scale='4'>
+        <a class='no-padding' href='examples/jquerymobile.html'>
+            <pre><code class='xml, smaller-code'>
+                &lt;!DOCTYPE html&gt;
+                &lt;html&gt;
+                    &lt;head&gt;
+                        &lt;link rel="stylesheet" href="http://code.jquery.com/mobile/1.0.1/jquery.mobile-1.0.1.min.css" /&gt;
+                        &lt;script src="http://code.jquery.com/jquery-1.6.4.min.js"&gt;&lt;/script&gt;
+                        &lt;script src="http://code.jquery.com/mobile/1.0.1/jquery.mobile-1.0.1.min.js"&gt;&lt;/script&gt;
+                    &lt;/head&gt;
+                    &lt;body&gt;
+                        &lt;div data-role='page'&gt;
+                            &lt;div data-role='header'&gt;
+                                &lt;h1&gt;jQuery Mobile Example&lt;/h1&gt;
+                            &lt;/div&gt;
+                            &lt;div data-role='content'&gt;
+                                &lt;h2&gt;Button&lt;/h2&gt;
+                                &lt;button&gt;Demo Button&lt;/button&gt;
+                                &lt;h2&gt;Text Box&lt;/h2&gt;
+                                &lt;input type='text'/&gt;
+                                &lt;h2&gt;Select&lt;/h2&gt;
+                                &lt;select data-native-menu='false'&gt;
+                                    &lt;option value='1'&gt;please select an option&lt;/option&gt;
+                                    &lt;option value='2'&gt;option 1&lt;/option&gt;
+                                    &lt;option value='3'&gt;option 2&lt;/option&gt;
+                                    &lt;option value='4'&gt;option 3&lt;/option&gt;
+                                &lt;/select&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/body&gt;
+                &lt;/html&gt;
+            </code></pre>
+        </a>
+    </div>
+
+    <div class='step' data-x='17500' data-y='1450' data-scale='4'>
+        <h1>Drum Roll Please...</h1>
+    </div>
+
+    <div id='geolocation' class='step' data-x='21500' data-y='1450' data-scale='4'>
+        <h1>HTML5 Geolocation API</h1>
+
+        <pre><code>
+            var timerid = navigator.geolocation.watchPosition(function(pos){
+                that.processPosition(pos);
+            }, function(er) {
+                ...
+                navigator.geolocation.clearWatch(timerid);
+                navigator.geolocation.watchPosition(function(pos){
+                    that.processPosition(pos);
+                }, function(er){...},
+                {timeout: 10000, enableHighAccuracy: false});
+            }, {
+                enableHighAccuracy: true
+            });
+        </code></pre>
+
+        <p class='smaller'>
+            <img src='images/light_bulb.png'> Use watchPosition() instead of getCurrentPosition() for higher accuracy.
+        </p>  
+
+        <div class='footnote'>
+            <a href='http://html5doctor.com/finding-your-position-with-geolocation/'>HTML5 Doctor</a>
+        </div>
+    </div>
+
+    <div id='accuracy' class='step' data-x='25500' data-y='1450' data-scale='4'>
+        <img class='slide-image' src='images/accuracy.jpg'/>
+    </div>
+
+    <div id='offline' class='step' data-x='29500' data-y='1450' data-scale='4'>
+        <h1>Offline/Cache Manifest</h1>
+        <pre><code>
+            &lt;html manifest="roadkill.appcache"&gt;
+        </code></pre>
+        <p class='smaller'>
+            <img src='images/light_bulb.png'>Increment version number in manifest file.<br>
+            <img src='images/light_bulb.png'>Don't bother with it during active development.</br>
+        </p>
+        <div class='pro-con pro'>Performance</div>
+        <div class='footnote'>
+            <a href='http://www.html5rocks.com/en/tutorials/appcache/beginner/'>HTML5 Rocks Article</a>
+        </div>
+    </div>
+
+    <div id='cache-manifest' class='step' data-x='33500' data-y='1450' data-scale='4'>
+        roadkill.appcache
+        <pre><code class='smaller-code'>
+            CACHE MANIFEST
+
+            # Version: 77
+
+            CACHE:
+            css/core.css
+            css/images/ajax-loader.png
+            css/images/icons-18-white.png
+            css/images/icons-18-black.png
+            css/images/icons-36-white.png
+            css/images/icons-36-black.png
+            css/jquery.mobile-1.0.min.css
+
+            images/icon.png
+            images/splash.png
+
+            dojo.js
+            roadkill_en-us.js
+            roadkill.js
+
+            index.html
+
+            NETWORK:
+            *
+        </code></pre>
+    </div>
+
+    <div class='step' data-x='37500' data-y='1450' data-scale='4'>
+        <img src='images/offline.png'>
+        <div style='float: right; width: 330px;'>
+            <a href='http://diveintohtml5.info/detect.html#storage'>LocalStorage</a>
+             used to store reports offline for later submission to server.
+        </div>
+    </div>
+
+    <div id='weinre' class='step' data-x='41500' data-y='1450' data-scale='4'>
+        <img src='images/tools.png'> 
+        <a href='http://phonegap.github.com/weinre/'>Web Inspector Remote (Weinre)</a>
+        <ul class='smaller'>
+            <li>Allowed me to debug my client's phone from 90 miles away.</li>
+            <li>Allowed me to debug my own phone from a few feet away.</li>
+        </ul>
+    </div>
+
+    <!-- DESKTOP -->
+    <div id='overview-d' class='step' data-x='4000' data-y='0' data-scale='16'></div>
+    <div class='step' data-x='6600' data-y='4500' data-scale='4'>
+        <ul>
+            <li>Viewer</li>
+            <li>Manual Report Entry</li>
+            <li>Filter & Download Data</li>
+        </ul>
+    </div>
+
+    <div class='step' data-x='10600' data-y='4500' data-scale='4'>
+        <img src='images/tools.png'>
+        <a href='http://twitter.github.com/bootstrap/'>Twitter's Bootstrap</a>
+        <p class='smaller'>
+            <img src='images/light_bulb.png'>
+             Be careful with css collisions with ESRI's JavaScript API.
+        </p>
+        <pre><code>
+            input, textarea {
+              -webkit-transform-style: preserve-3d;
+            }
+            .btn {
+              -webkit-transform-style: preserve-3d;
+            }
+        </code></pre>
+    </div>
+
+    <div class='step' data-x='14600' data-y='4500' data-scale='4'>
+        <h1>Drum Roll Please...</h1>
+        <div class='centered-txt'>
+            <a href='http://test.mapserv.utah.gov/roadkill/desktop/' target='_blank'>Desktop App</a>
+        </div>
+    </div>
+
+    <div class='step' data-x='18600' data-y='4500' data-scale='4'>
+        <img src='images/tools.png'>
+        <a href='http://geochalkboard.wordpress.com/2010/09/09/clustering-with-the-arcgis-server-javascript-api/'>ClusterLayer from globoserv</a>
+        <img id='cluster-pic' class='picture' src='images/clustering.png'>
+    </div>
+
+    <div class='step' data-x='22600' data-y='4500' data-scale='4'>
+        <h1>Python GP Web Services</h1>
+        <div class='smaller'>
+            <img src='images/light_bulb.png'> Pass in <u>all</u> parameters; pass "" for optional params.
+            <br>
+            <img src='images/light_bulb.png'> Make sure to specify a scheme (in ArcCatalog) for all input parameters of type FeatureSet.
+        </div>
+        <pre><code class='python smaller-code'>
+            import arcpy
+
+            '''
+            GP Parameters
+            0 - route
+            1 - fromMP
+            2 - toMP
+            3 - outSegment - FeatureSet
+            '''
+
+            arcpy.env.overwriteoutput = True
+
+            # variables
+            route = arcpy.GetParameterAsText(0)
+            fromMP = float(arcpy.GetParameterAsText(1))
+            toMP = float(arcpy.GetParameterAsText(2))
+        </code></pre>
+    </div>
+
+    <div id='allslides' class='step' data-x='15000' data-y='18000' data-scale='65'>
+        <p>"You'll be famous!" - @MattAGRC</p>
+        <p>Scott Davis, Utah AGRC</p>
+        <p><a href='https://twitter.com/#!/ScottAGRC'>@ScottAGRC</a> | <a href='mailto:stdavis@utah.gov'>stdavis@utah.gov</a></p>
+        <div class='footnote'>
+            Presentation built with <a href='http://bartaz.github.com/impress.js/#/bored'>impress.js</a> 
+            (dramamine not included).
+            <br>
+            Wrench icon by <a href='http://dryicons.com'>http://dryicons.com</a>
+            <br>
+            David and Goliath &copy; By Intellectual Reserve, Inc. Used by permission.
+        </div>
+    </div>
+
+    <!-- All Slides -->
+    <!-- <div id="allslides" class="step" data-x="14000" data-y="0" data-scale="55">
+
+    </div> -->
+</div>
+<script src="js/impress.js"></script>
+<script>impress();</script>
+<script src='js/highlight.pack.js'></script>
+<script>hljs.initHighlightingOnLoad();</script>
+</body>
+</html>

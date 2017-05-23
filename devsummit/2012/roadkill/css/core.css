@@ -1,0 +1,189 @@
+h1 {
+	font-size: 55px;
+	text-align: center;
+}
+
+#title h1 {
+	margin-top: 130px;
+}
+
+.footer {
+	position: absolute;
+	left: 50px;
+	bottom: 50px;
+}
+#overview {
+	font-size: 115px;
+}
+/*#impress.step-allslides .step {
+	opacity: 1;
+	cursor: pointer;
+}*/
+#allslides {
+	z-index: -50;
+	height: 600px;
+	padding-top: 150px;
+}
+h2 {
+	font-size: 40px;
+	margin-top: 10px;
+}
+#impress[class*='step-overview-'] #overview {
+	opacity: 1;
+}
+#impress[class*='step-overview-'] #overview span {
+	opacity: 0.3;
+}
+#impress.step-overview-pi #overview #project-intro {
+	opacity: 1;
+}
+#impress.step-overview-ob #overview #objectives {
+	opacity: 1;
+}
+.slide-image {
+	margin-left: -38px;
+	margin-top: 20px;
+}
+.step .centered-img {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+.centered-txt {
+	text-align: center;
+}
+#projectname {
+	height: 700px;
+}
+#projectname p {
+	width: 600px;
+	position: absolute;
+	bottom: 50px;
+	margin-left: 50%;
+	left: -300px;
+}
+#impress.step-overview-m #overview #mobile {
+	opacity: 1;
+}
+#impress.step-overview-d #overview #desktop {
+	opacity: 1;
+}
+#mitigation img {
+	border: solid 1px gray;
+}
+#mitigation p {
+	font-size: small;
+}
+#why h1 {
+	margin-bottom: 250px;
+}
+#health p {
+	text-align: center;
+}
+
+/*Application Type*/
+#impress[class*='app-type-overview-'] #app-type {
+	opacity: 1;
+}
+#impress[class*='app-type-overview-'] #app-type span {
+	opacity: 0.3;
+}
+#impress.step-app-type-overview-native #app-type #native {
+	opacity: 1;
+}
+#impress.step-app-type-overview-web #app-type #web {
+	opacity: 1;
+}
+#impress.step-app-type-overview-hybrid #app-type #hybrid {
+	opacity: 1;
+}
+.pro-con-overview {
+	height: 728px;
+}
+.pro-con-overview span {
+	line-height: 98px;
+}
+.pro-con-overview .header {
+	margin-bottom: 70px;
+	font-size: 55px;
+}
+.footnote {
+	font-size: 20px;
+	text-align: center;
+	color: gray;
+	position: absolute;
+	width: 100%;
+	bottom: 0px;
+	left: 0;
+}
+.pro {
+	background-color: #80A894;
+}
+.con {
+	background-color: #BA4646;
+}
+.pro-con {
+	margin: 0 200px;
+	text-align: center;
+	border-radius: 10px;
+}
+#impress.step-app-type-overview-web-highlight #app-type #web,
+#impress.step-app-type-overview-web-highlight .web-step {
+	opacity: 1;
+}
+#impress.step-app-type-overview-web-highlight #web-highlight {
+ 	height: 129px;
+	width: 515px;
+	border: 1px solid black;
+	position: absolute;
+	margin-left: -19px;
+	border-radius: 10px;
+ }
+
+ /* UI Framework*/
+#impress[class*='framework-overview-'] #framework {
+	opacity: 1;
+}
+#impress[class*='framework-overview-'] #framework span {
+	opacity: 0.3;
+}
+#impress.step-framework-overview-dojo #framework #dojo {
+	opacity: 1;
+}
+#impress.step-framework-overview-jquery #framework #jquery {
+	opacity: 1;
+}
+#impress.step-framework-overview-jquery-highlight #jquery-highlight {
+	height: 129px;
+	width: 550px;
+	border: 1px solid black;
+	position: absolute;
+	margin-left: -19px;
+	border-radius: 10px;
+}
+#impress.step-framework-overview-jquery-highlight #framework #jquery,
+#impress.step-framework-overview-jquery-highlight .jquery-step {
+	opacity: 1;
+}
+
+code {
+	border-radius: 10px;
+	text-shadow: none;
+	font-size: 20px;
+}
+.smaller-code {
+	font-size: 16px;
+}
+.no-padding {
+	padding: 0;
+}
+.smaller {
+	font-size: 30px;
+}
+.picture {
+	border: 1px solid black;
+}
+#cluster-pic {
+	margin-left: 300px;
+	margin-top: 20px;
+}
