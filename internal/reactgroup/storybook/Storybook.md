@@ -23,14 +23,14 @@
   - [add project css to storybook](https://storybook.js.org/docs/configurations/default-config/#css-support)
   - [add custom head tags](https://storybook.js.org/docs/configurations/add-custom-head-tags/#docs-content)
 
-- iterate on parts of the profile
-  - separate into multiple components
-
 - [storyshots](https://www.npmjs.com/package/@storybook/addon-storyshots)
   - `npm install @storybook/addon-storyshots react-test-renderer --save-dev`
   - add `Storyshots.test.js`
   - run tests
+  - show `Storyshots.test.js.snap` markup
   - break a test
   - update a test
+
+- iterate on parts of the profile
 
 - questions
