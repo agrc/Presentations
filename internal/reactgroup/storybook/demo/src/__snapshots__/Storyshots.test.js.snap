@@ -1,38 +1,58 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Storyshots Profile Empty 1`] = `
-<div>
-  <p
-    className="font-bold text-lg"
+<div
+  className="flex border bg-gray-100 border-blue-400 m-6 w-1/2 rounded-lg"
+>
+  <div
+    className="flex flex-initial justify-center items-center rounded-l-lg flex-col p-2 bg-white border-r border-blue-400"
   >
-    undefined undefined
-  </p>
-  <img
-    alt="profile"
-    className="h-32 border rounded-full"
-  />
-  <p />
-  <p />
+    <p
+      className="font-bold text-lg text-gray-700"
+    >
+      undefined undefined
+    </p>
+    <img
+      alt="profile"
+      className="h-32 border shadow-md rounded-full"
+    />
+  </div>
+  <div
+    className="flex flex-col self-center ml-5"
+  >
+    <p />
+    <p />
+  </div>
 </div>
 `;
 
 exports[`Storyshots Profile Normal 1`] = `
-<div>
-  <p
-    className="font-bold text-lg"
+<div
+  className="flex border bg-gray-100 border-blue-400 m-6 w-1/2 rounded-lg"
+>
+  <div
+    className="flex flex-initial justify-center items-center rounded-l-lg flex-col p-2 bg-white border-r border-blue-400"
   >
-    Story Book
-  </p>
-  <img
-    alt="profile"
-    className="h-32 border rounded-full"
-    src="monkey.png"
-  />
-  <p>
-    enjoys foraging for food in the rain forest
-  </p>
-  <p>
-    123-456-7890
-  </p>
+    <p
+      className="font-bold text-lg text-gray-700"
+    >
+      Story Book
+    </p>
+    <img
+      alt="profile"
+      className="h-32 border shadow-md rounded-full"
+      src="monkey.png"
+    />
+  </div>
+  <div
+    className="flex flex-col self-center ml-5"
+  >
+    <p>
+      enjoys foraging for food in the rain forest
+    </p>
+    <p>
+      123-456-7890
+    </p>
+  </div>
 </div>
 `;
