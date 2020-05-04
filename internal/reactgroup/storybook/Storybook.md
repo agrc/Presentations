@@ -5,8 +5,10 @@
 
 - Quick overview
   - [storybook.js](https://storybook.js.org/)
+  - [create react app](https://github.com/facebook/create-react-app)
+  - [tailwind css](https://tailwindcss.com/)
 
-- demo real project (parole?)
+- demo real project (parole)
   - show `npm run storybook` and walk through components
 
 - create simple component
@@ -15,9 +17,20 @@
 - installation [react guide](https://storybook.js.org/docs/guides/guide-react/)
   - `npx -p @storybook/cli sb init`
 
-- setup (react)
-  - choose react_scripts if the above does not auto detect project type
+- [writing a story](https://storybook.js.org/docs/guides/guide-react/#step-4-write-your-stories)
 
-- writing a story
-- snapshots
+- modifying the storybook globally
+  - [add project css to storybook](https://storybook.js.org/docs/configurations/default-config/#css-support)
+  - [add custom head tags](https://storybook.js.org/docs/configurations/add-custom-head-tags/#docs-content)
+
+- iterate on parts of the profile
+  - separate into multiple components
+
+- [storyshots](https://www.npmjs.com/package/@storybook/addon-storyshots)
+  - `npm install @storybook/addon-storyshots react-test-renderer --save-dev`
+  - add `Storyshots.test.js`
+  - run tests
+  - break a test
+  - update a test
+
 - questions

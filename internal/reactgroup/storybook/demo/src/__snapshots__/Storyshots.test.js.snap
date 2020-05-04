@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Profile Empty 1`] = `
+<div>
+  <p
+    className="font-bold text-lg"
+  >
+    undefined undefined
+  </p>
+  <img
+    alt="profile"
+    className="h-32 border rounded-full"
+  />
+  <p />
+  <p />
+</div>
+`;
+
+exports[`Storyshots Profile Normal 1`] = `
+<div>
+  <p
+    className="font-bold text-lg"
+  >
+    Story Book
+  </p>
+  <img
+    alt="profile"
+    className="h-32 border rounded-full"
+    src="monkey.png"
+  />
+  <p>
+    enjoys foraging for food in the rain forest
+  </p>
+  <p>
+    123-456-7890
+  </p>
+</div>
+`;
