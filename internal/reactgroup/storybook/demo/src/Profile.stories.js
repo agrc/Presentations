@@ -1,6 +1,6 @@
 import React from 'react';
-import Profile from '../Profile';
-import profileImage from "../profile.jpg"
+import Profile from './Profile';
+import profileImage from './monkey.png'
 
 export default {
   title: 'Profile',

@@ -1,6 +1,6 @@
 import React, {useState} from "react";
 import Profile from "./Profile";
-import profileImage from "./profile.jpg";
+import profileImage from "./monkey.png";
 
 function App(props) {
   const [showProfile, setShowProfile] = useState(false);
