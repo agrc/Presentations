@@ -13215,7 +13215,7 @@ a.anchor-link {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="ArcPy-Is-Great,-But...">ArcPy Is Great, But...<a class="anchor-link" href="#ArcPy-Is-Great,-But...">&#182;</a></h1><p><img src="assets/arcpy.png" alt="arcpy.png"></p>
+<h1 id="ArcPy-Is-Great,-And...">ArcPy Is Great, And...<a class="anchor-link" href="#ArcPy-Is-Great,-And...">&#182;</a></h1><p><img src="assets/arcpy.png" alt="arcpy.png"></p>
 
 </div>
 </div>
@@ -13245,7 +13245,7 @@ a.anchor-link {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Problem-2:-Nested-cursors-to-transfer-data-between-feature-classes">Problem 2: Nested cursors to transfer data between feature classes<a class="anchor-link" href="#Problem-2:-Nested-cursors-to-transfer-data-between-feature-classes">&#182;</a></h2>
+<h2 id="Problem-2:-Transfering-data-between-feature-classes-and-tables">Problem 2: Transfering data between feature classes and tables<a class="anchor-link" href="#Problem-2:-Transfering-data-between-feature-classes-and-tables">&#182;</a></h2>
 </div>
 </div>
 </div><div class="fragment">
@@ -13341,7 +13341,7 @@ a.anchor-link {
 </div><div class="fragment">
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[17]:</div>
+<div class="prompt input_prompt">In&nbsp;[1]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="nn">pd</span>
@@ -13360,7 +13360,7 @@ a.anchor-link {
 
 <div class="output_area">
 
-    <div class="prompt output_prompt">Out[17]:</div>
+    <div class="prompt output_prompt">Out[1]:</div>
 
 
 
@@ -13540,7 +13540,7 @@ a.anchor-link {
 </div></div></section></section><section><section>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[18]:</div>
+<div class="prompt input_prompt">In&nbsp;[2]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">medians_df</span><span class="o">.</span><span class="n">loc</span><span class="p">[[</span><span class="mi">0</span><span class="p">,</span> <span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">5</span><span class="p">],</span> <span class="s1">&#39;County&#39;</span><span class="p">]</span>
@@ -13556,7 +13556,7 @@ a.anchor-link {
 
 <div class="output_area">
 
-    <div class="prompt output_prompt">Out[18]:</div>
+    <div class="prompt output_prompt">Out[2]:</div>
 
 
 
@@ -13577,7 +13577,7 @@ Name: County, dtype: object</pre>
 </div></section></section><section><section>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[19]:</div>
+<div class="prompt input_prompt">In&nbsp;[3]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">medians_df</span><span class="o">.</span><span class="n">iloc</span><span class="p">[</span><span class="mi">10</span><span class="p">:</span><span class="mi">15</span><span class="p">,</span> <span class="p">:</span><span class="mi">4</span><span class="p">]</span>
@@ -13593,7 +13593,7 @@ Name: County, dtype: object</pre>
 
 <div class="output_area">
 
-    <div class="prompt output_prompt">Out[19]:</div>
+    <div class="prompt output_prompt">Out[3]:</div>
 
 
 
@@ -13679,7 +13679,7 @@ Name: County, dtype: object</pre>
 </div><div class="fragment">
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[20]:</div>
+<div class="prompt input_prompt">In&nbsp;[4]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">medians_df</span><span class="p">[[</span><span class="s1">&#39;Median_age&#39;</span><span class="p">,</span> <span class="s1">&#39;Avg_MonthlyIncome&#39;</span><span class="p">]]</span><span class="o">.</span><span class="n">head</span><span class="p">()</span>
@@ -13695,7 +13695,7 @@ Name: County, dtype: object</pre>
 
 <div class="output_area">
 
-    <div class="prompt output_prompt">Out[20]:</div>
+    <div class="prompt output_prompt">Out[4]:</div>
 
 
 
@@ -13785,7 +13785,7 @@ Name: County, dtype: object</pre>
 </aside></section></section><section><section>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[21]:</div>
+<div class="prompt input_prompt">In&nbsp;[5]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="kn">from</span> <span class="nn">arcgis.features</span> <span class="kn">import</span> <span class="n">GeoAccessor</span><span class="p">,</span> <span class="n">GeoSeriesAccessor</span>
@@ -13805,7 +13805,7 @@ Name: County, dtype: object</pre>
 
 <div class="output_area">
 
-    <div class="prompt output_prompt">Out[21]:</div>
+    <div class="prompt output_prompt">Out[5]:</div>
 
 
 
@@ -13945,7 +13945,7 @@ Name: County, dtype: object</pre>
 </div><div class="fragment">
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[22]:</div>
+<div class="prompt input_prompt">In&nbsp;[6]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">counties_df</span><span class="o">.</span><span class="n">loc</span><span class="p">[</span><span class="n">counties_df</span><span class="p">[</span><span class="s1">&#39;stateplane&#39;</span><span class="p">]</span> <span class="o">==</span> <span class="s1">&#39;Central&#39;</span><span class="p">,</span> <span class="p">[</span><span class="s1">&#39;name&#39;</span><span class="p">,</span> <span class="s1">&#39;stateplane&#39;</span><span class="p">,</span> <span class="s1">&#39;fips_str&#39;</span><span class="p">]]</span>
@@ -13961,7 +13961,7 @@ Name: County, dtype: object</pre>
 
 <div class="output_area">
 
-    <div class="prompt output_prompt">Out[22]:</div>
+    <div class="prompt output_prompt">Out[6]:</div>
 
 
 
@@ -14089,7 +14089,7 @@ Name: County, dtype: object</pre>
 </div><div class="fragment">
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[23]:</div>
+<div class="prompt input_prompt">In&nbsp;[7]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">counties_df</span><span class="p">[</span><span class="s1">&#39;emperor&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="s1">&#39;Jake&#39;</span>
@@ -14106,7 +14106,7 @@ Name: County, dtype: object</pre>
 
 <div class="output_area">
 
-    <div class="prompt output_prompt">Out[23]:</div>
+    <div class="prompt output_prompt">Out[7]:</div>
 
 
 
@@ -14252,7 +14252,7 @@ Name: County, dtype: object</pre>
 </div><div class="fragment">
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[24]:</div>
+<div class="prompt input_prompt">In&nbsp;[8]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">counties_df</span><span class="o">.</span><span class="n">groupby</span><span class="p">(</span><span class="s1">&#39;stateplane&#39;</span><span class="p">)</span><span class="o">.</span><span class="n">count</span><span class="p">()</span>
@@ -14268,7 +14268,7 @@ Name: County, dtype: object</pre>
 
 <div class="output_area">
 
-    <div class="prompt output_prompt">Out[24]:</div>
+    <div class="prompt output_prompt">Out[8]:</div>
 
 
 
@@ -14384,7 +14384,7 @@ Name: County, dtype: object</pre>
 </div></div></section></section><section><section>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[25]:</div>
+<div class="prompt input_prompt">In&nbsp;[9]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">counties_df</span><span class="p">[</span><span class="s1">&#39;acres&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">counties_df</span><span class="p">[</span><span class="s1">&#39;SHAPE&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">apply</span><span class="p">(</span><span class="k">lambda</span> <span class="n">shape</span><span class="p">:</span> <span class="n">shape</span><span class="o">.</span><span class="n">area</span> <span class="o">/</span> <span class="mf">4046.8564</span><span class="p">)</span>
@@ -14401,7 +14401,7 @@ Name: County, dtype: object</pre>
 
 <div class="output_area">
 
-    <div class="prompt output_prompt">Out[25]:</div>
+    <div class="prompt output_prompt">Out[9]:</div>
 
 
 
@@ -14445,7 +14445,7 @@ Name: acres, dtype: float64</pre>
 </div></div><div class="fragment">
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[26]:</div>
+<div class="prompt input_prompt">In&nbsp;[10]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">counties_df</span><span class="o">.</span><span class="n">loc</span><span class="p">[(</span><span class="n">counties_df</span><span class="p">[</span><span class="s1">&#39;pop_lastcensus&#39;</span><span class="p">]</span> <span class="o">&lt;</span> <span class="mi">100000</span><span class="p">)</span> <span class="o">&amp;</span> <span class="p">(</span><span class="n">counties_df</span><span class="p">[</span><span class="s1">&#39;stateplane&#39;</span><span class="p">]</span> <span class="o">==</span> <span class="s1">&#39;North&#39;</span><span class="p">),</span> <span class="s1">&#39;emperor&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="s1">&#39;Erik&#39;</span>
@@ -14462,7 +14462,7 @@ Name: acres, dtype: float64</pre>
 
 <div class="output_area">
 
-    <div class="prompt output_prompt">Out[26]:</div>
+    <div class="prompt output_prompt">Out[10]:</div>
 
 
 
@@ -14541,7 +14541,7 @@ Name: acres, dtype: float64</pre>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Nested-Cursors-Solution:-Merged-DataFrames">Nested Cursors Solution: Merged DataFrames<a class="anchor-link" href="#Nested-Cursors-Solution:-Merged-DataFrames">&#182;</a></h2>
+<h2 id="Joined-Tables-Solution:-Merged-DataFrames">Joined Tables Solution: Merged DataFrames<a class="anchor-link" href="#Joined-Tables-Solution:-Merged-DataFrames">&#182;</a></h2>
 </div>
 </div>
 </div><div class="fragment">
@@ -14570,7 +14570,7 @@ Name: acres, dtype: float64</pre>
 </aside></div><div class="fragment">
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[27]:</div>
+<div class="prompt input_prompt">In&nbsp;[11]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">census_fc_path</span> <span class="o">=</span> <span class="sa">r</span><span class="s1">&#39;C:\Users\jdadams\AppData\Roaming\Esri\ArcGISPro\Favorites\opensgid.agrc.utah.gov.sde\opensgid.demographic.census_counties_2020&#39;</span>
@@ -14589,7 +14589,7 @@ Name: acres, dtype: float64</pre>
 
 <div class="output_area">
 
-    <div class="prompt output_prompt">Out[27]:</div>
+    <div class="prompt output_prompt">Out[11]:</div>
 
 
 
@@ -14760,7 +14760,7 @@ Name: acres, dtype: float64</pre>
 </div></div><div class="fragment">
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[28]:</div>
+<div class="prompt input_prompt">In&nbsp;[12]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">renames</span> <span class="o">=</span> <span class="p">{</span>
@@ -14784,7 +14784,7 @@ Name: acres, dtype: float64</pre>
 
 <div class="output_area">
 
-    <div class="prompt output_prompt">Out[28]:</div>
+    <div class="prompt output_prompt">Out[12]:</div>
 
 
 
@@ -14948,7 +14948,7 @@ Name: acres, dtype: float64</pre>
 </div><div class="fragment">
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[29]:</div>
+<div class="prompt input_prompt">In&nbsp;[13]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">field_order</span> <span class="o">=</span> <span class="p">[</span>
@@ -14973,7 +14973,7 @@ Name: acres, dtype: float64</pre>
 
 <div class="output_area">
 
-    <div class="prompt output_prompt">Out[29]:</div>
+    <div class="prompt output_prompt">Out[13]:</div>
 
 
 
@@ -15096,7 +15096,7 @@ Name: acres, dtype: float64</pre>
 </div><div class="fragment">
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[30]:</div>
+<div class="prompt input_prompt">In&nbsp;[14]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">final_counties_df</span><span class="o">.</span><span class="n">spatial</span><span class="o">.</span><span class="n">to_featureclass</span><span class="p">(</span><span class="sa">r</span><span class="s1">&#39;C:\gis\Projects\HousingInventory\HousingInventory.gdb\counties_ugic&#39;</span><span class="p">)</span>
@@ -15112,7 +15112,7 @@ Name: acres, dtype: float64</pre>
 
 <div class="output_area">
 
-    <div class="prompt output_prompt">Out[30]:</div>
+    <div class="prompt output_prompt">Out[14]:</div>
 
 
 
