@@ -8,3 +8,7 @@ pandas notes
     
 .at/.iat: scalar getting/setting
 .query: alternative to `df[df['a'] > 4]`
+
+Typos/Fixes
+for loop diagrm- change last arg to np.sqrt(3)
+delete plot slide
