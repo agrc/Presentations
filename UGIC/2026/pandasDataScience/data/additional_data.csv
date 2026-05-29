@@ -1,0 +1,717 @@
+GEOID_tract,tract,county,GEOID_msa,msa,GEOID_st,state,Population,Median Family Income,Comparable MSA/State MFI,Tract to MSA/State MFI Ratio,Poverty Rate,OZ Eligibility,Rural Classification,Median Age 2024,Total Population 2019,5-year Population Change
+49035112818,Census Tract 1128.18,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,1090,not available,"$116,518 ",not available,not available,insufficient information,Non-Rural,37,2336,-53.3%
+49049010900,Census Tract 109,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,941,"$151,912 ","$110,937 ",1.3694,4.86%,OZ ineligible,Non-Rural,41.5,1275,-26.2%
+49005980100,Census Tract 9801,Cache County,30860,"Logan, UT-ID Metro Area",49,Utah,105,"$234,808 ","$93,523 ",2.5107,0%,OZ ineligible,Non-Rural,43.4,140,-25.0%
+49049003201,Census Tract 32.01,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,2111,"$80,179 ","$110,937 ",0.7227,10.14%,OZ ineligible,Non-Rural,37.3,2810,-24.9%
+49035102702,Census Tract 1027.02,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3018,"$34,568 ","$116,518 ",0.2967,33.72%,OZ eligible,Non-Rural,30.9,3897,-22.6%
+49035111306,Census Tract 1113.06,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,2075,"$127,833 ","$116,518 ",1.0971,7.52%,OZ ineligible,Non-Rural,39.6,2631,-21.1%
+49035113905,Census Tract 1139.05,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5918,"$98,607 ","$116,518 ",0.8463,7.09%,OZ ineligible,Non-Rural,34.4,7475,-20.8%
+49035113412,Census Tract 1134.12,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,2504,"$94,635 ","$116,518 ",0.8122,9.45%,OZ ineligible,Non-Rural,34.2,3126,-19.9%
+49057201900,Census Tract 2019,Weber County,36260,"Ogden, UT Metro Area",49,Utah,1231,"$64,773 ","$114,227 ",0.5671,20.90%,OZ eligible,Non-Rural,34.4,1525,-19.3%
+49035113527,Census Tract 1135.27,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3941,"$91,854 ","$116,518 ",0.7883,5.74%,OZ ineligible,Non-Rural,32.8,4869,-19.1%
+49035113410,Census Tract 1134.10,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5527,"$100,789 ","$116,518 ",0.865,9.05%,OZ ineligible,Non-Rural,38.8,6821,-19.0%
+49035113522,Census Tract 1135.22,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,2833,"$103,571 ","$116,518 ",0.8889,4.62%,OZ ineligible,Non-Rural,38.7,3440,-17.6%
+49035112612,Census Tract 1126.12,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4557,"$100,093 ","$116,518 ",0.859,6.32%,OZ ineligible,Non-Rural,34.3,5462,-16.6%
+49011125807,Census Tract 1258.07,Davis County,36260,"Ogden, UT Metro Area",49,Utah,3288,"$110,363 ","$114,227 ",0.9662,5.34%,OZ ineligible,Non-Rural,34,3936,-16.5%
+49049000506,Census Tract 5.06,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,4039,"$126,722 ","$110,937 ",1.1423,3.16%,OZ ineligible,Non-Rural,30.9,4835,-16.5%
+49057210404,Census Tract 2104.04,Weber County,36260,"Ogden, UT Metro Area",49,Utah,2015,"$118,750 ","$114,227 ",1.0396,2.45%,OZ ineligible,Non-Rural,44.3,2409,-16.4%
+49011125801,Census Tract 1258.01,Davis County,36260,"Ogden, UT Metro Area",49,Utah,6439,"$72,697 ","$114,227 ",0.6364,17.89%,OZ eligible,Non-Rural,32.1,7690,-16.3%
+49049000507,Census Tract 5.07,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,2097,"$145,909 ","$110,937 ",1.3152,6.33%,OZ ineligible,Non-Rural,36,2498,-16.1%
+49035111903,Census Tract 1119.03,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3712,"$109,234 ","$116,518 ",0.9375,7.02%,OZ ineligible,Non-Rural,38.8,4411,-15.8%
+49049001202,Census Tract 12.02,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,5028,"$80,250 ","$110,937 ",0.7234,8.49%,OZ ineligible,Non-Rural,26.7,5960,-15.6%
+49035110701,Census Tract 1107.01,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3571,"$119,135 ","$116,518 ",1.0225,10.67%,OZ ineligible,Non-Rural,33.1,4203,-15.0%
+49049000703,Census Tract 7.03,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,4950,"$95,214 ","$110,937 ",0.8583,8.10%,OZ ineligible,Non-Rural,25.7,5826,-15.0%
+49035100500,Census Tract 1005,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5554,"$78,910 ","$116,518 ",0.6772,9.67%,OZ eligible,Non-Rural,34.3,6527,-14.9%
+49035111201,Census Tract 1112.01,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,2454,"$89,609 ","$116,518 ",0.7691,3.67%,OZ ineligible,Non-Rural,50.6,2883,-14.9%
+49049001803,Census Tract 18.03,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,1902,"$43,153 ","$110,937 ",0.389,19.30%,OZ eligible,Non-Rural,23.8,2234,-14.9%
+49035111701,Census Tract 1117.01,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5274,"$79,766 ","$116,518 ",0.6846,6.48%,OZ eligible,Non-Rural,30.7,6180,-14.7%
+49049010208,Census Tract 102.08,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,3730,"$180,294 ","$110,937 ",1.6252,4.56%,OZ ineligible,Non-Rural,38.2,4369,-14.6%
+49035110103,Census Tract 1101.03,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3201,"$196,932 ","$116,518 ",1.6901,3.19%,OZ ineligible,Non-Rural,51.4,3744,-14.5%
+49049001001,Census Tract 10.01,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,3344,"$119,875 ","$110,937 ",1.0806,6.55%,OZ ineligible,Non-Rural,30.8,3884,-13.9%
+49049000801,Census Tract 8.01,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,5433,"$72,352 ","$110,937 ",0.6522,9.65%,OZ eligible,Non-Rural,27.6,6308,-13.9%
+49035112619,Census Tract 1126.19,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,2740,"$110,179 ","$116,518 ",0.9456,6.31%,OZ ineligible,Non-Rural,39.8,3177,-13.8%
+49057200900,Census Tract 2009,Weber County,36260,"Ogden, UT Metro Area",49,Utah,3758,"$57,147 ","$114,227 ",0.5003,18.59%,OZ eligible,Non-Rural,34.1,4354,-13.7%
+49049000206,Census Tract 2.06,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,3248,"$142,727 ","$110,937 ",1.2866,2.26%,OZ ineligible,Non-Rural,36.3,3763,-13.7%
+49035112501,Census Tract 1125.01,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3805,"$116,186 ","$116,518 ",0.9972,5%,OZ ineligible,Non-Rural,40.5,4383,-13.2%
+49049001702,Census Tract 17.02,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,4274,"$85,100 ","$110,937 ",0.7671,32.39%,OZ eligible,Non-Rural,23,4917,-13.1%
+49035112907,Census Tract 1129.07,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4229,"$91,364 ","$116,518 ",0.7841,13.04%,OZ ineligible,Non-Rural,35.4,4861,-13.0%
+49057210510,Census Tract 2105.10,Weber County,36260,"Ogden, UT Metro Area",49,Utah,3249,"$107,583 ","$114,227 ",0.9418,11.14%,OZ ineligible,Non-Rural,34.3,3732,-12.9%
+49049002500,Census Tract 25,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,4120,"$62,818 ","$110,937 ",0.5662,17.45%,OZ eligible,Non-Rural,25,4732,-12.9%
+49035113536,Census Tract 1135.36,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3891,"$85,221 ","$116,518 ",0.7314,10.02%,OZ ineligible,Non-Rural,31.1,4465,-12.9%
+49015976200,Census Tract 9762,Emery County,not in an MSA,not in an MSA,49,Utah,3718,"$88,875 ","$109,675 ",0.8103,8.10%,OZ ineligible,Rural,42.1,4258,-12.7%
+49035102600,Census Tract 1026,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4068,"$82,133 ","$116,518 ",0.7049,15.63%,OZ ineligible,Non-Rural,42,4658,-12.7%
+49037942000,Census Tract 9420,San Juan County,not in an MSA,not in an MSA,49,Utah,3318,"$54,082 ","$109,675 ",0.4931,30.08%,OZ eligible,Rural,31.1,3798,-12.6%
+49011126306,Census Tract 1263.06,Davis County,36260,"Ogden, UT Metro Area",49,Utah,6676,"$120,575 ","$114,227 ",1.0556,6.03%,OZ ineligible,Non-Rural,40.5,7641,-12.6%
+49013940300,Census Tract 9403,Duchesne County,not in an MSA,not in an MSA,49,Utah,3958,"$81,161 ","$109,675 ",0.74,13.27%,OZ ineligible,Rural,39.8,4523,-12.5%
+49043964402,Census Tract 9644.02,Summit County,not in an MSA,not in an MSA,49,Utah,3546,"$159,188 ","$109,675 ",1.4515,3.97%,OZ ineligible,Rural,43.5,4042,-12.3%
+49035113510,Census Tract 1135.10,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,2994,"$95,833 ","$116,518 ",0.8225,10.72%,OZ ineligible,Non-Rural,33.9,3411,-12.2%
+49007000100,Census Tract 1,Carbon County,not in an MSA,not in an MSA,49,Utah,3307,"$89,844 ","$109,675 ",0.8192,8.86%,OZ ineligible,Rural,36,3764,-12.1%
+49049000604,Census Tract 6.04,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,2774,"$164,698 ","$110,937 ",1.4846,5.25%,OZ ineligible,Non-Rural,38.7,3157,-12.1%
+49011126901,Census Tract 1269.01,Davis County,36260,"Ogden, UT Metro Area",49,Utah,5593,"$97,946 ","$114,227 ",0.8575,9.04%,OZ ineligible,Non-Rural,32.7,6360,-12.1%
+49049001504,Census Tract 15.04,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,4311,"$135,811 ","$110,937 ",1.2242,16.19%,OZ ineligible,Non-Rural,24.1,4887,-11.8%
+49049000709,Census Tract 7.09,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,2977,"$102,656 ","$110,937 ",0.9254,5.41%,OZ ineligible,Non-Rural,35.5,3373,-11.7%
+49035112617,Census Tract 1126.17,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3086,"$199,095 ","$116,518 ",1.7087,2.20%,OZ ineligible,Non-Rural,38.7,3494,-11.7%
+49035112904,Census Tract 1129.04,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,6060,"$100,850 ","$116,518 ",0.8655,7.55%,OZ ineligible,Non-Rural,34.3,6850,-11.5%
+49035102802,Census Tract 1028.02,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4884,"$65,208 ","$116,518 ",0.5596,24.44%,OZ eligible,Non-Rural,29.1,5517,-11.5%
+49035113532,Census Tract 1135.32,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,2834,"$105,375 ","$116,518 ",0.9044,8.36%,OZ ineligible,Non-Rural,39.5,3200,-11.4%
+49011126405,Census Tract 1264.05,Davis County,36260,"Ogden, UT Metro Area",49,Utah,3459,"$158,417 ","$114,227 ",1.3869,2.64%,OZ ineligible,Non-Rural,41.9,3904,-11.4%
+49035113802,Census Tract 1138.02,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3796,"$78,214 ","$116,518 ",0.6713,2.48%,OZ eligible,Non-Rural,35.5,4274,-11.2%
+49035103000,Census Tract 1030,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3051,"$125,703 ","$116,518 ",1.0788,3.18%,OZ ineligible,Non-Rural,32.2,3431,-11.1%
+49035113538,Census Tract 1135.38,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,2896,"$100,500 ","$116,518 ",0.8625,3.88%,OZ ineligible,Non-Rural,33.4,3255,-11.0%
+49035112913,Census Tract 1129.13,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4679,"$116,094 ","$116,518 ",0.9964,3.39%,OZ ineligible,Non-Rural,37.6,5258,-11.0%
+49035111302,Census Tract 1113.02,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5770,"$139,291 ","$116,518 ",1.1954,7.21%,OZ ineligible,Non-Rural,39.8,6479,-10.9%
+49049010700,Census Tract 107,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,5169,"$115,440 ","$110,937 ",1.0406,7.27%,OZ ineligible,Non-Rural,31.9,5793,-10.8%
+49049000708,Census Tract 7.08,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,2877,"$126,364 ","$110,937 ",1.1391,7.04%,OZ ineligible,Non-Rural,29.7,3213,-10.5%
+49049000710,Census Tract 7.10,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,2518,"$153,529 ","$110,937 ",1.3839,2.03%,OZ ineligible,Non-Rural,31.9,2810,-10.4%
+49035112604,Census Tract 1126.04,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4617,"$123,289 ","$116,518 ",1.0581,4.36%,OZ ineligible,Non-Rural,37,5142,-10.2%
+49035112616,Census Tract 1126.16,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4062,"$172,434 ","$116,518 ",1.4799,3.26%,OZ ineligible,Non-Rural,45.1,4517,-10.1%
+49049000903,Census Tract 9.03,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,3320,"$120,563 ","$110,937 ",1.0868,2.75%,OZ ineligible,Non-Rural,34.6,3688,-10.0%
+49035113509,Census Tract 1135.09,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,6393,"$63,719 ","$116,518 ",0.5469,14.22%,OZ eligible,Non-Rural,35,7096,-9.9%
+49035112905,Census Tract 1129.05,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5149,"$102,120 ","$116,518 ",0.8764,4.23%,OZ ineligible,Non-Rural,40.8,5714,-9.9%
+49053271200,Census Tract 2712,Washington County,41100,"St. George, UT Metro Area",49,Utah,4276,"$64,519 ","$98,356 ",0.656,10.05%,OZ eligible,Non-Rural,36.5,4744,-9.9%
+49035112001,Census Tract 1120.01,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3048,"$118,403 ","$116,518 ",1.0162,12.53%,OZ ineligible,Non-Rural,43.2,3379,-9.8%
+49039972300,Census Tract 9723,Sanpete County,not in an MSA,not in an MSA,49,Utah,5582,"$94,271 ","$109,675 ",0.8595,14.34%,OZ ineligible,Rural,35.4,6188,-9.8%
+49049000504,Census Tract 5.04,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,4120,"$99,152 ","$110,937 ",0.8938,8.50%,OZ ineligible,Non-Rural,32.6,4566,-9.8%
+49035113514,Census Tract 1135.14,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5863,"$52,969 ","$116,518 ",0.4546,17.16%,OZ eligible,Non-Rural,34.4,6496,-9.7%
+49035101700,Census Tract 1017,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3435,"$107,419 ","$116,518 ",0.9219,23.36%,OZ eligible,Non-Rural,28.3,3802,-9.7%
+49057210600,Census Tract 2106,Weber County,36260,"Ogden, UT Metro Area",49,Utah,6933,"$95,212 ","$114,227 ",0.8335,5.16%,OZ ineligible,Non-Rural,34.5,7670,-9.6%
+49011125305,Census Tract 1253.05,Davis County,36260,"Ogden, UT Metro Area",49,Utah,5988,"$119,583 ","$114,227 ",1.0469,4.43%,OZ ineligible,Non-Rural,36,6618,-9.5%
+49035113528,Census Tract 1135.28,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4785,"$111,711 ","$116,518 ",0.9587,5.41%,OZ ineligible,Non-Rural,31.8,5283,-9.4%
+49049001701,Census Tract 17.01,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,3661,"$131,932 ","$110,937 ",1.1893,8.75%,OZ ineligible,Non-Rural,25.1,4038,-9.3%
+49035112611,Census Tract 1126.11,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,6624,"$115,674 ","$116,518 ",0.9928,3.28%,OZ ineligible,Non-Rural,36.4,7306,-9.3%
+49031960100,Census Tract 9601,Piute County,not in an MSA,not in an MSA,49,Utah,1694,"$60,694 ","$109,675 ",0.5534,10.20%,OZ eligible,Rural,48.3,1866,-9.2%
+49035101600,Census Tract 1016,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3333,"$136,473 ","$116,518 ",1.1713,27.99%,OZ eligible,Non-Rural,28.6,3668,-9.1%
+49035102801,Census Tract 1028.01,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,6169,"$81,835 ","$116,518 ",0.7023,8.65%,OZ ineligible,Non-Rural,30.3,6781,-9.0%
+49047968401,Census Tract 9684.01,Uintah County,not in an MSA,not in an MSA,49,Utah,4057,"$64,570 ","$109,675 ",0.5887,14.17%,OZ eligible,Rural,34.8,4451,-8.9%
+49043964306,Census Tract 9643.06,Summit County,not in an MSA,not in an MSA,49,Utah,2965,"$213,036 ","$109,675 ",1.9424,5.62%,OZ ineligible,Rural,43.6,3250,-8.8%
+49035111801,Census Tract 1118.01,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5006,"$118,947 ","$116,518 ",1.0208,6.18%,OZ ineligible,Non-Rural,37.9,5483,-8.7%
+49035103900,Census Tract 1039,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3887,"$142,365 ","$116,518 ",1.2218,6.23%,OZ ineligible,Non-Rural,34.3,4257,-8.7%
+49049002206,Census Tract 22.06,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,3140,"$98,405 ","$110,937 ",0.887,10.56%,OZ ineligible,Non-Rural,27.9,3430,-8.5%
+49035101102,Census Tract 1011.02,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3385,"$99,609 ","$116,518 ",0.8549,14.04%,OZ ineligible,Non-Rural,41.7,3697,-8.4%
+49035113017,Census Tract 1130.17,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,6441,"$127,092 ","$116,518 ",1.0907,2.42%,OZ ineligible,Non-Rural,39.7,7026,-8.3%
+49001100200,Census Tract 1002,Beaver County,not in an MSA,not in an MSA,49,Utah,2934,"$85,714 ","$109,675 ",0.7815,7.08%,OZ ineligible,Rural,34.8,3198,-8.3%
+49057210201,Census Tract 2102.01,Weber County,36260,"Ogden, UT Metro Area",49,Utah,4146,"$137,083 ","$114,227 ",1.2001,13.66%,OZ ineligible,Non-Rural,37.1,4518,-8.2%
+49057210701,Census Tract 2107.01,Weber County,36260,"Ogden, UT Metro Area",49,Utah,5792,"$72,267 ","$114,227 ",0.6327,5.33%,OZ eligible,Non-Rural,29.4,6306,-8.2%
+49049001503,Census Tract 15.03,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,3662,"$122,426 ","$110,937 ",1.1036,2.25%,OZ ineligible,Non-Rural,35.5,3984,-8.1%
+49049001300,Census Tract 13,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,3542,"$78,346 ","$110,937 ",0.7062,5.09%,OZ ineligible,Non-Rural,28.3,3851,-8.0%
+49035113102,Census Tract 1131.02,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3631,"$158,390 ","$116,518 ",1.3594,3.42%,OZ ineligible,Non-Rural,39,3946,-8.0%
+49049000711,Census Tract 7.11,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,2190,"$136,250 ","$110,937 ",1.2282,13.43%,OZ ineligible,Non-Rural,32.2,2379,-7.9%
+49057210204,Census Tract 2102.04,Weber County,36260,"Ogden, UT Metro Area",49,Utah,4252,"$114,239 ","$114,227 ",1.0001,3.70%,OZ ineligible,Non-Rural,37.8,4610,-7.8%
+49035113511,Census Tract 1135.11,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3424,"$95,565 ","$116,518 ",0.8202,6.86%,OZ ineligible,Non-Rural,33.8,3708,-7.7%
+49049010213,Census Tract 102.13,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,3088,"$156,833 ","$110,937 ",1.4137,8.39%,OZ ineligible,Non-Rural,31.3,3342,-7.6%
+49049000901,Census Tract 9.01,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,5373,"$73,952 ","$110,937 ",0.6666,11.71%,OZ eligible,Non-Rural,27.8,5811,-7.5%
+49011125304,Census Tract 1253.04,Davis County,36260,"Ogden, UT Metro Area",49,Utah,4948,"$109,091 ","$114,227 ",0.955,5.17%,OZ ineligible,Non-Rural,31,5345,-7.4%
+49035112804,Census Tract 1128.04,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5354,"$121,734 ","$116,518 ",1.0448,7.09%,OZ ineligible,Non-Rural,37.3,5763,-7.1%
+49035113108,Census Tract 1131.08,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3996,"$128,153 ","$116,518 ",1.0999,7.86%,OZ ineligible,Non-Rural,32.5,4301,-7.1%
+49037978100,Census Tract 9781,San Juan County,not in an MSA,not in an MSA,49,Utah,4003,"$77,303 ","$109,675 ",0.7048,2.59%,OZ ineligible,Rural,41.5,4307,-7.1%
+49041975200,Census Tract 9752,Sevier County,not in an MSA,not in an MSA,49,Utah,2692,"$89,286 ","$109,675 ",0.8141,4.04%,OZ ineligible,Rural,38.8,2893,-6.9%
+49011126105,Census Tract 1261.05,Davis County,36260,"Ogden, UT Metro Area",49,Utah,5965,"$143,778 ","$114,227 ",1.2587,5.55%,OZ ineligible,Non-Rural,31,6409,-6.9%
+49049001501,Census Tract 15.01,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,3777,"$144,569 ","$110,937 ",1.3032,10.55%,OZ ineligible,Non-Rural,39,4056,-6.9%
+49035112700,Census Tract 1127,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5257,"$77,647 ","$116,518 ",0.6664,2.35%,OZ eligible,Non-Rural,37.3,5641,-6.8%
+49035112813,Census Tract 1128.13,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4890,"$157,500 ","$116,518 ",1.3517,8.28%,OZ ineligible,Non-Rural,44.7,5243,-6.7%
+49035112916,Census Tract 1129.16,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4575,"$82,000 ","$116,518 ",0.7038,13.44%,OZ ineligible,Non-Rural,33.4,4904,-6.7%
+49007000500,Census Tract 5,Carbon County,not in an MSA,not in an MSA,49,Utah,3895,"$73,698 ","$109,675 ",0.672,16.18%,OZ eligible,Rural,45.4,4174,-6.7%
+49049010503,Census Tract 105.03,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,3572,"$97,808 ","$110,937 ",0.8817,1.07%,OZ ineligible,Non-Rural,31.8,3825,-6.6%
+49035112608,Census Tract 1126.08,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5178,"$128,355 ","$116,518 ",1.1016,6.41%,OZ ineligible,Non-Rural,40.2,5538,-6.5%
+49035100700,Census Tract 1007,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,2935,"$106,522 ","$116,518 ",0.9142,10.36%,OZ ineligible,Non-Rural,33.7,3138,-6.5%
+49035112805,Census Tract 1128.05,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4939,"$143,986 ","$116,518 ",1.2357,4.69%,OZ ineligible,Non-Rural,38.9,5276,-6.4%
+49035114500,Census Tract 1145,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,8052,"$101,516 ","$116,518 ",0.8712,13.61%,OZ ineligible,Non-Rural,31.6,8601,-6.4%
+49043964303,Census Tract 9643.03,Summit County,not in an MSA,not in an MSA,49,Utah,2750,"$230,000 ","$109,675 ",2.0971,3.05%,OZ ineligible,Rural,40.7,2936,-6.3%
+49035100308,Census Tract 1003.08,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4168,"$81,023 ","$116,518 ",0.6954,13.32%,OZ eligible,Non-Rural,27.7,4433,-6.0%
+49035112815,Census Tract 1128.15,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4970,"$213,111 ","$116,518 ",1.829,3.08%,OZ ineligible,Non-Rural,44.5,5281,-5.9%
+49035113010,Census Tract 1130.10,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,6914,"$144,750 ","$116,518 ",1.2423,2.16%,OZ ineligible,Non-Rural,47.8,7345,-5.9%
+49035104300,Census Tract 1043,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,2809,"$120,536 ","$116,518 ",1.0345,13.78%,OZ ineligible,Non-Rural,30.6,2984,-5.9%
+49035113411,Census Tract 1134.11,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,2867,"$107,069 ","$116,518 ",0.9189,2.70%,OZ ineligible,Non-Rural,32.3,3045,-5.8%
+49035113513,Census Tract 1135.13,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5709,"$77,549 ","$116,518 ",0.6656,7.74%,OZ eligible,Non-Rural,37.5,6048,-5.6%
+49035113308,Census Tract 1133.08,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5093,"$63,559 ","$116,518 ",0.5455,13.51%,OZ eligible,Non-Rural,27,5394,-5.6%
+49037942100,Census Tract 9421,San Juan County,not in an MSA,not in an MSA,49,Utah,2493,"$41,548 ","$109,675 ",0.3788,35.34%,OZ eligible,Rural,30.8,2636,-5.4%
+49057201302,Census Tract 2013.02,Weber County,36260,"Ogden, UT Metro Area",49,Utah,2921,"$65,637 ","$114,227 ",0.5746,19.68%,OZ eligible,Non-Rural,31.3,3088,-5.4%
+49035111002,Census Tract 1110.02,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5260,"$116,141 ","$116,518 ",0.9968,8.50%,OZ ineligible,Non-Rural,39.9,5560,-5.4%
+49057200500,Census Tract 2005,Weber County,36260,"Ogden, UT Metro Area",49,Utah,6124,"$67,294 ","$114,227 ",0.5891,21.77%,OZ eligible,Non-Rural,39.4,6472,-5.4%
+49035110401,Census Tract 1104.01,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3203,"$126,667 ","$116,518 ",1.0871,16.24%,OZ ineligible,Non-Rural,32.4,3383,-5.3%
+49035103400,Census Tract 1034,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4160,"$125,263 ","$116,518 ",1.0751,10.76%,OZ ineligible,Non-Rural,34.6,4393,-5.3%
+49057200100,Census Tract 2001,Weber County,36260,"Ogden, UT Metro Area",49,Utah,4474,"$87,177 ","$114,227 ",0.7632,5.81%,OZ ineligible,Non-Rural,33.8,4720,-5.2%
+49057210900,Census Tract 2109,Weber County,36260,"Ogden, UT Metro Area",49,Utah,6808,"$94,464 ","$114,227 ",0.827,6.17%,OZ ineligible,Non-Rural,31.4,7172,-5.1%
+49049001107,Census Tract 11.07,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,3963,"$113,250 ","$110,937 ",1.0208,9.11%,OZ ineligible,Non-Rural,27.1,4156,-4.6%
+49049003403,Census Tract 34.03,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,4647,"$98,269 ","$110,937 ",0.8858,7.28%,OZ ineligible,Rural,35.9,4865,-4.5%
+49057201600,Census Tract 2016,Weber County,36260,"Ogden, UT Metro Area",49,Utah,3991,"$79,318 ","$114,227 ",0.6944,16.62%,OZ eligible,Non-Rural,32.4,4178,-4.5%
+49035112613,Census Tract 1126.13,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4910,"$132,900 ","$116,518 ",1.1406,3.83%,OZ ineligible,Non-Rural,37.5,5136,-4.4%
+49049010210,Census Tract 102.10,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,5426,"$140,372 ","$110,937 ",1.2653,8.46%,OZ ineligible,Non-Rural,34.2,5674,-4.4%
+49035102701,Census Tract 1027.01,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5409,"$79,318 ","$116,518 ",0.6807,10.50%,OZ eligible,Non-Rural,34.5,5642,-4.1%
+49049003106,Census Tract 31.06,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,2808,"$85,268 ","$110,937 ",0.7686,5.23%,OZ ineligible,Non-Rural,28.1,2927,-4.1%
+49035110200,Census Tract 1102,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4974,"$157,829 ","$116,518 ",1.3545,4.36%,OZ ineligible,Non-Rural,38.9,5181,-4.0%
+49057201700,Census Tract 2017,Weber County,36260,"Ogden, UT Metro Area",49,Utah,3433,"$88,750 ","$114,227 ",0.777,13.52%,OZ ineligible,Non-Rural,31.9,3575,-4.0%
+49011126700,Census Tract 1267,Davis County,36260,"Ogden, UT Metro Area",49,Utah,4097,"$77,750 ","$114,227 ",0.6807,14.41%,OZ eligible,Non-Rural,29.6,4266,-4.0%
+49043964307,Census Tract 9643.07,Summit County,not in an MSA,not in an MSA,49,Utah,5100,"$208,850 ","$109,675 ",1.9043,4.14%,OZ ineligible,Rural,40.2,5309,-3.9%
+49035112823,Census Tract 1128.23,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5376,"$110,446 ","$116,518 ",0.9479,4.23%,OZ ineligible,Non-Rural,36.8,5596,-3.9%
+49055979100,Census Tract 9791,Wayne County,not in an MSA,not in an MSA,49,Utah,2584,"$94,205 ","$109,675 ",0.8589,10.58%,OZ ineligible,Rural,46,2689,-3.9%
+49035112503,Census Tract 1125.03,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4735,"$117,344 ","$116,518 ",1.0071,5.14%,OZ ineligible,Non-Rural,35.6,4927,-3.9%
+49053271800,Census Tract 2718,Washington County,41100,"St. George, UT Metro Area",49,Utah,3683,"$91,991 ","$98,356 ",0.9353,13.21%,OZ ineligible,Non-Rural,43.6,3831,-3.9%
+49017000300,Census Tract 3,Garfield County,not in an MSA,not in an MSA,49,Utah,2292,"$86,417 ","$109,675 ",0.7879,5.73%,OZ ineligible,Rural,40.8,2384,-3.9%
+49057210508,Census Tract 2105.08,Weber County,36260,"Ogden, UT Metro Area",49,Utah,2419,"$106,389 ","$114,227 ",0.9314,7.47%,OZ ineligible,Non-Rural,33.4,2509,-3.6%
+49057200800,Census Tract 2008,Weber County,36260,"Ogden, UT Metro Area",49,Utah,4557,"$76,932 ","$114,227 ",0.6735,14.66%,OZ eligible,Non-Rural,32.4,4722,-3.5%
+49049002702,Census Tract 27.02,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,5222,"$95,592 ","$110,937 ",0.8617,17.73%,OZ ineligible,Non-Rural,26.3,5408,-3.4%
+49049010404,Census Tract 104.04,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,4631,"$135,403 ","$110,937 ",1.2205,5.95%,OZ ineligible,Non-Rural,30.9,4786,-3.2%
+49011125805,Census Tract 1258.05,Davis County,36260,"Ogden, UT Metro Area",49,Utah,6068,"$100,016 ","$114,227 ",0.8756,5.32%,OZ ineligible,Non-Rural,31.9,6271,-3.2%
+49011126001,Census Tract 1260.01,Davis County,36260,"Ogden, UT Metro Area",49,Utah,5582,"$124,917 ","$114,227 ",1.0936,7.89%,OZ ineligible,Non-Rural,30,5755,-3.0%
+49049002101,Census Tract 21.01,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,3740,"$102,674 ","$110,937 ",0.9255,4.12%,OZ ineligible,Non-Rural,29.2,3855,-3.0%
+49005000501,Census Tract 5.01,Cache County,30860,"Logan, UT-ID Metro Area",49,Utah,5339,"$51,671 ","$93,523 ",0.5525,20.35%,OZ eligible,Non-Rural,26.9,5499,-2.9%
+49035111202,Census Tract 1112.02,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4336,"$103,229 ","$116,518 ",0.8859,11.02%,OZ ineligible,Non-Rural,34.7,4464,-2.9%
+49005000900,Census Tract 9,Cache County,30860,"Logan, UT-ID Metro Area",49,Utah,3376,"$60,598 ","$93,523 ",0.6479,24.88%,OZ eligible,Non-Rural,24.7,3475,-2.8%
+49035113408,Census Tract 1134.08,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,6317,"$112,154 ","$116,518 ",0.9625,4.07%,OZ ineligible,Non-Rural,33.3,6501,-2.8%
+49003960702,Census Tract 9607.02,Box Elder County,not in an MSA,not in an MSA,49,Utah,2696,"$71,630 ","$109,675 ",0.6531,17.03%,OZ eligible,Rural,29.3,2773,-2.8%
+49049002205,Census Tract 22.05,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,4235,"$77,250 ","$110,937 ",0.6963,9.86%,OZ eligible,Non-Rural,32.7,4345,-2.5%
+49035113008,Census Tract 1130.08,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,6391,"$172,721 ","$116,518 ",1.4824,4.78%,OZ ineligible,Non-Rural,43.3,6555,-2.5%
+49011125104,Census Tract 1251.04,Davis County,36260,"Ogden, UT Metro Area",49,Utah,6003,"$158,512 ","$114,227 ",1.3877,1.33%,OZ ineligible,Non-Rural,40.8,6157,-2.5%
+49035112301,Census Tract 1123.01,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3756,"$112,773 ","$116,518 ",0.9679,6.18%,OZ ineligible,Non-Rural,41.3,3848,-2.4%
+49057201100,Census Tract 2011,Weber County,36260,"Ogden, UT Metro Area",49,Utah,2449,"$85,375 ","$114,227 ",0.7474,20.93%,OZ eligible,Non-Rural,34.6,2508,-2.4%
+49035112402,Census Tract 1124.02,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,6825,"$90,917 ","$116,518 ",0.7803,21.25%,OZ eligible,Non-Rural,32.6,6978,-2.2%
+49007000300,Census Tract 3,Carbon County,not in an MSA,not in an MSA,49,Utah,3924,"$59,920 ","$109,675 ",0.5463,22.25%,OZ eligible,Rural,36.2,4004,-2.0%
+49035112609,Census Tract 1126.09,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5240,"$162,500 ","$116,518 ",1.3946,1.20%,OZ ineligible,Non-Rural,41.8,5346,-2.0%
+49057200600,Census Tract 2006,Weber County,36260,"Ogden, UT Metro Area",49,Utah,4362,"$92,521 ","$114,227 ",0.81,9.39%,OZ ineligible,Non-Rural,34,4449,-2.0%
+49035100307,Census Tract 1003.07,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5198,"$98,750 ","$116,518 ",0.8475,10.94%,OZ ineligible,Non-Rural,30.6,5295,-1.8%
+49057210703,Census Tract 2107.03,Weber County,36260,"Ogden, UT Metro Area",49,Utah,2684,"$104,954 ","$114,227 ",0.9188,2.37%,OZ ineligible,Non-Rural,36.6,2734,-1.8%
+49003960500,Census Tract 9605,Box Elder County,not in an MSA,not in an MSA,49,Utah,5449,"$103,520 ","$109,675 ",0.9439,8.42%,OZ ineligible,Rural,33.6,5548,-1.8%
+49035101800,Census Tract 1018,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3485,"$126,618 ","$116,518 ",1.0867,20.88%,OZ eligible,Non-Rural,30.8,3542,-1.6%
+49035113533,Census Tract 1135.33,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4505,"$132,000 ","$116,518 ",1.1329,2.26%,OZ ineligible,Non-Rural,40,4577,-1.6%
+49035104000,Census Tract 1040,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3479,"$173,000 ","$116,518 ",1.4847,8.65%,OZ ineligible,Non-Rural,32.8,3532,-1.5%
+49005001001,Census Tract 10.01,Cache County,30860,"Logan, UT-ID Metro Area",49,Utah,2990,1.00E+05,"$93,523 ",1.0693,7.93%,OZ ineligible,Non-Rural,26.9,3035,-1.5%
+49005000403,Census Tract 4.03,Cache County,30860,"Logan, UT-ID Metro Area",49,Utah,6116,"$118,281 ","$93,523 ",1.2647,3.31%,OZ ineligible,Non-Rural,36.7,6203,-1.4%
+49035110300,Census Tract 1103,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5966,"$180,903 ","$116,518 ",1.5526,3.77%,OZ ineligible,Non-Rural,35.3,6048,-1.4%
+49011126500,Census Tract 1265,Davis County,36260,"Ogden, UT Metro Area",49,Utah,6032,"$118,514 ","$114,227 ",1.0375,1.78%,OZ ineligible,Non-Rural,36.4,6114,-1.3%
+49035103600,Census Tract 1036,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,2755,"$192,283 ","$116,518 ",1.6502,7.59%,OZ ineligible,Non-Rural,40.2,2792,-1.3%
+49057210800,Census Tract 2108,Weber County,36260,"Ogden, UT Metro Area",49,Utah,3375,"$72,375 ","$114,227 ",0.6336,3.73%,OZ eligible,Non-Rural,30.3,3412,-1.1%
+49049010209,Census Tract 102.09,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,5794,"$179,063 ","$110,937 ",1.6141,9.45%,OZ ineligible,Non-Rural,38.3,5856,-1.1%
+49035110900,Census Tract 1109,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4395,"$177,500 ","$116,518 ",1.5234,4.19%,OZ ineligible,Non-Rural,44.4,4439,-1.0%
+49011125702,Census Tract 1257.02,Davis County,36260,"Ogden, UT Metro Area",49,Utah,4090,"$73,441 ","$114,227 ",0.6429,22.33%,OZ eligible,Non-Rural,34.8,4129,-0.9%
+49035112618,Census Tract 1126.18,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3417,"$152,273 ","$116,518 ",1.3069,3.39%,OZ ineligible,Non-Rural,37.3,3447,-0.9%
+49057211201,Census Tract 2112.01,Weber County,36260,"Ogden, UT Metro Area",49,Utah,4560,"$99,881 ","$114,227 ",0.8744,6.75%,OZ ineligible,Non-Rural,40.7,4600,-0.9%
+49011126101,Census Tract 1261.01,Davis County,36260,"Ogden, UT Metro Area",49,Utah,6978,"$119,931 ","$114,227 ",1.0499,6.62%,OZ ineligible,Non-Rural,32.1,7032,-0.8%
+49035113537,Census Tract 1135.37,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3588,"$113,750 ","$116,518 ",0.9762,14.21%,OZ ineligible,Non-Rural,34.6,3611,-0.6%
+49045130600,Census Tract 1306,Tooele County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,1862,"$56,111 ","$116,518 ",0.4816,18.32%,OZ eligible,Rural,28.2,1871,-0.5%
+49043964305,Census Tract 9643.05,Summit County,not in an MSA,not in an MSA,49,Utah,2062,"$160,250 ","$109,675 ",1.4611,2.42%,OZ ineligible,Rural,47.3,2070,-0.4%
+49035103100,Census Tract 1031,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4395,"$116,838 ","$116,518 ",1.0027,14.78%,OZ ineligible,Non-Rural,32.5,4412,-0.4%
+49049002902,Census Tract 29.02,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,3932,"$83,162 ","$110,937 ",0.7496,20.95%,OZ eligible,Non-Rural,27.9,3946,-0.4%
+49035113406,Census Tract 1134.06,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,6793,"$70,972 ","$116,518 ",0.6091,12.38%,OZ eligible,Non-Rural,26.9,6815,-0.3%
+49057210511,Census Tract 2105.11,Weber County,36260,"Ogden, UT Metro Area",49,Utah,3964,"$81,042 ","$114,227 ",0.7095,3.83%,OZ ineligible,Non-Rural,37.5,3975,-0.3%
+49049002300,Census Tract 23,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,3813,"$66,853 ","$110,937 ",0.6026,14.16%,OZ eligible,Non-Rural,25.9,3821,-0.2%
+49035114200,Census Tract 1142,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5265,"$142,328 ","$116,518 ",1.2215,9%,OZ ineligible,Non-Rural,36.9,5273,-0.2%
+49057211000,Census Tract 2110,Weber County,36260,"Ogden, UT Metro Area",49,Utah,3287,"$97,745 ","$114,227 ",0.8557,4.56%,OZ ineligible,Non-Rural,35.1,3291,-0.1%
+49011126801,Census Tract 1268.01,Davis County,36260,"Ogden, UT Metro Area",49,Utah,3284,"$142,390 ","$114,227 ",1.2466,1.53%,OZ ineligible,Non-Rural,36.7,3287,-0.1%
+49035112202,Census Tract 1122.02,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3925,"$103,207 ","$116,518 ",0.8858,3.13%,OZ ineligible,Non-Rural,38.3,3924,0.0%
+49049010211,Census Tract 102.11,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,3951,"$201,776 ","$110,937 ",1.8188,3.57%,OZ ineligible,Non-Rural,35.3,3949,0.1%
+49013940600,Census Tract 9406,Duchesne County,not in an MSA,not in an MSA,49,Utah,7282,"$92,413 ","$109,675 ",0.8426,8.96%,OZ ineligible,Rural,36.7,7278,0.1%
+49035113101,Census Tract 1131.01,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,7242,"$130,316 ","$116,518 ",1.1184,4.13%,OZ ineligible,Non-Rural,34.1,7238,0.1%
+49049001106,Census Tract 11.06,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,3027,"$82,054 ","$110,937 ",0.7396,4.72%,OZ ineligible,Non-Rural,31,3025,0.1%
+49035104100,Census Tract 1041,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,2985,"$185,341 ","$116,518 ",1.5907,13.95%,OZ ineligible,Non-Rural,38.8,2983,0.1%
+49047968302,Census Tract 9683.02,Uintah County,not in an MSA,not in an MSA,49,Utah,4877,"$98,697 ","$109,675 ",0.8999,8.60%,OZ ineligible,Rural,37.4,4871,0.1%
+49035112812,Census Tract 1128.12,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5718,"$105,786 ","$116,518 ",0.9079,6.32%,OZ ineligible,Non-Rural,34.8,5703,0.3%
+49005001002,Census Tract 10.02,Cache County,30860,"Logan, UT-ID Metro Area",49,Utah,5218,"$63,846 ","$93,523 ",0.6827,23.04%,OZ eligible,Non-Rural,25.8,5203,0.3%
+49049001900,Census Tract 19,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,3840,"$44,732 ","$110,937 ",0.4032,30.70%,OZ eligible,Non-Rural,23.4,3828,0.3%
+49057201400,Census Tract 2014,Weber County,36260,"Ogden, UT Metro Area",49,Utah,3200,"$137,688 ","$114,227 ",1.2054,12.32%,OZ ineligible,Non-Rural,40.6,3190,0.3%
+49035101200,Census Tract 1012,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4150,"$155,404 ","$116,518 ",1.3337,8.19%,OZ ineligible,Non-Rural,35.4,4131,0.5%
+49043964202,Census Tract 9642.02,Summit County,not in an MSA,not in an MSA,49,Utah,3160,"$105,795 ","$109,675 ",0.9646,5.76%,OZ ineligible,Rural,35.2,3145,0.5%
+49057200202,Census Tract 2002.02,Weber County,36260,"Ogden, UT Metro Area",49,Utah,3984,"$73,348 ","$114,227 ",0.6421,9.73%,OZ eligible,Non-Rural,31.6,3963,0.5%
+49047940201,Census Tract 9402.01,Uintah County,not in an MSA,not in an MSA,49,Utah,5513,"$84,489 ","$109,675 ",0.7704,15.30%,OZ ineligible,Rural,37.8,5481,0.6%
+49049000505,Census Tract 5.05,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,3313,"$132,125 ","$110,937 ",1.191,1.67%,OZ ineligible,Non-Rural,34.3,3293,0.6%
+49015976500,Census Tract 9765,Emery County,not in an MSA,not in an MSA,49,Utah,3156,"$93,586 ","$109,675 ",0.8533,17.07%,OZ ineligible,Rural,37.1,3136,0.6%
+49035104900,Census Tract 1049,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3084,"$128,194 ","$116,518 ",1.1002,9.60%,OZ ineligible,Non-Rural,31.9,3060,0.8%
+49035113309,Census Tract 1133.09,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5039,"$81,287 ","$116,518 ",0.6976,13.20%,OZ eligible,Non-Rural,35.4,4996,0.9%
+49049010408,Census Tract 104.08,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,4602,"$117,024 ","$110,937 ",1.0549,2.09%,OZ ineligible,Non-Rural,30.3,4561,0.9%
+49035103800,Census Tract 1038,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,2470,"$139,138 ","$116,518 ",1.1941,11.39%,OZ ineligible,Non-Rural,34.9,2446,1.0%
+49049001802,Census Tract 18.02,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,8076,"$32,064 ","$110,937 ",0.289,48.39%,OZ eligible,Non-Rural,22.6,7995,1.0%
+49035114800,Census Tract 1148,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3764,"$250,001 ","$116,518 ",2.1456,2.25%,OZ ineligible,Non-Rural,48.7,3723,1.1%
+49035104700,Census Tract 1047,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5300,"$123,884 ","$116,518 ",1.0632,4.43%,OZ ineligible,Non-Rural,33.1,5236,1.2%
+49057211100,Census Tract 2111,Weber County,36260,"Ogden, UT Metro Area",49,Utah,5595,"$84,754 ","$114,227 ",0.742,8.08%,OZ ineligible,Non-Rural,30.8,5526,1.2%
+49035110104,Census Tract 1101.04,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5593,"$222,045 ","$116,518 ",1.9057,1.90%,OZ ineligible,Non-Rural,47,5524,1.2%
+49035111400,Census Tract 1114,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,7312,"$84,355 ","$116,518 ",0.724,22.68%,OZ eligible,Non-Rural,31.7,7203,1.5%
+49035110800,Census Tract 1108,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5936,"$97,457 ","$116,518 ",0.8364,6.04%,OZ ineligible,Non-Rural,43.2,5847,1.5%
+49035113520,Census Tract 1135.20,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4573,"$95,811 ","$116,518 ",0.8223,3.08%,OZ ineligible,Non-Rural,29.9,4501,1.6%
+49035112610,Census Tract 1126.10,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,6030,"$85,515 ","$116,518 ",0.7339,13.26%,OZ ineligible,Non-Rural,31.2,5930,1.7%
+49027974100,Census Tract 9741,Millard County,not in an MSA,not in an MSA,49,Utah,5248,"$78,261 ","$109,675 ",0.7136,9.05%,OZ ineligible,Rural,33.7,5157,1.8%
+49035111001,Census Tract 1110.01,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4265,"$195,139 ","$116,518 ",1.6748,5.75%,OZ ineligible,Non-Rural,43.6,4191,1.8%
+49035113512,Census Tract 1135.12,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3801,"$81,325 ","$116,518 ",0.698,5.89%,OZ eligible,Non-Rural,31.1,3727,2.0%
+49049000508,Census Tract 5.08,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,5400,"$98,125 ","$110,937 ",0.8845,4.72%,OZ ineligible,Non-Rural,26.8,5286,2.2%
+49035110702,Census Tract 1107.02,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5161,"$155,284 ","$116,518 ",1.3327,2.21%,OZ ineligible,Non-Rural,37.2,5052,2.2%
+49035112302,Census Tract 1123.02,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3967,"$116,706 ","$116,518 ",1.0016,5.29%,OZ ineligible,Non-Rural,38.6,3883,2.2%
+49035104800,Census Tract 1048,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5364,"$119,632 ","$116,518 ",1.0267,6.90%,OZ ineligible,Non-Rural,39.5,5245,2.3%
+49049001108,Census Tract 11.08,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,3911,"$54,116 ","$110,937 ",0.4878,12.61%,OZ eligible,Non-Rural,26.9,3824,2.3%
+49021110100,Census Tract 1101,Iron County,not in an MSA,not in an MSA,49,Utah,4276,"$74,805 ","$109,675 ",0.6821,10.60%,OZ eligible,Rural,43.2,4178,2.3%
+49041975500,Census Tract 9755,Sevier County,not in an MSA,not in an MSA,49,Utah,5414,"$75,357 ","$109,675 ",0.6871,8.74%,OZ eligible,Rural,43,5289,2.4%
+49037978200,Census Tract 9782,San Juan County,not in an MSA,not in an MSA,49,Utah,4669,"$87,321 ","$109,675 ",0.7962,12.82%,OZ ineligible,Rural,34.8,4561,2.4%
+49035100800,Census Tract 1008,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,2656,"$83,482 ","$116,518 ",0.7165,20.10%,OZ eligible,Non-Rural,36,2593,2.4%
+49035102300,Census Tract 1023,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3050,"$73,602 ","$116,518 ",0.6317,21.40%,OZ eligible,Non-Rural,34.6,2976,2.5%
+49035112614,Census Tract 1126.14,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3933,"$190,000 ","$116,518 ",1.6306,3.08%,OZ ineligible,Non-Rural,40.5,3834,2.6%
+49035101000,Census Tract 1010,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3088,"$234,327 ","$116,518 ",2.0111,6.45%,OZ ineligible,Non-Rural,36.8,3010,2.6%
+49035113526,Census Tract 1135.26,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,6095,"$109,016 ","$116,518 ",0.9356,4.12%,OZ ineligible,Non-Rural,32.8,5941,2.6%
+49049003104,Census Tract 31.04,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,3890,"$127,083 ","$110,937 ",1.1455,3.86%,OZ ineligible,Non-Rural,36.2,3790,2.6%
+49035111906,Census Tract 1119.06,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4647,"$77,167 ","$116,518 ",0.6623,13.88%,OZ eligible,Non-Rural,31.1,4527,2.7%
+49035103500,Census Tract 1035,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3949,"$135,875 ","$116,518 ",1.1661,4.76%,OZ ineligible,Non-Rural,36.9,3847,2.7%
+49035103300,Census Tract 1033,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4455,"$103,435 ","$116,518 ",0.8877,12.30%,OZ ineligible,Non-Rural,30.2,4333,2.8%
+49035110600,Census Tract 1106,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5752,"$144,030 ","$116,518 ",1.2361,2.72%,OZ ineligible,Non-Rural,39.9,5592,2.9%
+49027974300,Census Tract 9743,Millard County,not in an MSA,not in an MSA,49,Utah,5053,"$80,389 ","$109,675 ",0.733,8.73%,OZ ineligible,Rural,36.4,4912,2.9%
+49035112918,Census Tract 1129.18,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5683,"$106,662 ","$116,518 ",0.9154,7.29%,OZ ineligible,Non-Rural,32.7,5520,3.0%
+49049010220,Census Tract 102.20,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,6734,"$150,724 ","$110,937 ",1.3586,0.78%,OZ ineligible,Non-Rural,24.6,6538,3.0%
+49003960200,Census Tract 9602,Box Elder County,not in an MSA,not in an MSA,49,Utah,8178,"$93,713 ","$109,675 ",0.8545,7.52%,OZ ineligible,Rural,31.2,7929,3.1%
+49035113409,Census Tract 1134.09,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5205,"$109,821 ","$116,518 ",0.9425,1.94%,OZ ineligible,Non-Rural,30.5,5043,3.2%
+49035113523,Census Tract 1135.23,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5838,"$118,873 ","$116,518 ",1.0202,2.50%,OZ ineligible,Non-Rural,36.4,5656,3.2%
+49035113011,Census Tract 1130.11,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,6314,"$160,145 ","$116,518 ",1.3744,2.15%,OZ ineligible,Non-Rural,42.1,6109,3.4%
+49011126203,Census Tract 1262.03,Davis County,36260,"Ogden, UT Metro Area",49,Utah,4465,"$142,063 ","$114,227 ",1.2437,4.57%,OZ ineligible,Non-Rural,34.1,4317,3.4%
+49035111304,Census Tract 1113.04,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3602,"$173,789 ","$116,518 ",1.4915,6.99%,OZ ineligible,Non-Rural,44.6,3481,3.5%
+49043964101,Census Tract 9641.01,Summit County,not in an MSA,not in an MSA,49,Utah,2372,"$101,667 ","$109,675 ",0.927,3.54%,OZ ineligible,Rural,36.2,2292,3.5%
+49043964308,Census Tract 9643.08,Summit County,not in an MSA,not in an MSA,49,Utah,3554,"$221,806 ","$109,675 ",2.0224,13.09%,OZ ineligible,Rural,51.6,3431,3.6%
+49011125502,Census Tract 1255.02,Davis County,36260,"Ogden, UT Metro Area",49,Utah,5885,"$99,202 ","$114,227 ",0.8685,4.80%,OZ ineligible,Non-Rural,30.1,5679,3.6%
+49049000205,Census Tract 2.05,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,4162,"$173,438 ","$110,937 ",1.5634,0.12%,OZ ineligible,Non-Rural,29.9,4015,3.7%
+49003960601,Census Tract 9606.01,Box Elder County,not in an MSA,not in an MSA,49,Utah,3776,"$76,000 ","$109,675 ",0.693,12.61%,OZ eligible,Rural,35.8,3638,3.8%
+49057210303,Census Tract 2103.03,Weber County,36260,"Ogden, UT Metro Area",49,Utah,8240,"$140,375 ","$114,227 ",1.2289,0.44%,OZ ineligible,Non-Rural,34.3,7936,3.8%
+49035112814,Census Tract 1128.14,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4654,"$212,841 ","$116,518 ",1.8267,4.68%,OZ ineligible,Non-Rural,51.4,4479,3.9%
+49023010200,Census Tract 102,Juab County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,5344,"$100,216 ","$110,937 ",0.9034,9.96%,OZ ineligible,Rural,26.3,5141,3.9%
+49003960701,Census Tract 9607.01,Box Elder County,not in an MSA,not in an MSA,49,Utah,5545,"$92,038 ","$109,675 ",0.8392,13.45%,OZ ineligible,Rural,33.2,5327,4.1%
+49011127002,Census Tract 1270.02,Davis County,36260,"Ogden, UT Metro Area",49,Utah,8381,"$86,955 ","$114,227 ",0.7612,7.95%,OZ ineligible,Non-Rural,31.2,8048,4.1%
+49035103700,Census Tract 1037,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,2738,"$161,818 ","$116,518 ",1.3888,3.87%,OZ ineligible,Non-Rural,37,2628,4.2%
+49049000707,Census Tract 7.07,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,4178,"$98,942 ","$110,937 ",0.8919,3.54%,OZ ineligible,Non-Rural,29,4009,4.2%
+49035112816,Census Tract 1128.16,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,6156,"$146,875 ","$116,518 ",1.2605,3.60%,OZ ineligible,Non-Rural,37,5893,4.5%
+49035112822,Census Tract 1128.22,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5564,"$123,459 ","$116,518 ",1.0596,6.61%,OZ ineligible,Non-Rural,35.2,5323,4.5%
+49035100200,Census Tract 1002,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,1456,"$250,001 ","$116,518 ",2.1456,3.37%,OZ ineligible,Non-Rural,43.9,1388,4.9%
+49035113505,Census Tract 1135.05,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,6877,"$110,112 ","$116,518 ",0.945,14.39%,OZ ineligible,Non-Rural,31.2,6552,5.0%
+49011125301,Census Tract 1253.01,Davis County,36260,"Ogden, UT Metro Area",49,Utah,5530,"$77,202 ","$114,227 ",0.6759,10.57%,OZ eligible,Non-Rural,30.6,5261,5.1%
+49041975300,Census Tract 9753,Sevier County,not in an MSA,not in an MSA,49,Utah,5257,"$85,540 ","$109,675 ",0.7799,10.99%,OZ ineligible,Rural,31.5,5001,5.1%
+49057200400,Census Tract 2004,Weber County,36260,"Ogden, UT Metro Area",49,Utah,2091,"$43,686 ","$114,227 ",0.3824,33.01%,OZ eligible,Non-Rural,28.1,1989,5.1%
+49035113600,Census Tract 1136,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5644,"$81,360 ","$116,518 ",0.6983,9.78%,OZ eligible,Non-Rural,32.1,5368,5.1%
+49035113007,Census Tract 1130.07,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5236,"$123,611 ","$116,518 ",1.0609,1.06%,OZ ineligible,Non-Rural,35.7,4973,5.3%
+49011126802,Census Tract 1268.02,Davis County,36260,"Ogden, UT Metro Area",49,Utah,4920,"$151,944 ","$114,227 ",1.3302,2.78%,OZ ineligible,Non-Rural,35.1,4666,5.4%
+49011127100,Census Tract 1271,Davis County,36260,"Ogden, UT Metro Area",49,Utah,8496,"$116,993 ","$114,227 ",1.0242,2.76%,OZ ineligible,Non-Rural,38.9,8057,5.4%
+49049001801,Census Tract 18.01,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,6873,"$38,984 ","$110,937 ",0.3514,67.06%,OZ eligible,Non-Rural,22.3,6508,5.6%
+49035113307,Census Tract 1133.07,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,7076,"$90,560 ","$116,518 ",0.7772,12.71%,OZ ineligible,Non-Rural,26.2,6683,5.9%
+49005001201,Census Tract 12.01,Cache County,30860,"Logan, UT-ID Metro Area",49,Utah,5862,"$139,964 ","$93,523 ",1.4966,8.68%,OZ ineligible,Non-Rural,36,5530,6.0%
+49049003205,Census Tract 32.05,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,4346,"$114,196 ","$110,937 ",1.0294,7.13%,OZ ineligible,Non-Rural,29.9,4095,6.1%
+49049000104,Census Tract 1.04,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,3147,"$128,831 ","$110,937 ",1.1613,5.94%,OZ ineligible,Non-Rural,27,2962,6.2%
+49049002102,Census Tract 21.02,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,3041,"$101,344 ","$110,937 ",0.9135,12.05%,OZ ineligible,Non-Rural,26,2861,6.3%
+49035114700,Census Tract 1147,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4832,"$79,417 ","$116,518 ",0.6816,11.57%,OZ eligible,Non-Rural,37.5,4538,6.5%
+49035104200,Census Tract 1042,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,6980,"$204,235 ","$116,518 ",1.7528,3.81%,OZ ineligible,Non-Rural,45.1,6543,6.7%
+49049010219,Census Tract 102.19,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,5633,"$185,962 ","$110,937 ",1.6763,1.17%,OZ ineligible,Non-Rural,29.2,5277,6.7%
+49011126204,Census Tract 1262.04,Davis County,36260,"Ogden, UT Metro Area",49,Utah,4957,"$123,018 ","$114,227 ",1.077,4.76%,OZ ineligible,Non-Rural,35.9,4642,6.8%
+49049000105,Census Tract 1.05,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,4023,"$137,500 ","$110,937 ",1.2394,2.07%,OZ ineligible,Non-Rural,32.3,3767,6.8%
+49035112201,Census Tract 1122.01,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5603,"$130,741 ","$116,518 ",1.1221,3.11%,OZ ineligible,Non-Rural,39.7,5246,6.8%
+49035112002,Census Tract 1120.02,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5148,"$98,600 ","$116,518 ",0.8462,5.87%,OZ ineligible,Non-Rural,34.7,4817,6.9%
+49005000800,Census Tract 8,Cache County,30860,"Logan, UT-ID Metro Area",49,Utah,5301,"$50,938 ","$93,523 ",0.5447,31.51%,OZ eligible,Non-Rural,22.8,4960,6.9%
+49011125102,Census Tract 1251.02,Davis County,36260,"Ogden, UT Metro Area",49,Utah,4606,"$151,232 ","$114,227 ",1.324,3.65%,OZ ineligible,Non-Rural,41.8,4308,6.9%
+49025130100,Census Tract 1301,Kane County,not in an MSA,not in an MSA,49,Utah,2567,"$89,306 ","$109,675 ",0.8143,18.92%,OZ ineligible,Rural,41.8,2400,7.0%
+49035113013,Census Tract 1130.13,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5547,"$150,096 ","$116,518 ",1.2882,0.49%,OZ ineligible,Non-Rural,38.9,5186,7.0%
+49049000102,Census Tract 1.02,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,4352,"$98,106 ","$110,937 ",0.8843,4.11%,OZ ineligible,Non-Rural,26.6,4067,7.0%
+49005001102,Census Tract 11.02,Cache County,30860,"Logan, UT-ID Metro Area",49,Utah,5239,"$119,815 ","$93,523 ",1.2811,5.34%,OZ ineligible,Non-Rural,32.8,4894,7.0%
+49011126600,Census Tract 1266,Davis County,36260,"Ogden, UT Metro Area",49,Utah,5498,"$103,125 ","$114,227 ",0.9028,10.52%,OZ ineligible,Non-Rural,29.7,5133,7.1%
+49035112914,Census Tract 1129.14,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,6875,"$95,154 ","$116,518 ",0.8166,6.72%,OZ ineligible,Non-Rural,35.2,6414,7.2%
+49057201800,Census Tract 2018,Weber County,36260,"Ogden, UT Metro Area",49,Utah,2506,"$73,051 ","$114,227 ",0.6395,14.99%,OZ eligible,Non-Rural,33,2337,7.2%
+49035112917,Census Tract 1129.17,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4367,"$114,950 ","$116,518 ",0.9865,8.40%,OZ ineligible,Non-Rural,35.4,4063,7.5%
+49035112912,Census Tract 1129.12,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,2807,"$134,708 ","$116,518 ",1.1561,5.05%,OZ ineligible,Non-Rural,38.7,2611,7.5%
+49041975100,Census Tract 9751,Sevier County,not in an MSA,not in an MSA,49,Utah,4648,"$89,375 ","$109,675 ",0.8149,10.68%,OZ ineligible,Rural,37,4319,7.6%
+49045131001,Census Tract 1310.01,Tooele County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3289,"$108,654 ","$116,518 ",0.9325,4.51%,OZ ineligible,Rural,32.2,3055,7.7%
+49049003001,Census Tract 30.01,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,4653,"$111,429 ","$110,937 ",1.0044,4.09%,OZ ineligible,Non-Rural,28.7,4321,7.7%
+49035113310,Census Tract 1133.10,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3008,"$82,794 ","$116,518 ",0.7106,11.04%,OZ ineligible,Non-Rural,34.6,2792,7.7%
+49005000502,Census Tract 5.02,Cache County,30860,"Logan, UT-ID Metro Area",49,Utah,7179,"$59,221 ","$93,523 ",0.6332,27.73%,OZ eligible,Non-Rural,24.4,6663,7.7%
+49035113413,Census Tract 1134.13,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,6090,"$97,462 ","$116,518 ",0.8365,18.03%,OZ ineligible,Non-Rural,32.5,5652,7.7%
+49035111802,Census Tract 1118.02,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,2760,"$78,542 ","$116,518 ",0.6741,11.67%,OZ eligible,Non-Rural,37,2560,7.8%
+49041975400,Census Tract 9754,Sevier County,not in an MSA,not in an MSA,49,Utah,4074,"$85,213 ","$109,675 ",0.777,11.80%,OZ ineligible,Rural,34.3,3778,7.8%
+49011125908,Census Tract 1259.08,Davis County,36260,"Ogden, UT Metro Area",49,Utah,5421,"$112,399 ","$114,227 ",0.984,5.28%,OZ ineligible,Non-Rural,35.1,5026,7.9%
+49035113801,Census Tract 1138.01,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,6362,"$85,028 ","$116,518 ",0.7297,14.21%,OZ ineligible,Non-Rural,32.3,5894,7.9%
+49049003105,Census Tract 31.05,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,3935,"$96,307 ","$110,937 ",0.8681,5.51%,OZ ineligible,Non-Rural,30.7,3645,8.0%
+49053271600,Census Tract 2716,Washington County,41100,"St. George, UT Metro Area",49,Utah,7335,"$116,628 ","$98,356 ",1.1858,6.54%,OZ ineligible,Non-Rural,62.9,6792,8.0%
+49035112615,Census Tract 1126.15,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,2627,"$189,107 ","$116,518 ",1.623,7%,OZ ineligible,Non-Rural,39.6,2432,8.0%
+49039972500,Census Tract 9725,Sanpete County,not in an MSA,not in an MSA,49,Utah,4895,"$81,648 ","$109,675 ",0.7445,13.49%,OZ ineligible,Rural,39.2,4527,8.1%
+49027974200,Census Tract 9742,Millard County,not in an MSA,not in an MSA,49,Utah,3014,"$97,778 ","$109,675 ",0.8915,3.57%,OZ ineligible,Rural,32.6,2785,8.2%
+49035101500,Census Tract 1015,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3438,"$99,219 ","$116,518 ",0.8515,41.26%,OZ eligible,Non-Rural,25.2,3175,8.3%
+49035103200,Census Tract 1032,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4360,"$81,842 ","$116,518 ",0.7024,12.88%,OZ ineligible,Non-Rural,40.8,4026,8.3%
+49049000603,Census Tract 6.03,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,4615,"$138,786 ","$110,937 ",1.251,5.05%,OZ ineligible,Non-Rural,26,4253,8.5%
+49057201500,Census Tract 2015,Weber County,36260,"Ogden, UT Metro Area",49,Utah,4423,"$114,583 ","$114,227 ",1.0031,8.19%,OZ ineligible,Non-Rural,38.2,4076,8.5%
+49049003002,Census Tract 30.02,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,2208,"$105,200 ","$110,937 ",0.9483,2.52%,OZ ineligible,Non-Rural,31.2,2034,8.6%
+49057200203,Census Tract 2002.03,Weber County,36260,"Ogden, UT Metro Area",49,Utah,5584,"$90,651 ","$114,227 ",0.7936,5.79%,OZ ineligible,Non-Rural,30.4,5135,8.7%
+49011127003,Census Tract 1270.03,Davis County,36260,"Ogden, UT Metro Area",49,Utah,8820,"$121,250 ","$114,227 ",1.0615,3.54%,OZ ineligible,Non-Rural,32.2,8105,8.8%
+49011125600,Census Tract 1256,Davis County,36260,"Ogden, UT Metro Area",49,Utah,307,"$95,250 ","$114,227 ",0.8339,21.11%,OZ eligible,Non-Rural,30.1,282,8.9%
+49035102000,Census Tract 1020,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,2926,"$136,923 ","$116,518 ",1.1751,20.44%,OZ eligible,Non-Rural,32.5,2683,9.1%
+49057202000,Census Tract 2020,Weber County,36260,"Ogden, UT Metro Area",49,Utah,5706,"$162,685 ","$114,227 ",1.4242,7.65%,OZ ineligible,Non-Rural,42.9,5231,9.1%
+49035104400,Census Tract 1044,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,2003,"$191,429 ","$116,518 ",1.6429,1.70%,OZ ineligible,Non-Rural,36.3,1835,9.2%
+49035112821,Census Tract 1128.21,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,7223,"$182,188 ","$116,518 ",1.5636,3.46%,OZ ineligible,Non-Rural,36.1,6617,9.2%
+49053271000,Census Tract 2710,Washington County,41100,"St. George, UT Metro Area",49,Utah,4777,"$73,182 ","$98,356 ",0.7441,22.58%,OZ eligible,Rural,32.8,4374,9.2%
+49011126902,Census Tract 1269.02,Davis County,36260,"Ogden, UT Metro Area",49,Utah,7538,"$89,479 ","$114,227 ",0.7833,13.05%,OZ ineligible,Non-Rural,29.5,6898,9.3%
+49035101101,Census Tract 1011.01,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,2065,"$110,060 ","$116,518 ",0.9446,7.94%,OZ ineligible,Non-Rural,30.8,1888,9.4%
+49045131200,Census Tract 1312,Tooele County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3678,"$106,563 ","$116,518 ",0.9146,4.39%,OZ ineligible,Rural,35.9,3359,9.5%
+49005000102,Census Tract 1.02,Cache County,30860,"Logan, UT-ID Metro Area",49,Utah,1645,"$99,792 ","$93,523 ",1.067,6.63%,OZ ineligible,Rural,36.1,1501,9.6%
+49035113515,Census Tract 1135.15,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,6740,"$117,115 ","$116,518 ",1.0051,4.81%,OZ ineligible,Non-Rural,34.7,6148,9.6%
+49057200204,Census Tract 2002.04,Weber County,36260,"Ogden, UT Metro Area",49,Utah,5384,"$88,542 ","$114,227 ",0.7751,6.41%,OZ ineligible,Non-Rural,30.6,4896,10.0%
+49035113539,Census Tract 1135.39,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5491,"$103,200 ","$116,518 ",0.8857,6.26%,OZ ineligible,Non-Rural,26.5,4989,10.1%
+49033950100,Census Tract 9501,Rich County,not in an MSA,not in an MSA,49,Utah,2631,"$91,875 ","$109,675 ",0.8377,3.80%,OZ ineligible,Rural,38.1,2389,10.1%
+49019000200,Census Tract 2,Grand County,not in an MSA,not in an MSA,49,Utah,4804,"$69,050 ","$109,675 ",0.6296,19.45%,OZ eligible,Rural,34.6,4362,10.1%
+49011125804,Census Tract 1258.04,Davis County,36260,"Ogden, UT Metro Area",49,Utah,6888,"$137,301 ","$114,227 ",1.202,0.73%,OZ ineligible,Non-Rural,37.2,6253,10.2%
+49025130200,Census Tract 1302,Kane County,not in an MSA,not in an MSA,49,Utah,5603,"$97,476 ","$109,675 ",0.8888,5.09%,OZ ineligible,Rural,43.8,5084,10.2%
+49049000904,Census Tract 9.04,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,3393,"$116,588 ","$110,937 ",1.0509,6.13%,OZ ineligible,Non-Rural,30.6,3071,10.5%
+49011125906,Census Tract 1259.06,Davis County,36260,"Ogden, UT Metro Area",49,Utah,7914,"$120,000 ","$114,227 ",1.0505,2.08%,OZ ineligible,Non-Rural,36,7155,10.6%
+49035111305,Census Tract 1113.05,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4355,"$149,148 ","$116,518 ",1.28,7.86%,OZ ineligible,Non-Rural,39.1,3937,10.6%
+49049000706,Census Tract 7.06,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,6939,"$84,225 ","$110,937 ",0.7592,11.11%,OZ ineligible,Non-Rural,28.1,6271,10.7%
+49007000600,Census Tract 6,Carbon County,not in an MSA,not in an MSA,49,Utah,4792,"$71,250 ","$109,675 ",0.6496,17.84%,OZ eligible,Rural,42.4,4330,10.7%
+49005000401,Census Tract 4.01,Cache County,30860,"Logan, UT-ID Metro Area",49,Utah,5424,"$68,036 ","$93,523 ",0.7275,26.72%,OZ eligible,Non-Rural,27.1,4897,10.8%
+49035100600,Census Tract 1006,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,7099,"$81,169 ","$116,518 ",0.6966,16.66%,OZ eligible,Non-Rural,35.2,6409,10.8%
+49049010303,Census Tract 103.03,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,5512,"$145,764 ","$110,937 ",1.3139,2.52%,OZ ineligible,Non-Rural,30.6,4975,10.8%
+49035110500,Census Tract 1105,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,6739,"$165,410 ","$116,518 ",1.4196,3.35%,OZ ineligible,Non-Rural,36.8,6080,10.8%
+49049003203,Census Tract 32.03,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,4060,"$134,922 ","$110,937 ",1.2162,6.95%,OZ ineligible,Non-Rural,30.2,3659,11.0%
+49057211202,Census Tract 2112.02,Weber County,36260,"Ogden, UT Metro Area",49,Utah,7248,"$102,757 ","$114,227 ",0.8996,10.72%,OZ ineligible,Non-Rural,38.3,6530,11.0%
+49035111905,Census Tract 1119.05,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4081,"$93,139 ","$116,518 ",0.7994,15.04%,OZ ineligible,Non-Rural,36.8,3676,11.0%
+49049001105,Census Tract 11.05,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,3896,"$140,037 ","$110,937 ",1.2623,10.89%,OZ ineligible,Non-Rural,22.9,3509,11.0%
+49049000203,Census Tract 2.03,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,4865,"$93,370 ","$110,937 ",0.8416,11.37%,OZ ineligible,Non-Rural,31.9,4380,11.1%
+49005001300,Census Tract 13,Cache County,30860,"Logan, UT-ID Metro Area",49,Utah,7640,"$116,331 ","$93,523 ",1.2439,2.42%,OZ ineligible,Non-Rural,32.9,6875,11.1%
+49057210512,Census Tract 2105.12,Weber County,36260,"Ogden, UT Metro Area",49,Utah,5315,"$79,167 ","$114,227 ",0.6931,16.41%,OZ eligible,Non-Rural,28.9,4777,11.3%
+49049003204,Census Tract 32.04,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,2944,"$86,484 ","$110,937 ",0.7796,8.98%,OZ ineligible,Non-Rural,25.8,2645,11.3%
+49035110402,Census Tract 1104.02,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4324,"$164,844 ","$116,518 ",1.4148,3.17%,OZ ineligible,Non-Rural,32.8,3883,11.4%
+49035111904,Census Tract 1119.04,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3661,"$105,054 ","$116,518 ",0.9016,11.84%,OZ ineligible,Non-Rural,37,3279,11.6%
+49003960400,Census Tract 9604,Box Elder County,not in an MSA,not in an MSA,49,Utah,5492,"$101,659 ","$109,675 ",0.9269,7.49%,OZ ineligible,Rural,34.4,4913,11.8%
+49035113012,Census Tract 1130.12,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,6549,"$181,898 ","$116,518 ",1.5611,1.31%,OZ ineligible,Non-Rural,39,5849,12.0%
+49017000400,Census Tract 4,Garfield County,not in an MSA,not in an MSA,49,Utah,2927,"$90,160 ","$109,675 ",0.8221,12.85%,OZ ineligible,Rural,40.3,2614,12.0%
+49011126304,Census Tract 1263.04,Davis County,36260,"Ogden, UT Metro Area",49,Utah,7540,"$148,036 ","$114,227 ",1.296,3.96%,OZ ineligible,Non-Rural,36.4,6719,12.2%
+49043964203,Census Tract 9642.03,Summit County,not in an MSA,not in an MSA,49,Utah,174,"$99,350 ","$109,675 ",0.9059,7.47%,OZ ineligible,Rural,47.6,155,12.3%
+49057210704,Census Tract 2107.04,Weber County,36260,"Ogden, UT Metro Area",49,Utah,6482,"$97,889 ","$114,227 ",0.857,1.60%,OZ ineligible,Non-Rural,31.9,5770,12.3%
+49011126305,Census Tract 1263.05,Davis County,36260,"Ogden, UT Metro Area",49,Utah,2836,"$145,612 ","$114,227 ",1.2748,0.92%,OZ ineligible,Non-Rural,34.4,2524,12.4%
+49049001401,Census Tract 14.01,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,3658,"$104,286 ","$110,937 ",0.94,22.22%,OZ eligible,Non-Rural,22.8,3251,12.5%
+49003960802,Census Tract 9608.02,Box Elder County,not in an MSA,not in an MSA,49,Utah,5465,"$118,661 ","$109,675 ",1.0819,2.48%,OZ ineligible,Rural,33.2,4842,12.9%
+49035113701,Census Tract 1137.01,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4402,"$90,840 ","$116,518 ",0.7796,6.35%,OZ ineligible,Non-Rural,30.7,3900,12.9%
+49011126406,Census Tract 1264.06,Davis County,36260,"Ogden, UT Metro Area",49,Utah,4554,"$112,546 ","$114,227 ",0.9853,5.10%,OZ ineligible,Non-Rural,33.9,4034,12.9%
+49005001101,Census Tract 11.01,Cache County,30860,"Logan, UT-ID Metro Area",49,Utah,6609,"$107,917 ","$93,523 ",1.1539,7.50%,OZ ineligible,Non-Rural,30.9,5852,12.9%
+49011126303,Census Tract 1263.03,Davis County,36260,"Ogden, UT Metro Area",49,Utah,5226,"$122,548 ","$114,227 ",1.0728,4.23%,OZ ineligible,Non-Rural,38.5,4627,12.9%
+49049001103,Census Tract 11.03,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,3074,"$108,000 ","$110,937 ",0.9735,27.66%,OZ eligible,Non-Rural,22.2,2719,13.1%
+49049010505,Census Tract 105.05,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,5266,"$102,210 ","$110,937 ",0.9213,2.54%,OZ ineligible,Rural,28.5,4656,13.1%
+49051960100,Census Tract 9601,Wasatch County,not in an MSA,not in an MSA,49,Utah,5412,"$112,833 ","$109,675 ",1.0288,5.31%,OZ ineligible,Rural,30.2,4784,13.1%
+49035112921,Census Tract 1129.21,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4679,"$104,639 ","$116,518 ",0.8981,9.77%,OZ ineligible,Non-Rural,32.9,4131,13.3%
+49043964304,Census Tract 9643.04,Summit County,not in an MSA,not in an MSA,49,Utah,5821,"$183,174 ","$109,675 ",1.6702,1.74%,OZ ineligible,Rural,41.2,5126,13.6%
+49011126404,Census Tract 1264.04,Davis County,36260,"Ogden, UT Metro Area",49,Utah,8530,"$147,925 ","$114,227 ",1.295,3.97%,OZ ineligible,Non-Rural,35.7,7506,13.6%
+49007000200,Census Tract 2,Carbon County,not in an MSA,not in an MSA,49,Utah,4599,"$78,151 ","$109,675 ",0.7126,18.35%,OZ ineligible,Rural,34.8,4036,13.9%
+49053271300,Census Tract 2713,Washington County,41100,"St. George, UT Metro Area",49,Utah,4372,"$68,056 ","$98,356 ",0.6919,25.74%,OZ eligible,Non-Rural,23,3817,14.5%
+49005000101,Census Tract 1.01,Cache County,30860,"Logan, UT-ID Metro Area",49,Utah,5673,"$116,774 ","$93,523 ",1.2486,1.78%,OZ ineligible,Rural,32.9,4941,14.8%
+49011125503,Census Tract 1255.03,Davis County,36260,"Ogden, UT Metro Area",49,Utah,6702,"$121,014 ","$114,227 ",1.0594,4.16%,OZ ineligible,Non-Rural,28.1,5832,14.9%
+49035111702,Census Tract 1117.02,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5184,"$110,924 ","$116,518 ",0.952,11.98%,OZ ineligible,Non-Rural,33.8,4505,15.1%
+49039972200,Census Tract 9722,Sanpete County,not in an MSA,not in an MSA,49,Utah,4285,"$72,043 ","$109,675 ",0.6569,10.38%,OZ eligible,Rural,36.8,3721,15.2%
+49053271400,Census Tract 2714,Washington County,41100,"St. George, UT Metro Area",49,Utah,4124,"$47,241 ","$98,356 ",0.4803,20.23%,OZ eligible,Non-Rural,39.5,3578,15.3%
+49049001601,Census Tract 16.01,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,4880,"$38,400 ","$110,937 ",0.3461,47.78%,OZ eligible,Non-Rural,21.8,4225,15.5%
+49049003103,Census Tract 31.03,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,3042,"$109,286 ","$110,937 ",0.9851,3.48%,OZ ineligible,Non-Rural,31.7,2624,15.9%
+49035102900,Census Tract 1029,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,6149,"$63,849 ","$116,518 ",0.548,27.18%,OZ eligible,Non-Rural,35.2,5298,16.1%
+49049002204,Census Tract 22.04,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,4286,"$128,694 ","$110,937 ",1.1601,5.83%,OZ ineligible,Non-Rural,25,3692,16.1%
+49049010410,Census Tract 104.10,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,4580,"$98,044 ","$110,937 ",0.8838,8.30%,OZ ineligible,Rural,29.9,3936,16.4%
+49011126402,Census Tract 1264.02,Davis County,36260,"Ogden, UT Metro Area",49,Utah,3847,"$172,375 ","$114,227 ",1.5091,3.09%,OZ ineligible,Non-Rural,42.3,3306,16.4%
+49015976300,Census Tract 9763,Emery County,not in an MSA,not in an MSA,49,Utah,3172,"$94,095 ","$109,675 ",0.8579,13.08%,OZ ineligible,Rural,34.6,2723,16.5%
+49057200700,Census Tract 2007,Weber County,36260,"Ogden, UT Metro Area",49,Utah,3622,"$86,058 ","$114,227 ",0.7534,8.37%,OZ ineligible,Non-Rural,32.8,3101,16.8%
+49045130701,Census Tract 1307.01,Tooele County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5150,"$141,696 ","$116,518 ",1.2161,2.26%,OZ ineligible,Rural,32.8,4394,17.2%
+49023010100,Census Tract 101,Juab County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,7242,"$112,418 ","$110,937 ",1.0133,4.66%,OZ ineligible,Rural,33.1,6160,17.6%
+49053270200,Census Tract 2702,Washington County,41100,"St. George, UT Metro Area",49,Utah,3312,"$102,662 ","$98,356 ",1.0438,2.96%,OZ ineligible,Rural,40.5,2815,17.7%
+49043964401,Census Tract 9644.01,Summit County,not in an MSA,not in an MSA,49,Utah,1897,"$250,001 ","$109,675 ",2.2795,1.27%,OZ ineligible,Rural,52.9,1607,18.0%
+49049001002,Census Tract 10.02,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,3254,"$84,643 ","$110,937 ",0.763,17.15%,OZ ineligible,Non-Rural,29.9,2747,18.5%
+49053270901,Census Tract 2709.01,Washington County,41100,"St. George, UT Metro Area",49,Utah,4832,"$105,156 ","$98,356 ",1.0691,10.63%,OZ ineligible,Rural,37.6,4079,18.5%
+49049010216,Census Tract 102.16,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,3863,"$173,400 ","$110,937 ",1.563,6.42%,OZ ineligible,Non-Rural,30.5,3257,18.6%
+49005001402,Census Tract 14.02,Cache County,30860,"Logan, UT-ID Metro Area",49,Utah,4755,"$98,480 ","$93,523 ",1.053,7.98%,OZ ineligible,Non-Rural,28,3996,19.0%
+49047968301,Census Tract 9683.01,Uintah County,not in an MSA,not in an MSA,49,Utah,6524,"$90,873 ","$109,675 ",0.8286,2.65%,OZ ineligible,Rural,29.5,5475,19.2%
+49021110400,Census Tract 1104,Iron County,not in an MSA,not in an MSA,49,Utah,5336,"$63,750 ","$109,675 ",0.5813,19.43%,OZ eligible,Rural,22.6,4476,19.2%
+49011125501,Census Tract 1255.01,Davis County,36260,"Ogden, UT Metro Area",49,Utah,7219,"$99,282 ","$114,227 ",0.8692,8.34%,OZ ineligible,Non-Rural,32.7,6038,19.6%
+49043964201,Census Tract 9642.01,Summit County,not in an MSA,not in an MSA,49,Utah,5077,"$117,938 ","$109,675 ",1.0753,1.22%,OZ ineligible,Rural,33.1,4243,19.7%
+49035113016,Census Tract 1130.16,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,8131,"$175,701 ","$116,518 ",1.5079,2.07%,OZ ineligible,Non-Rural,33.5,6772,20.1%
+49049010405,Census Tract 104.05,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,4496,"$95,724 ","$110,937 ",0.8629,3.16%,OZ ineligible,Non-Rural,25,3738,20.3%
+49005001500,Census Tract 15,Cache County,30860,"Logan, UT-ID Metro Area",49,Utah,2411,"$118,869 ","$93,523 ",1.271,2.20%,OZ ineligible,Non-Rural,37.5,2002,20.4%
+49005000402,Census Tract 4.02,Cache County,30860,"Logan, UT-ID Metro Area",49,Utah,5020,"$139,423 ","$93,523 ",1.4908,2.22%,OZ ineligible,Non-Rural,35.9,4167,20.5%
+49049010407,Census Tract 104.07,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,3175,"$110,833 ","$110,937 ",0.9991,3.86%,OZ ineligible,Non-Rural,33.5,2631,20.7%
+49045130900,Census Tract 1309,Tooele County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,6072,"$96,328 ","$116,518 ",0.8267,7.71%,OZ ineligible,Rural,31.4,5009,21.2%
+49035112920,Census Tract 1129.20,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5512,"$101,772 ","$116,518 ",0.8734,7.05%,OZ ineligible,Non-Rural,35.2,4546,21.2%
+49005000201,Census Tract 2.01,Cache County,30860,"Logan, UT-ID Metro Area",49,Utah,4749,"$92,384 ","$93,523 ",0.9878,4.03%,OZ ineligible,Non-Rural,26.7,3914,21.3%
+49003960602,Census Tract 9606.02,Box Elder County,not in an MSA,not in an MSA,49,Utah,2890,"$102,891 ","$109,675 ",0.9381,3.61%,OZ ineligible,Rural,38.3,2378,21.5%
+49057201301,Census Tract 2013.01,Weber County,36260,"Ogden, UT Metro Area",49,Utah,3020,"$75,000 ","$114,227 ",0.6566,16.19%,OZ eligible,Non-Rural,34,2482,21.7%
+49053270802,Census Tract 2708.02,Washington County,41100,"St. George, UT Metro Area",49,Utah,8859,"$83,378 ","$98,356 ",0.8477,7.29%,OZ ineligible,Non-Rural,41.7,7263,22.0%
+49035113702,Census Tract 1137.02,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3030,"$74,254 ","$116,518 ",0.6373,12.86%,OZ eligible,Non-Rural,31.4,2479,22.2%
+49035113014,Census Tract 1130.14,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5839,"$130,795 ","$116,518 ",1.1225,2.69%,OZ ineligible,Non-Rural,34.2,4770,22.4%
+49005000202,Census Tract 2.02,Cache County,30860,"Logan, UT-ID Metro Area",49,Utah,10000,"$101,591 ","$93,523 ",1.0863,3.39%,OZ ineligible,Non-Rural,29.4,8167,22.4%
+49005000701,Census Tract 7.01,Cache County,30860,"Logan, UT-ID Metro Area",49,Utah,5150,"$117,813 ","$93,523 ",1.2597,11.85%,OZ ineligible,Non-Rural,23.6,4186,23.0%
+49011125103,Census Tract 1251.03,Davis County,36260,"Ogden, UT Metro Area",49,Utah,7629,"$104,792 ","$114,227 ",0.9174,10.74%,OZ ineligible,Non-Rural,28.9,6187,23.3%
+49011125905,Census Tract 1259.05,Davis County,36260,"Ogden, UT Metro Area",49,Utah,7811,"$110,417 ","$114,227 ",0.9666,10.89%,OZ ineligible,Non-Rural,36,6311,23.8%
+49003960100,Census Tract 9601,Box Elder County,not in an MSA,not in an MSA,49,Utah,4043,"$95,658 ","$109,675 ",0.8722,10.96%,OZ ineligible,Rural,36.4,3265,23.8%
+49049010504,Census Tract 105.04,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,4000,"$81,455 ","$110,937 ",0.7342,2.75%,OZ ineligible,Non-Rural,32.1,3230,23.8%
+49049010305,Census Tract 103.05,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,4454,"$151,058 ","$110,937 ",1.3617,4.76%,OZ ineligible,Non-Rural,26.9,3575,24.6%
+49057210203,Census Tract 2102.03,Weber County,36260,"Ogden, UT Metro Area",49,Utah,3650,"$119,269 ","$114,227 ",1.0441,7.42%,OZ ineligible,Non-Rural,31.4,2914,25.3%
+49005001202,Census Tract 12.02,Cache County,30860,"Logan, UT-ID Metro Area",49,Utah,8196,"$108,977 ","$93,523 ",1.1652,0.98%,OZ ineligible,Non-Rural,27.5,6472,26.6%
+49049000601,Census Tract 6.01,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,4534,"$121,635 ","$110,937 ",1.0964,8.38%,OZ ineligible,Non-Rural,28.5,3580,26.6%
+49057201200,Census Tract 2012,Weber County,36260,"Ogden, UT Metro Area",49,Utah,2785,"$67,273 ","$114,227 ",0.5889,19.78%,OZ eligible,Non-Rural,30.5,2195,26.9%
+49009960100,Census Tract 9601,Daggett County,not in an MSA,not in an MSA,49,Utah,783,"$99,375 ","$109,675 ",0.9061,9.02%,OZ ineligible,Rural,46,613,27.7%
+49021110702,Census Tract 1107.02,Iron County,not in an MSA,not in an MSA,49,Utah,7382,"$89,479 ","$109,675 ",0.8159,6.14%,OZ ineligible,Rural,40.4,5774,27.8%
+49057210304,Census Tract 2103.04,Weber County,36260,"Ogden, UT Metro Area",49,Utah,6139,"$136,284 ","$114,227 ",1.1931,3.33%,OZ ineligible,Non-Rural,35.9,4797,28.0%
+49049002901,Census Tract 29.01,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,9492,"$99,814 ","$110,937 ",0.8997,8.55%,OZ ineligible,Non-Rural,24.6,7379,28.6%
+49057210509,Census Tract 2105.09,Weber County,36260,"Ogden, UT Metro Area",49,Utah,5679,"$106,806 ","$114,227 ",0.935,4.31%,OZ ineligible,Non-Rural,28.7,4413,28.7%
+49035113521,Census Tract 1135.21,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,8448,"$87,141 ","$116,518 ",0.7479,20.04%,OZ eligible,Non-Rural,27.2,6533,29.3%
+49005001401,Census Tract 14.01,Cache County,30860,"Logan, UT-ID Metro Area",49,Utah,5733,"$92,515 ","$93,523 ",0.9892,8.93%,OZ ineligible,Non-Rural,29.4,4424,29.6%
+49049010409,Census Tract 104.09,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,4568,"$116,689 ","$110,937 ",1.0518,2.67%,OZ ineligible,Rural,29.1,3519,29.8%
+49035114100,Census Tract 1141,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3891,"$166,348 ","$116,518 ",1.4277,9.83%,OZ ineligible,Non-Rural,33.2,2991,30.1%
+49049002400,Census Tract 24,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,2177,"$45,563 ","$110,937 ",0.4107,20.67%,OZ eligible,Non-Rural,24.5,1667,30.6%
+49035113904,Census Tract 1139.04,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,6965,"$96,176 ","$116,518 ",0.8254,5.46%,OZ ineligible,Non-Rural,37.6,5328,30.7%
+49001100100,Census Tract 1001,Beaver County,not in an MSA,not in an MSA,49,Utah,4339,"$98,867 ","$109,675 ",0.9015,6.32%,OZ ineligible,Rural,34.4,3319,30.7%
+49035113906,Census Tract 1139.06,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5398,"$74,000 ","$116,518 ",0.6351,9.50%,OZ eligible,Non-Rural,33.2,4117,31.1%
+49035111500,Census Tract 1115,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,2772,"$63,580 ","$116,518 ",0.5457,17.87%,OZ eligible,Non-Rural,29.4,2113,31.2%
+49011125701,Census Tract 1257.01,Davis County,36260,"Ogden, UT Metro Area",49,Utah,5452,"$61,189 ","$114,227 ",0.5357,21.86%,OZ eligible,Non-Rural,29.8,4145,31.5%
+49003960801,Census Tract 9608.01,Box Elder County,not in an MSA,not in an MSA,49,Utah,5792,"$125,069 ","$109,675 ",1.1404,3.69%,OZ ineligible,Non-Rural,37.1,4373,32.4%
+49035101900,Census Tract 1019,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3582,"$83,309 ","$116,518 ",0.715,34.31%,OZ eligible,Non-Rural,32.6,2702,32.6%
+49035112404,Census Tract 1124.04,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5149,"$65,446 ","$116,518 ",0.5617,11.93%,OZ eligible,Non-Rural,29.5,3877,32.8%
+49035102100,Census Tract 1021,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,2386,not available,"$116,518 ",not available,22.52%,OZ eligible,Non-Rural,29,1791,33.2%
+49035100306,Census Tract 1003.06,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,7303,"$66,353 ","$116,518 ",0.5695,9.39%,OZ eligible,Non-Rural,27.8,5470,33.5%
+49021110300,Census Tract 1103,Iron County,not in an MSA,not in an MSA,49,Utah,5482,"$102,946 ","$109,675 ",0.9386,7.86%,OZ ineligible,Rural,35.8,4096,33.8%
+49035113903,Census Tract 1139.03,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,6727,"$99,265 ","$116,518 ",0.8519,15.52%,OZ ineligible,Non-Rural,34.3,5018,34.1%
+49049010406,Census Tract 104.06,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,4306,"$128,155 ","$110,937 ",1.1552,3.25%,OZ ineligible,Non-Rural,28.3,3180,35.4%
+49011125907,Census Tract 1259.07,Davis County,36260,"Ogden, UT Metro Area",49,Utah,2889,"$125,000 ","$114,227 ",1.0943,5.52%,OZ ineligible,Non-Rural,37.5,2130,35.6%
+49045130800,Census Tract 1308,Tooele County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,7623,"$115,077 ","$116,518 ",0.9876,4.75%,OZ ineligible,Rural,30.1,5575,36.7%
+49049000103,Census Tract 1.03,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,5481,"$108,710 ","$110,937 ",0.9799,4.27%,OZ ineligible,Non-Rural,32.6,3973,38.0%
+49049003401,Census Tract 34.01,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,5450,"$80,116 ","$110,937 ",0.7222,12.22%,OZ ineligible,Non-Rural,29.3,3943,38.2%
+49005000702,Census Tract 7.02,Cache County,30860,"Logan, UT-ID Metro Area",49,Utah,3658,"$35,417 ","$93,523 ",0.3787,24.89%,OZ eligible,Non-Rural,20.7,2623,39.5%
+49011126002,Census Tract 1260.02,Davis County,36260,"Ogden, UT Metro Area",49,Utah,9751,"$133,151 ","$114,227 ",1.1657,11.68%,OZ ineligible,Non-Rural,29.8,6967,40.0%
+49049010212,Census Tract 102.12,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,11413,"$164,071 ","$110,937 ",1.479,4.16%,OZ ineligible,Non-Rural,28.4,8052,41.7%
+49049010217,Census Tract 102.17,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,8014,"$199,718 ","$110,937 ",1.8003,3.62%,OZ ineligible,Non-Rural,27.4,5622,42.5%
+49049001201,Census Tract 12.01,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,5945,"$87,439 ","$110,937 ",0.7882,15.66%,OZ ineligible,Non-Rural,25.3,4076,45.9%
+49049010411,Census Tract 104.11,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,8794,"$156,284 ","$110,937 ",1.4088,4.08%,OZ ineligible,Non-Rural,31.7,5955,47.7%
+49049010600,Census Tract 106,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,7094,"$115,139 ","$110,937 ",1.0379,8.39%,OZ ineligible,Rural,28.2,4769,48.8%
+49029970200,Census Tract 9702,Morgan County,36260,"Ogden, UT Metro Area",49,Utah,1922,"$122,083 ","$114,227 ",1.0688,3.02%,OZ ineligible,Rural,38.3,1278,50.4%
+49035113105,Census Tract 1131.05,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,9668,"$143,581 ","$116,518 ",1.2323,4.80%,OZ ineligible,Non-Rural,29.3,5973,61.9%
+49049010506,Census Tract 105.06,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,2998,"$90,577 ","$110,937 ",0.8165,5.82%,OZ ineligible,Rural,26.2,1742,72.1%
+49049000400,Census Tract 4,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,7361,"$86,131 ","$110,937 ",0.7764,6.59%,OZ ineligible,Non-Rural,27.6,4193,75.6%
+49049010110,Census Tract 101.10,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,5783,"$156,447 ","$110,937 ",1.4102,5.29%,OZ ineligible,Non-Rural,21.1,3153,83.4%
+49053271702,Census Tract 2717.02,Washington County,41100,"St. George, UT Metro Area",49,Utah,18570,"$117,216 ","$98,356 ",1.1918,3.73%,OZ ineligible,Non-Rural,29.1,9764,90.2%
+49049001602,Census Tract 16.02,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,4824,not available,"$110,937 ",not available,74.64%,OZ eligible,Non-Rural,19.6,2481,94.4%
+49035114000,Census Tract 1140,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5187,"$112,355 ","$116,518 ",0.9643,11.68%,OZ ineligible,Non-Rural,37.2,2425,113.9%
+49035100100,Census Tract 1001,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3868,"$102,407 ","$116,518 ",0.8789,19.42%,OZ ineligible,Non-Rural,29.9,1807,114.1%
+49049010107,Census Tract 101.07,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,7439,"$132,173 ","$110,937 ",1.1914,7.41%,OZ ineligible,Non-Rural,26,3299,125.5%
+49003960301,Census Tract 9603.01,Box Elder County,not in an MSA,not in an MSA,49,Utah,5334,"$86,719 ","$109,675 ",0.7907,10.70%,OZ ineligible,Rural,32.5,#N/A,#N/A
+49003960302,Census Tract 9603.02,Box Elder County,not in an MSA,not in an MSA,49,Utah,6586,"$92,394 ","$109,675 ",0.8424,7.95%,OZ ineligible,Rural,28.7,#N/A,#N/A
+49005000301,Census Tract 3.01,Cache County,30860,"Logan, UT-ID Metro Area",49,Utah,2282,"$99,044 ","$93,523 ",1.059,2.76%,OZ ineligible,Rural,32.7,#N/A,#N/A
+49005000302,Census Tract 3.02,Cache County,30860,"Logan, UT-ID Metro Area",49,Utah,6764,"$100,252 ","$93,523 ",1.072,10.62%,OZ ineligible,Non-Rural,28.7,#N/A,#N/A
+49021110501,Census Tract 1105.01,Iron County,not in an MSA,not in an MSA,49,Utah,6691,"$56,776 ","$109,675 ",0.5177,33.11%,OZ eligible,Rural,26.9,#N/A,#N/A
+49035111602,Census Tract 1116.02,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4906,"$54,266 ","$116,518 ",0.4657,16.96%,OZ eligible,Non-Rural,30.2,#N/A,#N/A
+49011125306,Census Tract 1253.06,Davis County,36260,"Ogden, UT Metro Area",49,Utah,4851,"$135,446 ","$114,227 ",1.1858,5.65%,OZ ineligible,Non-Rural,36.8,#N/A,#N/A
+49011125307,Census Tract 1253.07,Davis County,36260,"Ogden, UT Metro Area",49,Utah,8853,"$132,787 ","$114,227 ",1.1625,8.38%,OZ ineligible,Non-Rural,32.9,#N/A,#N/A
+49011125407,Census Tract 1254.07,Davis County,36260,"Ogden, UT Metro Area",49,Utah,8390,"$146,048 ","$114,227 ",1.2786,2.08%,OZ ineligible,Non-Rural,39.5,#N/A,#N/A
+49011125408,Census Tract 1254.08,Davis County,36260,"Ogden, UT Metro Area",49,Utah,8085,"$148,242 ","$114,227 ",1.2978,0.57%,OZ ineligible,Non-Rural,32.3,#N/A,#N/A
+49011125409,Census Tract 1254.09,Davis County,36260,"Ogden, UT Metro Area",49,Utah,5551,"$131,726 ","$114,227 ",1.1532,2.87%,OZ ineligible,Non-Rural,28,#N/A,#N/A
+49011125410,Census Tract 1254.10,Davis County,36260,"Ogden, UT Metro Area",49,Utah,3951,"$152,955 ","$114,227 ",1.339,5.69%,OZ ineligible,Non-Rural,36.5,#N/A,#N/A
+49011125411,Census Tract 1254.11,Davis County,36260,"Ogden, UT Metro Area",49,Utah,8905,"$131,782 ","$114,227 ",1.1537,11.66%,OZ ineligible,Non-Rural,27.3,#N/A,#N/A
+49011125412,Census Tract 1254.12,Davis County,36260,"Ogden, UT Metro Area",49,Utah,2607,"$111,250 ","$114,227 ",0.9739,3.05%,OZ ineligible,Non-Rural,28.9,#N/A,#N/A
+49011125413,Census Tract 1254.13,Davis County,36260,"Ogden, UT Metro Area",49,Utah,6200,"$150,804 ","$114,227 ",1.3202,0.81%,OZ ineligible,Non-Rural,33.1,#N/A,#N/A
+49011125414,Census Tract 1254.14,Davis County,36260,"Ogden, UT Metro Area",49,Utah,4835,"$137,596 ","$114,227 ",1.2046,7.46%,OZ ineligible,Non-Rural,26.7,#N/A,#N/A
+49011125415,Census Tract 1254.15,Davis County,36260,"Ogden, UT Metro Area",49,Utah,5700,"$147,539 ","$114,227 ",1.2916,14.70%,OZ ineligible,Non-Rural,30.8,#N/A,#N/A
+49053271101,Census Tract 2711.01,Washington County,41100,"St. George, UT Metro Area",49,Utah,5872,"$54,784 ","$98,356 ",0.557,12.13%,OZ eligible,Non-Rural,29.5,#N/A,#N/A
+49011125809,Census Tract 1258.09,Davis County,36260,"Ogden, UT Metro Area",49,Utah,4985,"$94,015 ","$114,227 ",0.8231,9.53%,OZ ineligible,Non-Rural,24.1,#N/A,#N/A
+49011126106,Census Tract 1261.06,Davis County,36260,"Ogden, UT Metro Area",49,Utah,4191,"$209,643 ","$114,227 ",1.8353,1.19%,OZ ineligible,Non-Rural,30.8,#N/A,#N/A
+49011126107,Census Tract 1261.07,Davis County,36260,"Ogden, UT Metro Area",49,Utah,3640,"$160,927 ","$114,227 ",1.4088,4.09%,OZ ineligible,Non-Rural,35,#N/A,#N/A
+49011126108,Census Tract 1261.08,Davis County,36260,"Ogden, UT Metro Area",49,Utah,6716,"$220,972 ","$114,227 ",1.9345,1.16%,OZ ineligible,Non-Rural,23.8,#N/A,#N/A
+49011126205,Census Tract 1262.05,Davis County,36260,"Ogden, UT Metro Area",49,Utah,6338,"$142,270 ","$114,227 ",1.2455,10.02%,OZ ineligible,Non-Rural,35.7,#N/A,#N/A
+49011126206,Census Tract 1262.06,Davis County,36260,"Ogden, UT Metro Area",49,Utah,7789,"$163,276 ","$114,227 ",1.4294,1.44%,OZ ineligible,Non-Rural,26.9,#N/A,#N/A
+49011127005,Census Tract 1270.05,Davis County,36260,"Ogden, UT Metro Area",49,Utah,4245,"$127,813 ","$114,227 ",1.1189,0.33%,OZ ineligible,Non-Rural,30.8,#N/A,#N/A
+49011127006,Census Tract 1270.06,Davis County,36260,"Ogden, UT Metro Area",49,Utah,4287,"$136,625 ","$114,227 ",1.1961,7.39%,OZ ineligible,Non-Rural,30.7,#N/A,#N/A
+49011980000,Census Tract 9800,Davis County,36260,"Ogden, UT Metro Area",49,Utah,425,not available,"$114,227 ",not available,0%,OZ ineligible,Non-Rural,20.9,#N/A,#N/A
+49013940502,Census Tract 9405.02,Duchesne County,not in an MSA,not in an MSA,49,Utah,5845,"$101,780 ","$109,675 ",0.928,10.28%,OZ ineligible,Rural,29.1,#N/A,#N/A
+49035112621,Census Tract 1126.21,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,6181,"$81,130 ","$116,518 ",0.6963,6.28%,OZ eligible,Non-Rural,30,#N/A,#N/A
+49019000301,Census Tract 3.01,Grand County,not in an MSA,not in an MSA,49,Utah,3029,"$112,218 ","$109,675 ",1.0232,8.55%,OZ ineligible,Rural,44.5,#N/A,#N/A
+49019000302,Census Tract 3.02,Grand County,not in an MSA,not in an MSA,49,Utah,1921,"$99,957 ","$109,675 ",0.9114,5.56%,OZ ineligible,Rural,43.5,#N/A,#N/A
+49021110201,Census Tract 1102.01,Iron County,not in an MSA,not in an MSA,49,Utah,5487,"$79,274 ","$109,675 ",0.7228,0.77%,OZ ineligible,Rural,25.9,#N/A,#N/A
+49021110202,Census Tract 1102.02,Iron County,not in an MSA,not in an MSA,49,Utah,5983,"$92,219 ","$109,675 ",0.8408,4.09%,OZ ineligible,Rural,33.6,#N/A,#N/A
+49021110703,Census Tract 1107.03,Iron County,not in an MSA,not in an MSA,49,Utah,4698,"$129,531 ","$109,675 ",1.181,2.55%,OZ ineligible,Rural,38.1,#N/A,#N/A
+49029970101,Census Tract 9701.01,Morgan County,36260,"Ogden, UT Metro Area",49,Utah,6706,"$149,076 ","$114,227 ",1.3051,0.78%,OZ ineligible,Rural,33.6,#N/A,#N/A
+49029970102,Census Tract 9701.02,Morgan County,36260,"Ogden, UT Metro Area",49,Utah,4174,"$133,021 ","$114,227 ",1.1645,1.70%,OZ ineligible,Rural,29.7,#N/A,#N/A
+49049000511,Census Tract 5.11,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,5198,"$69,679 ","$110,937 ",0.6281,6.14%,OZ eligible,Non-Rural,26.6,#N/A,#N/A
+49035112101,Census Tract 1121.01,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5188,"$69,473 ","$116,518 ",0.5962,10.22%,OZ eligible,Non-Rural,30.6,#N/A,#N/A
+49035113311,Census Tract 1133.11,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3584,"$78,229 ","$116,518 ",0.6714,15.01%,OZ eligible,Non-Rural,34.7,#N/A,#N/A
+49053271501,Census Tract 2715.01,Washington County,41100,"St. George, UT Metro Area",49,Utah,4831,"$69,974 ","$98,356 ",0.7114,22.20%,OZ eligible,Non-Rural,34.9,#N/A,#N/A
+49021110602,Census Tract 1106.02,Iron County,not in an MSA,not in an MSA,49,Utah,4824,"$66,563 ","$109,675 ",0.6069,10.41%,OZ eligible,Rural,28.9,#N/A,#N/A
+49035102501,Census Tract 1025.01,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3255,"$113,182 ","$116,518 ",0.9714,13.79%,OZ ineligible,Non-Rural,31.5,#N/A,#N/A
+49035102502,Census Tract 1025.02,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,1933,"$163,317 ","$116,518 ",1.4016,20.80%,OZ ineligible,Non-Rural,31.8,#N/A,#N/A
+49021110502,Census Tract 1105.02,Iron County,not in an MSA,not in an MSA,49,Utah,5246,"$78,348 ","$109,675 ",0.7144,25.94%,OZ eligible,Rural,26.4,#N/A,#N/A
+49035110105,Census Tract 1101.05,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,2021,"$184,583 ","$116,518 ",1.5842,5.20%,OZ ineligible,Non-Rural,45.2,#N/A,#N/A
+49035110106,Census Tract 1101.06,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,2239,"$133,839 ","$116,518 ",1.1487,14.98%,OZ ineligible,Non-Rural,42.7,#N/A,#N/A
+49035111104,Census Tract 1111.04,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,2772,"$110,536 ","$116,518 ",0.9487,6.33%,OZ ineligible,Non-Rural,38.5,#N/A,#N/A
+49035111106,Census Tract 1111.06,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3455,"$114,671 ","$116,518 ",0.9841,4.98%,OZ ineligible,Non-Rural,40.2,#N/A,#N/A
+49035111107,Census Tract 1111.07,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3001,"$150,272 ","$116,518 ",1.2897,8.13%,OZ ineligible,Non-Rural,34.8,#N/A,#N/A
+49035111108,Census Tract 1111.08,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,2992,"$137,404 ","$116,518 ",1.1793,8.69%,OZ ineligible,Non-Rural,48.5,#N/A,#N/A
+49035111109,Census Tract 1111.09,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,2833,"$162,188 ","$116,518 ",1.392,2.82%,OZ ineligible,Non-Rural,50.6,#N/A,#N/A
+49039972101,Census Tract 9721.01,Sanpete County,not in an MSA,not in an MSA,49,Utah,4770,"$75,488 ","$109,675 ",0.6883,19.66%,OZ eligible,Rural,35.5,#N/A,#N/A
+49035111601,Census Tract 1116.01,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4733,"$60,690 ","$116,518 ",0.5209,14.36%,OZ eligible,Non-Rural,31.7,#N/A,#N/A
+49035112102,Census Tract 1121.02,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4454,"$129,179 ","$116,518 ",1.1087,4.05%,OZ ineligible,Non-Rural,33.1,#N/A,#N/A
+49035101402,Census Tract 1014.02,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4302,"$54,167 ","$116,518 ",0.4649,29.15%,OZ eligible,Non-Rural,20.7,#N/A,#N/A
+49035112405,Census Tract 1124.05,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5611,"$90,891 ","$116,518 ",0.7801,11.18%,OZ ineligible,Non-Rural,31.8,#N/A,#N/A
+49035112504,Census Tract 1125.04,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,2972,"$111,932 ","$116,518 ",0.9606,12.28%,OZ ineligible,Non-Rural,37.2,#N/A,#N/A
+49035112505,Census Tract 1125.05,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4076,"$85,320 ","$116,518 ",0.7322,7.24%,OZ ineligible,Non-Rural,32.7,#N/A,#N/A
+49035112620,Census Tract 1126.20,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,2958,"$106,750 ","$116,518 ",0.9162,2.10%,OZ ineligible,Non-Rural,34.5,#N/A,#N/A
+49005000601,Census Tract 6.01,Cache County,30860,"Logan, UT-ID Metro Area",49,Utah,3905,"$68,274 ","$93,523 ",0.73,46.82%,OZ eligible,Non-Rural,21.7,#N/A,#N/A
+49035112824,Census Tract 1128.24,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5300,"$110,545 ","$116,518 ",0.9487,6%,OZ ineligible,Non-Rural,32.7,#N/A,#N/A
+49035112825,Census Tract 1128.25,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,6234,"$122,866 ","$116,518 ",1.0545,13.53%,OZ ineligible,Non-Rural,29.9,#N/A,#N/A
+49035112826,Census Tract 1128.26,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5513,"$185,673 ","$116,518 ",1.5935,2.53%,OZ ineligible,Non-Rural,39.4,#N/A,#N/A
+49035112827,Census Tract 1128.27,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,11981,"$126,341 ","$116,518 ",1.0843,3.70%,OZ ineligible,Non-Rural,29.5,#N/A,#N/A
+49035112828,Census Tract 1128.28,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4839,"$193,558 ","$116,518 ",1.6612,2.29%,OZ ineligible,Non-Rural,38.2,#N/A,#N/A
+49035112829,Census Tract 1128.29,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3252,"$104,511 ","$116,518 ",0.897,3.85%,OZ ineligible,Non-Rural,28.3,#N/A,#N/A
+49035112830,Census Tract 1128.30,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4853,"$128,750 ","$116,518 ",1.105,6.50%,OZ ineligible,Non-Rural,40.3,#N/A,#N/A
+49035112831,Census Tract 1128.31,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4387,"$193,056 ","$116,518 ",1.6569,9.85%,OZ ineligible,Non-Rural,30.7,#N/A,#N/A
+49035113021,Census Tract 1130.21,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,6345,"$138,676 ","$116,518 ",1.1902,0.59%,OZ ineligible,Non-Rural,35,#N/A,#N/A
+49035113022,Census Tract 1130.22,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,7809,"$164,727 ","$116,518 ",1.4137,6.95%,OZ ineligible,Non-Rural,37.9,#N/A,#N/A
+49035113023,Census Tract 1130.23,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,6712,"$137,615 ","$116,518 ",1.1811,1.39%,OZ ineligible,Non-Rural,32.3,#N/A,#N/A
+49035113024,Census Tract 1130.24,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5257,"$188,073 ","$116,518 ",1.6141,4.61%,OZ ineligible,Non-Rural,38.6,#N/A,#N/A
+49035113025,Census Tract 1130.25,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5173,"$129,135 ","$116,518 ",1.1083,1.73%,OZ ineligible,Non-Rural,30,#N/A,#N/A
+49035113109,Census Tract 1131.09,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4883,"$183,173 ","$116,518 ",1.5721,3.95%,OZ ineligible,Non-Rural,30.4,#N/A,#N/A
+49035113110,Census Tract 1131.10,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4993,"$116,125 ","$116,518 ",0.9966,9.91%,OZ ineligible,Non-Rural,29,#N/A,#N/A
+49035113111,Census Tract 1131.11,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4669,"$107,459 ","$116,518 ",0.9223,3.86%,OZ ineligible,Non-Rural,31.8,#N/A,#N/A
+49035113112,Census Tract 1131.12,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4110,"$160,185 ","$116,518 ",1.3748,3.46%,OZ ineligible,Non-Rural,30.5,#N/A,#N/A
+49035113113,Census Tract 1131.13,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,10966,"$132,639 ","$116,518 ",1.1384,1.67%,OZ ineligible,Non-Rural,29.3,#N/A,#N/A
+49035113114,Census Tract 1131.14,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,11229,"$137,989 ","$116,518 ",1.1843,12.36%,OZ ineligible,Non-Rural,29.4,#N/A,#N/A
+49039972402,Census Tract 9724.02,Sanpete County,not in an MSA,not in an MSA,49,Utah,4474,"$96,851 ","$109,675 ",0.8831,20.23%,OZ eligible,Rural,21.5,#N/A,#N/A
+49035113313,Census Tract 1133.13,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5218,"$88,036 ","$116,518 ",0.7556,9.86%,OZ ineligible,Non-Rural,28.7,#N/A,#N/A
+49005000602,Census Tract 6.02,Cache County,30860,"Logan, UT-ID Metro Area",49,Utah,3707,"$61,797 ","$93,523 ",0.6608,31.16%,OZ eligible,Non-Rural,22.1,#N/A,#N/A
+49035113414,Census Tract 1134.14,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,8352,"$125,101 ","$116,518 ",1.0737,4.18%,OZ ineligible,Non-Rural,24.3,#N/A,#N/A
+49035113415,Census Tract 1134.15,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5636,"$99,129 ","$116,518 ",0.8508,12.38%,OZ ineligible,Non-Rural,34.1,#N/A,#N/A
+49049001404,Census Tract 14.04,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,4083,"$47,054 ","$110,937 ",0.4242,29.20%,OZ eligible,Non-Rural,23.8,#N/A,#N/A
+49045131102,Census Tract 1311.02,Tooele County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4403,"$73,357 ","$116,518 ",0.6296,9.97%,OZ eligible,Rural,34.9,#N/A,#N/A
+49035113540,Census Tract 1135.40,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5855,"$114,408 ","$116,518 ",0.9819,2.94%,OZ ineligible,Non-Rural,30.2,#N/A,#N/A
+49035113541,Census Tract 1135.41,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,2498,"$139,423 ","$116,518 ",1.1966,1.36%,OZ ineligible,Non-Rural,31.1,#N/A,#N/A
+49035113542,Census Tract 1135.42,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4269,"$128,547 ","$116,518 ",1.1032,0.35%,OZ ineligible,Non-Rural,33.1,#N/A,#N/A
+49035113543,Census Tract 1135.43,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4108,"$133,224 ","$116,518 ",1.1434,2.99%,OZ ineligible,Non-Rural,39.2,#N/A,#N/A
+49035113544,Census Tract 1135.44,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4304,"$121,023 ","$116,518 ",1.0387,4.71%,OZ ineligible,Non-Rural,31.3,#N/A,#N/A
+49035113545,Census Tract 1135.45,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3258,"$113,935 ","$116,518 ",0.9778,4.02%,OZ ineligible,Non-Rural,31.9,#N/A,#N/A
+49021110704,Census Tract 1107.04,Iron County,not in an MSA,not in an MSA,49,Utah,3900,"$79,159 ","$109,675 ",0.7218,23.45%,OZ eligible,Rural,31.2,#N/A,#N/A
+49035113804,Census Tract 1138.04,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4883,"$120,924 ","$116,518 ",1.0378,4.77%,OZ ineligible,Non-Rural,32.8,#N/A,#N/A
+49035113805,Census Tract 1138.05,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4266,"$105,682 ","$116,518 ",0.907,4.39%,OZ ineligible,Non-Rural,28,#N/A,#N/A
+49049002209,Census Tract 22.09,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,4685,"$62,713 ","$110,937 ",0.5653,15.05%,OZ eligible,Non-Rural,24.5,#N/A,#N/A
+49035113908,Census Tract 1139.08,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5153,"$101,875 ","$116,518 ",0.8743,8.56%,OZ ineligible,Non-Rural,31.3,#N/A,#N/A
+49035113909,Census Tract 1139.09,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5711,"$141,598 ","$116,518 ",1.2152,11.08%,OZ ineligible,Non-Rural,30.2,#N/A,#N/A
+49035114301,Census Tract 1143.01,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5159,"$92,804 ","$116,518 ",0.7965,10.62%,OZ ineligible,Non-Rural,30.6,#N/A,#N/A
+49035114302,Census Tract 1143.02,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,2654,"$108,859 ","$116,518 ",0.9343,15.87%,OZ ineligible,Non-Rural,29,#N/A,#N/A
+49035114303,Census Tract 1143.03,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,10195,"$165,976 ","$116,518 ",1.4245,2.14%,OZ ineligible,Non-Rural,31.1,#N/A,#N/A
+49035114304,Census Tract 1143.04,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,7206,"$109,702 ","$116,518 ",0.9415,1.18%,OZ ineligible,Non-Rural,29.2,#N/A,#N/A
+49035114601,Census Tract 1146.01,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5217,"$122,667 ","$116,518 ",1.0528,5.25%,OZ ineligible,Non-Rural,40.7,#N/A,#N/A
+49035114602,Census Tract 1146.02,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,2399,"$113,239 ","$116,518 ",0.9719,4%,OZ ineligible,Non-Rural,49.2,#N/A,#N/A
+49035113312,Census Tract 1133.12,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3285,"$70,278 ","$116,518 ",0.6032,24.54%,OZ eligible,Non-Rural,29,#N/A,#N/A
+49035115107,Census Tract 1151.07,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,6208,"$165,179 ","$116,518 ",1.4176,2.68%,OZ ineligible,Non-Rural,30.2,#N/A,#N/A
+49035115108,Census Tract 1151.08,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,7775,"$140,296 ","$116,518 ",1.2041,2.08%,OZ ineligible,Non-Rural,32.2,#N/A,#N/A
+49035115109,Census Tract 1151.09,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,9591,"$106,502 ","$116,518 ",0.914,6.43%,OZ ineligible,Non-Rural,28.2,#N/A,#N/A
+49035115210,Census Tract 1152.10,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,9924,"$150,357 ","$116,518 ",1.2904,3.67%,OZ ineligible,Non-Rural,32.1,#N/A,#N/A
+49035115211,Census Tract 1152.11,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,9866,"$137,180 ","$116,518 ",1.1773,7.44%,OZ ineligible,Non-Rural,30,#N/A,#N/A
+49035980000,Census Tract 9800,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,19,not available,"$116,518 ",not available,0%,OZ ineligible,Non-Rural,72.5,0,#DIV/0!
+49035111105,Census Tract 1111.05,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3288,"$66,727 ","$116,518 ",0.5727,6.78%,OZ eligible,Non-Rural,50.1,#N/A,#N/A
+49045131003,Census Tract 1310.03,Tooele County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3781,"$78,984 ","$116,518 ",0.6779,7.46%,OZ eligible,Rural,34.8,#N/A,#N/A
+49047968403,Census Tract 9684.03,Uintah County,not in an MSA,not in an MSA,49,Utah,3447,"$87,050 ","$109,675 ",0.7937,20.32%,OZ eligible,Rural,30,#N/A,#N/A
+49049980300,Census Tract 9803,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,3715,"$49,074 ","$110,937 ",0.4424,33.49%,OZ eligible,Non-Rural,26.3,#N/A,#N/A
+49043964103,Census Tract 9641.03,Summit County,not in an MSA,not in an MSA,49,Utah,2073,"$129,327 ","$109,675 ",1.1792,11.27%,OZ ineligible,Rural,46.2,#N/A,#N/A
+49043964104,Census Tract 9641.04,Summit County,not in an MSA,not in an MSA,49,Utah,2419,"$87,969 ","$109,675 ",0.8021,11.66%,OZ ineligible,Rural,31.9,#N/A,#N/A
+49045130704,Census Tract 1307.04,Tooele County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,7063,"$150,202 ","$116,518 ",1.2891,0.92%,OZ ineligible,Rural,30,#N/A,#N/A
+49045130705,Census Tract 1307.05,Tooele County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,6359,"$126,756 ","$116,518 ",1.0879,3.58%,OZ ineligible,Rural,32.5,#N/A,#N/A
+49045130706,Census Tract 1307.06,Tooele County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,7628,"$124,545 ","$116,518 ",1.0689,4.67%,OZ ineligible,Rural,31.1,#N/A,#N/A
+49045130707,Census Tract 1307.07,Tooele County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4455,"$138,690 ","$116,518 ",1.1903,2.99%,OZ ineligible,Rural,37.8,#N/A,#N/A
+49045130708,Census Tract 1307.08,Tooele County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,7669,"$96,528 ","$116,518 ",0.8284,5.14%,OZ ineligible,Rural,32.1,#N/A,#N/A
+49045131004,Census Tract 1310.04,Tooele County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,3018,"$106,348 ","$116,518 ",0.9127,1.15%,OZ ineligible,Rural,29,#N/A,#N/A
+49045131005,Census Tract 1310.05,Tooele County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,2289,"$104,250 ","$116,518 ",0.8947,4.85%,OZ ineligible,Rural,30.6,#N/A,#N/A
+49045131101,Census Tract 1311.01,Tooele County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,5008,"$117,386 ","$116,518 ",1.0074,9.53%,OZ ineligible,Rural,31.9,#N/A,#N/A
+49047968404,Census Tract 9684.04,Uintah County,not in an MSA,not in an MSA,49,Utah,3903,"$68,300 ","$109,675 ",0.6227,26.37%,OZ eligible,Rural,24.9,#N/A,#N/A
+49047968201,Census Tract 9682.01,Uintah County,not in an MSA,not in an MSA,49,Utah,5023,"$102,283 ","$109,675 ",0.9326,6.35%,OZ ineligible,Rural,37,#N/A,#N/A
+49047968202,Census Tract 9682.02,Uintah County,not in an MSA,not in an MSA,49,Utah,3712,"$100,375 ","$109,675 ",0.9152,8.41%,OZ ineligible,Rural,33.8,#N/A,#N/A
+49039972102,Census Tract 9721.02,Sanpete County,not in an MSA,not in an MSA,49,Utah,3894,"$67,833 ","$109,675 ",0.6185,16.24%,OZ eligible,Rural,40,#N/A,#N/A
+49049000207,Census Tract 2.07,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,2841,"$98,750 ","$110,937 ",0.8901,11.13%,OZ ineligible,Non-Rural,25,#N/A,#N/A
+49049000208,Census Tract 2.08,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,4382,"$102,813 ","$110,937 ",0.9268,13.81%,OZ ineligible,Non-Rural,24.4,#N/A,#N/A
+49049000510,Census Tract 5.10,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,4744,"$84,471 ","$110,937 ",0.7614,8.17%,OZ ineligible,Non-Rural,26.1,#N/A,#N/A
+49011125201,Census Tract 1252.01,Davis County,36260,"Ogden, UT Metro Area",49,Utah,3378,"$69,120 ","$114,227 ",0.6051,1.48%,OZ eligible,Non-Rural,23.3,#N/A,#N/A
+49057200302,Census Tract 2003.02,Weber County,36260,"Ogden, UT Metro Area",49,Utah,3824,"$63,521 ","$114,227 ",0.5561,22.86%,OZ eligible,Non-Rural,27,#N/A,#N/A
+49035112406,Census Tract 1124.06,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,4544,"$71,632 ","$116,518 ",0.6148,14.79%,OZ eligible,Non-Rural,28.6,#N/A,#N/A
+49049002001,Census Tract 20.01,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,3245,"$50,814 ","$110,937 ",0.458,26.51%,OZ eligible,Non-Rural,24.6,#N/A,#N/A
+49049002002,Census Tract 20.02,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,2968,"$69,485 ","$110,937 ",0.6263,7.06%,OZ eligible,Non-Rural,30,#N/A,#N/A
+49049000804,Census Tract 8.04,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,2850,"$76,989 ","$110,937 ",0.694,5.28%,OZ eligible,Non-Rural,33.3,#N/A,#N/A
+49013940501,Census Tract 9405.01,Duchesne County,not in an MSA,not in an MSA,49,Utah,3100,"$76,716 ","$109,675 ",0.6995,19.65%,OZ eligible,Rural,27.6,#N/A,#N/A
+49049002208,Census Tract 22.08,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,7615,"$119,423 ","$110,937 ",1.0765,9.60%,OZ ineligible,Non-Rural,25.9,#N/A,#N/A
+49011125810,Census Tract 1258.10,Davis County,36260,"Ogden, UT Metro Area",49,Utah,2900,"$68,021 ","$114,227 ",0.5955,20.03%,OZ eligible,Non-Rural,29.5,#N/A,#N/A
+49035113314,Census Tract 1133.14,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,2253,"$71,786 ","$116,518 ",0.6161,10.65%,OZ eligible,Non-Rural,30.2,#N/A,#N/A
+49049002212,Census Tract 22.12,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,5968,"$146,016 ","$110,937 ",1.3162,1.58%,OZ ineligible,Non-Rural,26.1,#N/A,#N/A
+49049002213,Census Tract 22.13,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,3673,"$145,625 ","$110,937 ",1.3127,2.85%,OZ ineligible,Non-Rural,32.3,#N/A,#N/A
+49049002703,Census Tract 27.03,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,2513,"$81,917 ","$110,937 ",0.7384,8.56%,OZ ineligible,Non-Rural,26.9,#N/A,#N/A
+49049002210,Census Tract 22.10,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,2398,"$68,738 ","$110,937 ",0.6196,33.98%,OZ eligible,Non-Rural,22.7,#N/A,#N/A
+49049003301,Census Tract 33.01,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,3773,"$99,375 ","$110,937 ",0.8958,8.90%,OZ ineligible,Non-Rural,28.7,#N/A,#N/A
+49049003302,Census Tract 33.02,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,3381,"$92,336 ","$110,937 ",0.8323,7.36%,OZ ineligible,Non-Rural,26,#N/A,#N/A
+49049003404,Census Tract 34.04,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,2075,"$109,914 ","$110,937 ",0.9908,5.08%,OZ ineligible,Rural,31,#N/A,#N/A
+49049003405,Census Tract 34.05,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,4721,"$114,146 ","$110,937 ",1.0289,2.71%,OZ ineligible,Rural,24.4,#N/A,#N/A
+49049010114,Census Tract 101.14,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,8743,"$106,508 ","$110,937 ",0.9601,2.17%,OZ ineligible,Non-Rural,24.9,#N/A,#N/A
+49049010115,Census Tract 101.15,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,4676,"$108,090 ","$110,937 ",0.9743,1.69%,OZ ineligible,Non-Rural,26.2,#N/A,#N/A
+49049010116,Census Tract 101.16,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,7276,"$145,983 ","$110,937 ",1.3159,4.48%,OZ ineligible,Non-Rural,27.4,#N/A,#N/A
+49049010117,Census Tract 101.17,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,4233,"$133,523 ","$110,937 ",1.2036,0.87%,OZ ineligible,Non-Rural,21.1,#N/A,#N/A
+49049010118,Census Tract 101.18,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,6121,"$133,262 ","$110,937 ",1.2012,3.56%,OZ ineligible,Non-Rural,28.4,#N/A,#N/A
+49049010119,Census Tract 101.19,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,2985,"$94,714 ","$110,937 ",0.8538,5.80%,OZ ineligible,Non-Rural,23.5,#N/A,#N/A
+49049010120,Census Tract 101.20,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,12610,"$114,712 ","$110,937 ",1.034,3.62%,OZ ineligible,Non-Rural,23.4,#N/A,#N/A
+49049010121,Census Tract 101.21,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,13474,"$121,611 ","$110,937 ",1.0962,2.37%,OZ ineligible,Non-Rural,22.4,#N/A,#N/A
+49049010122,Census Tract 101.22,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,9847,"$127,639 ","$110,937 ",1.1506,4.26%,OZ ineligible,Non-Rural,19.2,#N/A,#N/A
+49049010123,Census Tract 101.23,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,9755,"$128,667 ","$110,937 ",1.1598,7.66%,OZ ineligible,Non-Rural,21.9,#N/A,#N/A
+49049010124,Census Tract 101.24,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,8295,"$106,612 ","$110,937 ",0.961,6.02%,OZ ineligible,Non-Rural,27.3,#N/A,#N/A
+49049010125,Census Tract 101.25,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,5120,"$123,125 ","$110,937 ",1.1099,7.56%,OZ ineligible,Non-Rural,22.2,#N/A,#N/A
+49049010126,Census Tract 101.26,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,4334,"$103,017 ","$110,937 ",0.9286,11.96%,OZ ineligible,Non-Rural,26.4,#N/A,#N/A
+49049010127,Census Tract 101.27,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,7260,"$140,268 ","$110,937 ",1.2644,2.39%,OZ ineligible,Non-Rural,27.3,#N/A,#N/A
+49049010128,Census Tract 101.28,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,4240,"$116,196 ","$110,937 ",1.0474,13.09%,OZ ineligible,Non-Rural,24.7,#N/A,#N/A
+49049010129,Census Tract 101.29,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,6757,"$158,438 ","$110,937 ",1.4282,4.37%,OZ ineligible,Non-Rural,24.8,#N/A,#N/A
+49049010130,Census Tract 101.30,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,4188,"$146,549 ","$110,937 ",1.321,1.53%,OZ ineligible,Non-Rural,25.2,#N/A,#N/A
+49049010131,Census Tract 101.31,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,7425,"$114,189 ","$110,937 ",1.0293,3.14%,OZ ineligible,Non-Rural,26,#N/A,#N/A
+49049010132,Census Tract 101.32,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,5845,"$154,231 ","$110,937 ",1.3903,2.19%,OZ ineligible,Non-Rural,23.3,#N/A,#N/A
+49049010221,Census Tract 102.21,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,2539,"$129,757 ","$110,937 ",1.1696,6.62%,OZ ineligible,Non-Rural,27.8,#N/A,#N/A
+49049010222,Census Tract 102.22,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,8626,"$171,546 ","$110,937 ",1.5463,3.17%,OZ ineligible,Non-Rural,22.9,#N/A,#N/A
+49049010223,Census Tract 102.23,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,2100,"$174,107 ","$110,937 ",1.5694,0.76%,OZ ineligible,Non-Rural,23.9,#N/A,#N/A
+49049010224,Census Tract 102.24,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,3743,"$186,125 ","$110,937 ",1.6778,4.52%,OZ ineligible,Non-Rural,27.3,#N/A,#N/A
+49049010225,Census Tract 102.25,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,3544,"$154,205 ","$110,937 ",1.39,4.01%,OZ ineligible,Non-Rural,28.4,#N/A,#N/A
+49049010226,Census Tract 102.26,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,3940,"$144,125 ","$110,937 ",1.2992,0.61%,OZ ineligible,Non-Rural,28.2,#N/A,#N/A
+49049010306,Census Tract 103.06,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,2572,"$87,214 ","$110,937 ",0.7862,3.34%,OZ ineligible,Non-Rural,27.9,#N/A,#N/A
+49049010307,Census Tract 103.07,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,6739,"$135,677 ","$110,937 ",1.223,6.09%,OZ ineligible,Non-Rural,23.2,#N/A,#N/A
+49049010308,Census Tract 103.08,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,6629,"$126,721 ","$110,937 ",1.1423,5.93%,OZ ineligible,Non-Rural,29.2,#N/A,#N/A
+49049000803,Census Tract 8.03,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,2877,"$98,750 ","$110,937 ",0.8901,24.01%,OZ eligible,Non-Rural,23.2,#N/A,#N/A
+49049980400,Census Tract 9804,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,240,not available,"$110,937 ",not available,0%,OZ ineligible,Non-Rural,37,#N/A,#N/A
+49051940501,Census Tract 9405.01,Wasatch County,not in an MSA,not in an MSA,49,Utah,4303,"$192,857 ","$109,675 ",1.7584,9.46%,OZ ineligible,Rural,49.4,#N/A,#N/A
+49051960201,Census Tract 9602.01,Wasatch County,not in an MSA,not in an MSA,49,Utah,4916,"$84,343 ","$109,675 ",0.769,5.16%,OZ ineligible,Rural,24.4,#N/A,#N/A
+49051960202,Census Tract 9602.02,Wasatch County,not in an MSA,not in an MSA,49,Utah,4870,"$120,208 ","$109,675 ",1.096,4.02%,OZ ineligible,Rural,38.6,#N/A,#N/A
+49051960203,Census Tract 9602.03,Wasatch County,not in an MSA,not in an MSA,49,Utah,4654,"$89,834 ","$109,675 ",0.8191,3.47%,OZ ineligible,Rural,39.5,#N/A,#N/A
+49051960204,Census Tract 9602.04,Wasatch County,not in an MSA,not in an MSA,49,Utah,4350,"$112,679 ","$109,675 ",1.0274,5.66%,OZ ineligible,Rural,27.2,#N/A,#N/A
+49051960401,Census Tract 9604.01,Wasatch County,not in an MSA,not in an MSA,49,Utah,2894,"$145,865 ","$109,675 ",1.33,3.38%,OZ ineligible,Rural,37,#N/A,#N/A
+49051960402,Census Tract 9604.02,Wasatch County,not in an MSA,not in an MSA,49,Utah,4340,"$198,523 ","$109,675 ",1.8101,1.42%,OZ ineligible,Rural,41.7,#N/A,#N/A
+49051960500,Census Tract 9605,Wasatch County,not in an MSA,not in an MSA,49,Utah,903,"$160,283 ","$109,675 ",1.4614,2.99%,OZ ineligible,Rural,48.3,#N/A,#N/A
+49053270101,Census Tract 2701.01,Washington County,41100,"St. George, UT Metro Area",49,Utah,4796,"$105,000 ","$98,356 ",1.0676,5.63%,OZ ineligible,Rural,43.6,#N/A,#N/A
+49053270102,Census Tract 2701.02,Washington County,41100,"St. George, UT Metro Area",49,Utah,4076,"$91,842 ","$98,356 ",0.9338,17.49%,OZ ineligible,Rural,38.5,#N/A,#N/A
+49053270301,Census Tract 2703.01,Washington County,41100,"St. George, UT Metro Area",49,Utah,7081,"$106,434 ","$98,356 ",1.0821,18.02%,OZ ineligible,Non-Rural,30,#N/A,#N/A
+49053270302,Census Tract 2703.02,Washington County,41100,"St. George, UT Metro Area",49,Utah,2514,"$102,054 ","$98,356 ",1.0376,15.39%,OZ ineligible,Non-Rural,68,#N/A,#N/A
+49053270401,Census Tract 2704.01,Washington County,41100,"St. George, UT Metro Area",49,Utah,7820,"$84,006 ","$98,356 ",0.8541,13.59%,OZ ineligible,Non-Rural,34.4,#N/A,#N/A
+49053270402,Census Tract 2704.02,Washington County,41100,"St. George, UT Metro Area",49,Utah,3030,"$122,500 ","$98,356 ",1.2455,7.53%,OZ ineligible,Non-Rural,61.7,#N/A,#N/A
+49053270501,Census Tract 2705.01,Washington County,41100,"St. George, UT Metro Area",49,Utah,2825,"$98,750 ","$98,356 ",1.004,3.79%,OZ ineligible,Non-Rural,41.2,#N/A,#N/A
+49053270502,Census Tract 2705.02,Washington County,41100,"St. George, UT Metro Area",49,Utah,5944,"$114,375 ","$98,356 ",1.1629,2.07%,OZ ineligible,Non-Rural,37.2,#N/A,#N/A
+49053270601,Census Tract 2706.01,Washington County,41100,"St. George, UT Metro Area",49,Utah,7661,"$74,860 ","$98,356 ",0.7611,7.11%,OZ ineligible,Non-Rural,54.1,#N/A,#N/A
+49053270602,Census Tract 2706.02,Washington County,41100,"St. George, UT Metro Area",49,Utah,2348,"$108,333 ","$98,356 ",1.1014,4.81%,OZ ineligible,Non-Rural,44.3,#N/A,#N/A
+49053270701,Census Tract 2707.01,Washington County,41100,"St. George, UT Metro Area",49,Utah,6629,"$71,829 ","$98,356 ",0.7303,13.64%,OZ ineligible,Non-Rural,29.8,#N/A,#N/A
+49053270702,Census Tract 2707.02,Washington County,41100,"St. George, UT Metro Area",49,Utah,5392,"$80,647 ","$98,356 ",0.8199,13.62%,OZ ineligible,Non-Rural,51.6,#N/A,#N/A
+49053270803,Census Tract 2708.03,Washington County,41100,"St. George, UT Metro Area",49,Utah,6543,"$123,095 ","$98,356 ",1.2515,5.34%,OZ ineligible,Non-Rural,38.1,#N/A,#N/A
+49053270804,Census Tract 2708.04,Washington County,41100,"St. George, UT Metro Area",49,Utah,6109,"$126,578 ","$98,356 ",1.2869,2.23%,OZ ineligible,Non-Rural,33.8,#N/A,#N/A
+49053270805,Census Tract 2708.05,Washington County,41100,"St. George, UT Metro Area",49,Utah,7018,"$72,085 ","$98,356 ",0.7329,7.57%,OZ ineligible,Non-Rural,35.8,#N/A,#N/A
+49053270806,Census Tract 2708.06,Washington County,41100,"St. George, UT Metro Area",49,Utah,2602,"$123,065 ","$98,356 ",1.2512,4.07%,OZ ineligible,Non-Rural,50.5,#N/A,#N/A
+49053270903,Census Tract 2709.03,Washington County,41100,"St. George, UT Metro Area",49,Utah,3737,"$76,935 ","$98,356 ",0.7822,9.43%,OZ ineligible,Rural,36.4,#N/A,#N/A
+49053270904,Census Tract 2709.04,Washington County,41100,"St. George, UT Metro Area",49,Utah,6251,"$73,242 ","$98,356 ",0.7447,9.33%,OZ ineligible,Non-Rural,58.4,#N/A,#N/A
+49053270905,Census Tract 2709.05,Washington County,41100,"St. George, UT Metro Area",49,Utah,8234,"$104,180 ","$98,356 ",1.0592,7.31%,OZ ineligible,Non-Rural,38.7,#N/A,#N/A
+49053271102,Census Tract 2711.02,Washington County,41100,"St. George, UT Metro Area",49,Utah,6691,"$91,198 ","$98,356 ",0.9272,18.06%,OZ ineligible,Non-Rural,34.8,#N/A,#N/A
+49049001403,Census Tract 14.03,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,2301,"$71,458 ","$110,937 ",0.6441,24.11%,OZ eligible,Non-Rural,23,#N/A,#N/A
+49035101401,Census Tract 1014.01,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,2678,"$52,500 ","$116,518 ",0.4506,27.97%,OZ eligible,Non-Rural,22.8,#N/A,#N/A
+49053271502,Census Tract 2715.02,Washington County,41100,"St. George, UT Metro Area",49,Utah,3351,"$121,250 ","$98,356 ",1.2328,6.79%,OZ ineligible,Non-Rural,44.6,#N/A,#N/A
+49053271703,Census Tract 2717.03,Washington County,41100,"St. George, UT Metro Area",49,Utah,7393,"$150,117 ","$98,356 ",1.5263,5.28%,OZ ineligible,Non-Rural,43.1,#N/A,#N/A
+49053271704,Census Tract 2717.04,Washington County,41100,"St. George, UT Metro Area",49,Utah,3543,"$98,313 ","$98,356 ",0.9996,8.66%,OZ ineligible,Non-Rural,42.1,#N/A,#N/A
+49049002211,Census Tract 22.11,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,2167,"$62,181 ","$110,937 ",0.5605,16.21%,OZ eligible,Non-Rural,23.8,#N/A,#N/A
+49057200301,Census Tract 2003.01,Weber County,36260,"Ogden, UT Metro Area",49,Utah,4411,"$84,981 ","$114,227 ",0.744,10.43%,OZ ineligible,Non-Rural,33.7,#N/A,#N/A
+49049980200,Census Tract 9802,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,2525,"$29,320 ","$110,937 ",0.2643,36.83%,OZ eligible,Non-Rural,23.3,#N/A,#N/A
+49021110601,Census Tract 1106.01,Iron County,not in an MSA,not in an MSA,49,Utah,2947,"$44,274 ","$109,675 ",0.4037,30.94%,OZ eligible,Rural,23.7,#N/A,#N/A
+49039972401,Census Tract 9724.01,Sanpete County,not in an MSA,not in an MSA,49,Utah,1819,"$66,325 ","$109,675 ",0.6047,7.69%,OZ eligible,Rural,25.4,#N/A,#N/A
+49049980500,Census Tract 9805,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,2127,"$53,889 ","$110,937 ",0.4858,26.34%,OZ eligible,Non-Rural,24.2,#N/A,#N/A
+49051980100,Census Tract 9801,Wasatch County,not in an MSA,not in an MSA,49,Utah,not available,not available,"$109,675 ",not available,not available,insufficient information,Rural,-,#N/A,#VALUE!
+49035980100,Census Tract 9801,Salt Lake County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,not available,not available,"$116,518 ",not available,not available,insufficient information,Non-Rural,-,#N/A,#VALUE!
+49057210101,Census Tract 2101.01,Weber County,36260,"Ogden, UT Metro Area",49,Utah,4036,"$148,516 ","$114,227 ",1.3002,5.15%,OZ ineligible,Non-Rural,45.7,#N/A,#N/A
+49057210102,Census Tract 2101.02,Weber County,36260,"Ogden, UT Metro Area",49,Utah,4617,"$134,712 ","$114,227 ",1.1793,2.33%,OZ ineligible,Rural,45.1,#N/A,#N/A
+49057210305,Census Tract 2103.05,Weber County,36260,"Ogden, UT Metro Area",49,Utah,5287,"$100,132 ","$114,227 ",0.8766,9.03%,OZ ineligible,Non-Rural,32.8,#N/A,#N/A
+49057210306,Census Tract 2103.06,Weber County,36260,"Ogden, UT Metro Area",49,Utah,6035,"$107,983 ","$114,227 ",0.9453,1.66%,OZ ineligible,Non-Rural,30.2,#N/A,#N/A
+49057210405,Census Tract 2104.05,Weber County,36260,"Ogden, UT Metro Area",49,Utah,3881,"$131,207 ","$114,227 ",1.1487,9.76%,OZ ineligible,Non-Rural,35.2,#N/A,#N/A
+49057210406,Census Tract 2104.06,Weber County,36260,"Ogden, UT Metro Area",49,Utah,5640,"$135,769 ","$114,227 ",1.1886,1.03%,OZ ineligible,Non-Rural,35.4,#N/A,#N/A
+49057210407,Census Tract 2104.07,Weber County,36260,"Ogden, UT Metro Area",49,Utah,7558,"$130,417 ","$114,227 ",1.1417,3.86%,OZ ineligible,Non-Rural,36.5,#N/A,#N/A
+49057210408,Census Tract 2104.08,Weber County,36260,"Ogden, UT Metro Area",49,Utah,3252,"$118,722 ","$114,227 ",1.0394,1.45%,OZ ineligible,Non-Rural,49.3,#N/A,#N/A
+49045980000,Census Tract 9800,Tooele County,41620,"Salt Lake City-Murray, UT Metro Area",49,Utah,not available,not available,"$116,518 ",not available,not available,insufficient information,Rural,-,0,#VALUE!
+49057210513,Census Tract 2105.13,Weber County,36260,"Ogden, UT Metro Area",49,Utah,6589,"$97,250 ","$114,227 ",0.8514,5.13%,OZ ineligible,Non-Rural,30.2,#N/A,#N/A
+49057210514,Census Tract 2105.14,Weber County,36260,"Ogden, UT Metro Area",49,Utah,6071,"$94,850 ","$114,227 ",0.8304,9.64%,OZ ineligible,Non-Rural,31.3,#N/A,#N/A
+49057210515,Census Tract 2105.15,Weber County,36260,"Ogden, UT Metro Area",49,Utah,4875,"$134,125 ","$114,227 ",1.1742,1.27%,OZ ineligible,Non-Rural,35.8,#N/A,#N/A
+49057210516,Census Tract 2105.16,Weber County,36260,"Ogden, UT Metro Area",49,Utah,6205,"$121,125 ","$114,227 ",1.0604,6.40%,OZ ineligible,Non-Rural,38.2,#N/A,#N/A
+49057210517,Census Tract 2105.17,Weber County,36260,"Ogden, UT Metro Area",49,Utah,5535,"$129,830 ","$114,227 ",1.1366,3.30%,OZ ineligible,Non-Rural,31.9,#N/A,#N/A
+49057210518,Census Tract 2105.18,Weber County,36260,"Ogden, UT Metro Area",49,Utah,10395,"$110,422 ","$114,227 ",0.9667,6.10%,OZ ineligible,Non-Rural,28.4,#N/A,#N/A
+49049980100,Census Tract 9801,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,not available,not available,"$110,937 ",not available,not available,insufficient information,Non-Rural,-,0,#VALUE!
+49049980600,Census Tract 9806,Utah County,39340,"Provo-Orem-Lehi, UT Metro Area",49,Utah,not available,not available,"$110,937 ",not available,not available,insufficient information,Non-Rural,-,#N/A,#VALUE!
